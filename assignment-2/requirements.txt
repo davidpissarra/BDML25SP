@@ -1,0 +1,12 @@
+accelerate==1.4.0
+bitsandbytes==0.45.3
+datasets==3.3.2
+numpy==2.2.2
+peft==0.14.0
+PyPDF2==3.0.1
+safetensors==0.5.3
+sentencepiece==0.2.0
+tokenizers==0.21.0
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.49.0
