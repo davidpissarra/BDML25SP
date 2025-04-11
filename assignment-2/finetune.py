@@ -7,10 +7,10 @@ import gc
 from torch.utils.data import DataLoader
 
 
-BASE_DIR = "/scratch/ddp8196/BDML25SP/"
+BASE_DIR = "/home/ddp8196/BDML25SP/"
 MODEL_NAME = BASE_DIR + "Llama-3.2-3B"
-TRAIN_DS_FOLDER = BASE_DIR + "lab2/dataset_txt_small/train/"
-TEST_DS_FOLDER = BASE_DIR + "lab2/dataset_txt_small/test/"
+TRAIN_DS_FOLDER = BASE_DIR + "dataset_txt_small/train/"
+TEST_DS_FOLDER = BASE_DIR + "dataset_txt_small/test/"
 DEVICE = "cuda:0"
 IGNORE_INDEX = -100
 ATTN_IGNORE_INDEX = 0
@@ -19,9 +19,9 @@ ATTN_IGNORE_INDEX = 0
 BATCH_SIZE = 2  # batch size
 GA_STEPS = 8  # gradient acc. steps
 EPOCHS = 10
-LR = 3e-4
+LR = 1e-5
 
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, torch_dtype=torch.float16).to(DEVICE)
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, torch_dtype=torch.bfloat16).to(DEVICE)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 tokenizer.pad_token = tokenizer.eos_token
 
@@ -93,7 +93,7 @@ def train():
     )
 
     # training loop
-    optimizer = torch.optim.SGD(model.parameters(), lr=LR)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=LR)
 
     model.train()
     for epoch in range(EPOCHS):
@@ -120,10 +120,10 @@ def train():
         torch.cuda.empty_cache()
         gc.collect()
 
-        # Save the model after every epoch
-        output_dir = os.path.join(BASE_DIR, "lab2/checkpoints")
-        os.makedirs(output_dir, exist_ok=True)
-        model.save_pretrained(os.path.join(output_dir, f"epoch_{epoch + 1}"))
+    # Save model after all epochs
+    output_dir = os.path.join(BASE_DIR, "lab2/checkpoints")
+    os.makedirs(output_dir, exist_ok=True)
+    model.save_pretrained(os.path.join(output_dir, f"single_gpu_checkpoint_epoch_{EPOCHS}"))
 
 if __name__ == "__main__":
     train()

@@ -1,7 +1,8 @@
 import os
 import torch
 import torch.multiprocessing as mp
-from torch.utils.data.distributed import DistributedSampler
+from torch.distributed.device_mesh import init_device_mesh
+from torch.distributed.tensor.parallel import ColwiseParallel, RowwiseParallel, parallelize_module
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
 from tqdm import tqdm
@@ -9,14 +10,8 @@ import gc
 from torch.utils.data import DataLoader
 
 
-def ddp_setup(rank: int, world_size: int):
-   os.environ["MASTER_ADDR"] = "localhost"
-   os.environ["MASTER_PORT"] = "12355"
-   torch.cuda.set_device(rank)
-   torch.distributed.init_process_group(backend="nccl", rank=rank, world_size=world_size)
-
-def ddp_train(rank, world_size):
-    ddp_setup(rank, world_size)
+def tp_train():
+    TP_MESH = init_device_mesh("cuda", (2,))
 
     BASE_DIR = "/home/ddp8196/BDML25SP/"
     MODEL_PATH = BASE_DIR + "Llama-3.2-3B"
@@ -24,18 +19,28 @@ def ddp_train(rank, world_size):
     TEST_DS_FOLDER = BASE_DIR + "dataset_txt_small/test/"
     IGNORE_INDEX = -100
     ATTN_IGNORE_INDEX = 0
+    DEVICE = "cuda:0"
 
     # Hyperparemeters
     BATCH_SIZE = 1  # batch size
-    GA_STEPS = 16  # gradient acc. steps
+    GA_STEPS = 8  # gradient acc. steps
     EPOCHS = 10
     LR = 1e-5
 
-    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, torch_dtype=torch.bfloat16).to(rank)
-    model.config.use_cache = False
-    model = torch.nn.parallel.DistributedDataParallel(model, device_ids=[rank])
+    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, torch_dtype=torch.bfloat16).to(DEVICE)
     tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
     tokenizer.pad_token = tokenizer.eos_token
+    model.config.use_cache = False
+    tp_spec = {
+        "q_proj": ColwiseParallel(),
+        "k_proj": ColwiseParallel(),
+        "v_proj": ColwiseParallel(),
+        "o_proj": ColwiseParallel(),
+        "gate_proj": ColwiseParallel(),
+        "up_proj": ColwiseParallel(),
+        "down_proj": ColwiseParallel(),
+    }
+    parallelize_module(model, TP_MESH, tp_spec)
 
     # function to tokenize dataset
     def tokenize(ds_element):
@@ -97,23 +102,22 @@ def ddp_train(rank, world_size):
         dataset_tokenized["train"],
         batch_size=BATCH_SIZE,
         collate_fn=collate,
-        sampler=DistributedSampler(dataset_tokenized["train"], num_replicas=world_size, rank=rank, shuffle=True),
+        shuffle=True,
     )
 
     # training loop
-    optimizer = torch.optim.AdamW(model.parameters(), lr=LR)
+    optimizer = torch.optim.SGD(model.parameters(), lr=LR)
 
     model.train()
     for epoch in range(EPOCHS):
         print(f"Epoch {epoch + 1}/{EPOCHS}")
         epoch_loss = 0.0
-        train_dataloader.sampler.set_epoch(epoch)
 
         for step, batch in enumerate(tqdm(train_dataloader)):
-            input_ids = batch["input_ids"].to(rank)
-            attention_mask = batch["attention_mask"].to(rank)
-            labels = batch["labels"].to(rank)
-
+            input_ids = batch["input_ids"].to(DEVICE)
+            attention_mask = batch["attention_mask"].to(DEVICE)
+            labels = batch["labels"].to(DEVICE)
+        
             outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
             loss = outputs.loss
             loss.backward()
@@ -128,15 +132,14 @@ def ddp_train(rank, world_size):
         print(f"Epoch {epoch + 1} Loss: {epoch_loss / steps_per_epoch}")
         torch.cuda.empty_cache()
         gc.collect()
-        
+
     # Save model after all epochs
-    if rank == 0:
-        output_dir = os.path.join(BASE_DIR, "lab2/checkpoints")
-        os.makedirs(output_dir, exist_ok=True)
-        model.module.save_pretrained(os.path.join(output_dir, f"dp_checkpoint_epoch_{EPOCHS}"))
+    output_dir = os.path.join(BASE_DIR, "lab2/checkpoints")
+    os.makedirs(output_dir, exist_ok=True)
+    model.save_pretrained(os.path.join(output_dir, f"tp_checkpoint_epoch_{EPOCHS}"))
     
     torch.distributed.destroy_process_group()
 
+
 if __name__ == "__main__":
-    world_size = torch.cuda.device_count()
-    mp.spawn(ddp_train, args=(world_size,), nprocs=world_size, join=True)
+    tp_train()

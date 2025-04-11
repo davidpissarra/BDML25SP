@@ -2,40 +2,71 @@ import os
 import torch
 import torch.multiprocessing as mp
 from torch.distributed.pipelining import SplitPoint, pipeline, ScheduleGPipe
-from transformers import AutoModelForCausalLM, AutoTokenizer, LlamaForCausalLM
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
 from tqdm import tqdm
 import gc
 from torch.utils.data import DataLoader
+import copy
 
 
-def tp_setup(rank: int, world_size: int):
-   os.environ["MASTER_ADDR"] = "localhost"
-   os.environ["MASTER_PORT"] = "12355"
-   torch.cuda.set_device(rank)
-   torch.distributed.init_process_group(backend="nccl", rank=rank, world_size=world_size)
+device_map = {
+    "model.embed_tokens": 0,
+    "lm_head": 0,
+    "model.layers.0": 0,
+    "model.layers.1": 0,
+    "model.layers.2": 0,
+    "model.layers.3": 0,
+    "model.layers.4": 0,
+    "model.layers.5": 0,
+    "model.layers.6": 0,
+    "model.layers.7": 0,
+    "model.layers.8": 0,
+    "model.layers.9": 0,
+    "model.layers.10": 1,
+    "model.layers.11": 1,
+    "model.layers.12": 1,
+    "model.layers.13": 1,
+    "model.layers.14": 1,
+    "model.layers.15": 1,
+    "model.layers.16": 1,
+    "model.layers.17": 1,
+    "model.layers.18": 1,
+    "model.layers.19": 1,
+    "model.layers.20": 1,
+    "model.layers.21": 1,
+    "model.layers.22": 1,
+    "model.layers.23": 1,
+    "model.layers.24": 1,
+    "model.layers.25": 1,
+    "model.layers.26": 1,
+    "model.layers.27": 1,
+    "model.norm": 1,
+    "model.rotary_emb": 1,
+}
 
-def tp_train(rank, world_size):
-    tp_setup(rank, world_size)
-
-    BASE_DIR = "/scratch/ddp8196/BDML25SP/"
+def pp_train():
+    BASE_DIR = "/home/ddp8196/BDML25SP/"
     MODEL_PATH = BASE_DIR + "Llama-3.2-3B"
-    TRAIN_DS_FOLDER = BASE_DIR + "lab2/dataset_txt_small/train/"
-    TEST_DS_FOLDER = BASE_DIR + "lab2/dataset_txt_small/test/"
+    TRAIN_DS_FOLDER = BASE_DIR + "dataset_txt_small/train/"
+    TEST_DS_FOLDER = BASE_DIR + "dataset_txt_small/test/"
     IGNORE_INDEX = -100
     ATTN_IGNORE_INDEX = 0
+    DEVICE = "cuda:0"
 
     # Hyperparemeters
-    BATCH_SIZE = 2  # batch size
-    TP_CHUNKS = 2
-    GA_STEPS = 8 // world_size  # gradient acc. steps
+    BATCH_SIZE = 7  # batch size
+    GA_STEPS = 8  # gradient acc. steps
     EPOCHS = 10
-    LR = 3e-4
+    LR = 1e-5
 
-    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, torch_dtype=torch.float16).to(rank)
+    model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, torch_dtype=torch.bfloat16, device_map=device_map)
     model.config.use_cache = False
     tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
     tokenizer.pad_token = tokenizer.eos_token
+
+    # print device_map of the model
+    print(model.hf_device_map)
 
     # function to tokenize dataset
     def tokenize(ds_element):
@@ -100,30 +131,8 @@ def tp_train(rank, world_size):
         shuffle=True,
     )
 
-    mb_example = torch.randn(1, 1024, 3072, device=f"cuda:{rank}", dtype=torch.float16)
-    layers_per_rank = model.config.num_hidden_layers // world_size
-    split_spec = {
-        f"model.layers.{i * layers_per_rank}": SplitPoint.BEGINNING
-        for i in range(1, world_size)
-    }
-
-    pipe = pipeline(
-        module=model,
-        mb_args=(mb_example,),
-        split_spec=split_spec,
-    )
-
-    # Create schedule runtime
-    stage = pipe.build_stage(
-        rank,
-        device=torch.device(f"cuda:{rank}"),
-    )
-
-    # Attach to a schedule
-    schedule = ScheduleGPipe(stage, TP_CHUNKS)
-
     # training loop
-    optimizer = torch.optim.SGD(model.parameters(), lr=LR)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=LR)
 
     model.train()
     for epoch in range(EPOCHS):
@@ -131,34 +140,30 @@ def tp_train(rank, world_size):
         epoch_loss = 0.0
 
         for step, batch in enumerate(tqdm(train_dataloader)):
-            if rank == 0:
-                input_ids = batch["input_ids"].to(rank)
-                attention_mask = batch["attention_mask"].to(rank)
-                labels = batch["labels"].to(rank)
+            input_ids = batch["input_ids"].to(DEVICE)
+            attention_mask = batch["attention_mask"].to(DEVICE)
+            labels = batch["labels"].to(DEVICE)
 
-                schedule.step(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-            elif rank == 1:
-                outputs = schedule.step()
-                loss = outputs.loss
-                loss.backward()
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
+            loss = outputs.loss
+            loss.backward()
 
-                if (step + 1) % GA_STEPS == 0 or (step + 1) == len(train_dataloader):
-                    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
-                    optimizer.step()
-                    optimizer.zero_grad()
+            if (step + 1) % GA_STEPS == 0 or (step + 1) == len(train_dataloader):
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                optimizer.step()
+                optimizer.zero_grad()
 
-                epoch_loss += loss.item()
-            else:
-                raise ValueError("Invalid rank")
+            epoch_loss += loss.item()
 
-        if rank == 1:
-            print(f"Epoch {epoch + 1} Loss: {epoch_loss / steps_per_epoch}")
+        print(f"Epoch {epoch + 1} Loss: {epoch_loss / steps_per_epoch}")
         torch.cuda.empty_cache()
         gc.collect()
-    
-    torch.distributed.barrier()
-    torch.distributed.destroy_process_group()
+
+    # Save model after all epochs
+    output_dir = os.path.join(BASE_DIR, "lab2/checkpoints")
+    os.makedirs(output_dir, exist_ok=True)
+    model.save_pretrained(os.path.join(output_dir, f"pp_checkpoint_epoch_{EPOCHS}"))
+
 
 if __name__ == "__main__":
-    world_size = torch.cuda.device_count()
-    mp.spawn(tp_train, args=(world_size,), nprocs=world_size, join=True)
+    pp_train()
