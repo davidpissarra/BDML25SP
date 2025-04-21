@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in employing ground sensor networks for methane leak detection in a large area of interest, such as the Permian Basin in Texas, USA?",
+    "answer": "The primary challenge is the prohibitive cost of dense sensor placement, as well as the difficulty in establishing attribution to a given source based on sensor readings when there may be multiple sources in the area of interest."
+}

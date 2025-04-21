@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study mentioned in the text, and how does it aim to achieve this goal?",
+    "answer": "The primary goal of the study is to create a labelled dataset of urban trees using Google Map's aerial images and to build a supervised model capable of detecting and classifying tree species accurately. The study aims to achieve this goal by generating a labelled dataset using Google Map's static API and existing tree inventories, and then using state-of-the-art pre-trained CNN models, including VGG and ResNet variants, to develop a model that can accurately detect and classify tree species."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using physics-informed conditional Generative Adversarial Networks (cGANs) in simulating the spatial distribution of the water content of mountain snowpack?",
+    "answer": "The primary goal is to transform an image from domain X (gridded meteorological variables) to domain Y (SWE grids) through an image-to-image translation task, enabling fast and accurate SWE modeling with significant impact in various applications such as hydropower forecasting, agriculture, and water supply management."
+}

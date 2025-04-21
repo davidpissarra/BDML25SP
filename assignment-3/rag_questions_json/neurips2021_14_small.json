@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in detecting droughts in climate data, and how does the proposed approach address this challenge?",
+    "answer": "The main challenge in detecting droughts in climate data is that droughts have a slow onset and depend on various external factors, making it difficult to detect. The proposed approach addresses this challenge by using a soil moisture index (SMI) obtained from a hydrological model, which is directly related to insufficiently available water to vegetation, rather than relying on simple relative drought indices as ground-truth data."
+}

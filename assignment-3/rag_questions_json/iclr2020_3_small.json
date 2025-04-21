@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed method in the paper, and how does it improve forecasting accuracy compared to conventional methods?",
+    "answer": "The main contribution of the proposed method is a unified forecasting technique that is insensitive to missing values, which achieves accurate forecasting in the presence of severe missing rates, e.g., up to 25%. This is achieved by using autoencoder (AE), denoising autoencoder (DAE), and convolutional autoencoder (CAE) for feature extraction, which are then fed into the input of LSTM. The proposed method outperforms conventional models, especially when the missing rate increases, and is particularly effective for 5%-25% of random missing data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of current industry-standard CO2 emission models, and how does the presented research address this limitation?",
+    "answer": "The primary limitation of current industry-standard CO2 emission models is that they are neither instantaneous nor programmatic, often limited to specific types of vehicles, one fuel type, and make simplifying assumptions such as zero road grades. The presented research addresses this limitation by introducing a spectrum of programmatic and instantaneous vehicular CO2 emission models that contains 1100 individual CO2 emission models under varying fuel types, vehicle types, road grades, vehicle ages, and cities of interest."
+}

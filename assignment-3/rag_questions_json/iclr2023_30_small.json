@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in scaling up the inspection of solar power plants with increasing capacity, and how does the proposed framework address this challenge?",
+    "answer": "The main challenge is that the initial step in many inspection pipelines, which is to localize and georeference individual panels, can be prohibitively time-consuming for commercial sites with tens of thousands of solar panels. The proposed framework addresses this challenge by introducing an end-to-end deep learning framework for detecting individual solar panels using a rotated object detection architecture, which can efficiently map individual solar panels in an end-to-end fashion."
+}

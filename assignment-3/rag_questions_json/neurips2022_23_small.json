@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed method address the challenge of generalizing ET corrections from sparse catchment levels to dense pixel level, given that R measurements are only sparsely available?",
+    "answer": "The proposed method uses Machine Learning (ML) to generalize ET corrections from sparse catchment levels to dense pixel level by training a pixel-wise model to regress ET corrections from globally available climatic indices, allowing the learned corrections to be generalized to a dense pixel-wise resolution."
+}

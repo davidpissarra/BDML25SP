@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in forecasting marginal emissions factors (MEFs) in the context of electric vehicle charging and decarbonization strategies, and how do the authors propose to address this challenge?",
+    "answer": "The main challenge in forecasting MEFs is that the emissions intensity of the power grid varies from moment to moment depending on which generators are producing power, and the authors propose to address this challenge by incorporating differentiable power system models within neural networks to leverage the strengths of both machine learning and reduced-form power system models."
+}

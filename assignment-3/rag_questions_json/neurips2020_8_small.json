@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing Sun tracking methods in solar radiation applications, and how does the proposed method address this limitation?",
+    "answer": "The main limitation of existing Sun tracking methods is that they rely on external data and a calibration of the camera, which requires access to the device. The proposed method addresses this limitation by introducing an image-based Sun tracking algorithm that can localise the Sun in the image when it is visible and interpolate its daily trajectory from past observations, without requiring external data or camera calibration."
+}

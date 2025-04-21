@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in applying deep learning to industry-scale CO2 projects, and how does the proposed approach address this challenge?",
+    "answer": "The main challenge in applying deep learning to industry-scale CO2 projects is the size of the input and output data, which is too large to fit into the memory of a single GPU. The proposed approach, model-parallel deep learning, addresses this challenge by distributing both the data and the network weights across multiple GPUs, allowing for the training of a 3D CO2 surrogate model on a 2 million grid point simulation grid."
+}

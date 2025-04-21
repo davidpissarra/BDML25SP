@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using machine learning to predict aerosol composition interactively in Earth System Models (ESMs)?",
+    "answer": "The primary challenge is stability, which is closely tied to generalization, the ability of ML models to perform well under conditions not encountered during training."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can Reinforcement Learning (RL) be used to explore the space of solutions in Integrated Assessment Models (IAMs) in a more principled manner, and what are the implications of this approach?",
+    "answer": "Yes, our research empirically demonstrates that modern Reinforcement Learning can be used to probe IAMs and explore the space of solutions in a more principled manner. This approach has the potential to enable a more comprehensive, faster, and rigorous approach to policy making, and can provide a deeper understanding of the properties and limitations of the applied models."
+}

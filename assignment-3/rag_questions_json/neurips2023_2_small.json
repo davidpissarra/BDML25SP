@@ -1,0 +1,4 @@
+{
+    "question": "What is the key finding of the study that demonstrates the potential of EarthPT in remote sensing data, and how does it compare to previous works in the field?",
+    "answer": "The study demonstrates that EarthPT can accurately forecast reflectance values well into the future, providing a method to predict and mitigate future events associated with environmental threats such as drought, and it outperforms previous works in the field by scaling to a much larger dataset and model size, similar to what has been seen in the natural language domain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in the paper, and how does it improve upon the state-of-the-art Transformer-based baseline?",
+    "answer": "The main goal of the proposed approach is to predict the trajectory of a hurricane on a 6-hourly basis, which helps inform evacuation efforts by narrowing down target locations by 10-20 kilometers along both the north-south and east-west directions. The proposed approach improves upon the state-of-the-art Transformer-based baseline by leveraging the underlying graph structure of the hurricane trajectory using a GraphTransformer, which captures the global context from a heuristically constructed knowledge graph and models the local context from past trajectory points."
+}

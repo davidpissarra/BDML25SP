@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the method developed in this work to infer the history of a wildfire from satellite measurements?",
+    "answer": "The main goal of the method is to provide the information necessary to initialize coupled atmosphere-wildfire models in a physics-informed approach based on measurements, by inferring the history of a wildfire from satellite measurements using a conditional Wasserstein Generative Adversarial Network (cWGAN)."
+}

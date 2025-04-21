@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in the paper, and how does it address the issue of model uncertainties in long-range climate forecasting?",
+    "answer": "The main goal of the proposed approach is to reduce model uncertainties and improve accuracy in seasonal climate forecasting. To address the issue of model uncertainties, the approach proposes a late fusion method that systematically combines the predictions from multiple models trained with identical hyperparameters to reduce the expected errors in the fused results."
+}

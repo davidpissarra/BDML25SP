@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in creating season cropland maps at the management (field) scale for regions at risk of food insecurity?",
+    "answer": "The main challenge is the lack of in-situ labels for training and validating machine learning classifiers, making these maps unavailable for most regions."
+}

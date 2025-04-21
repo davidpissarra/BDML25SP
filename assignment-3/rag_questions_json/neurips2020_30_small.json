@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using machine learning to analyze satellite imagery, and how can it be addressed by employing infra-red observations?",
+    "answer": "The main challenge is that many machine learning applications rely on visible images, which are only available during the day, whereas infra-red observations are available throughout the day and night. This can be addressed by using infra-red observations to generate visible images, which can be achieved by applying deep learning techniques, such as U-Net based architectures, to create images that are visually convincing and have a structural similarity index (SSIM) up to 86%."
+}

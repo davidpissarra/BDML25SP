@@ -1,0 +1,4 @@
+{
+    "question": "Can the use of multivariate inputs, including past Air Stagnation Index (ASI) and Niño indices, improve the accuracy of long-lead forecasts of wintertime ASI in southern China?",
+    "answer": "Yes, the study found that multivariate inputs achieve better forecast performance than univariate input (only past ASI), with a correlation coefficient of 0.778 between the actual and predicted ASI, indicating a high degree of consistency."
+}

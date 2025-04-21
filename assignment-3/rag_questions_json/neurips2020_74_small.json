@@ -1,0 +1,4 @@
+{
+    "question": "What are the limitations of the ML models in seasonal forecasting of 2m temperature, and how can they be improved?",
+    "answer": "The ML models have limited value in regions where the climatology has a noticeably reduced correlation skill, namely the tropics. Further iteration is required to improve their performance in these regions."
+}

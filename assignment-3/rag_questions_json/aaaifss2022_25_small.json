@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using multiple geostationary satellites from the past to the present for long-term climate analysis, and how does the proposed Warp and Refine Network (WR-Net) address this issue?",
+    "answer": "The main limitation is the different resolutions of the satellites, which hinders high-resolution analysis. WR-Net addresses this issue by using a warp and refine network that combines an optical flow warp component and a warp image refinement component, allowing for the interpolation of temporal resolution and future frame prediction."
+}

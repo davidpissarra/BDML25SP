@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the sequential transformer chaining method used in the study for detecting pollution sources, and what percentage of irrelevant data is filtered out by this method?",
+    "answer": "The primary goal of the sequential transformer chaining method is to refine the detection of pollution sources, specifically factory and brick kiln chimneys, in major South Asian cities. This method filters out 99% of irrelevant data from high-resolution imagery."
+}

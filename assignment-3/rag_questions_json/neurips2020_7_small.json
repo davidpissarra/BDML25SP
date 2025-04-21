@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed ConvMOS approach in the context of model output statistics (MOS) for climate models, and how does it differ from other MOS approaches?",
+    "answer": "The main goal of the proposed ConvMOS approach is to reduce systematic errors in climate model outputs, particularly for precipitation, by using a convolutional neural network (CNN) architecture specifically designed for climate MOS. This approach differs from other MOS methods, such as local scaling and non-local MOS with machine learning models, by leveraging the ability of CNNs to learn spatial patterns in geospatial data, which is well-suited for reducing systematic errors in climate models."
+}

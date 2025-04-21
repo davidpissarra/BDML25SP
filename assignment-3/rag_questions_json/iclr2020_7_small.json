@@ -1,0 +1,4 @@
+{
+    "question": "How do the authors of the paper propose to address the challenge of enforcing physical laws and boundary conditions in deep learning models for climate sciences, specifically in the context of geophysical turbulence?",
+    "answer": "The authors propose a general framework to directly embed the notion of incompressible fluids into Convolutional Neural Networks (CNNs), leveraging interpretable strategies from numerical methods and computational fluid dynamics to enforce physical laws and boundary conditions by taking advantage of the mathematical properties of the underlying equations."
+}

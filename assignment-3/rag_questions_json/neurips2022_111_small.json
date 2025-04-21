@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges that the project aims to address in order to improve the accuracy of edge computing methods like Federated Learning (FL) for applications in power systems operation and optimization?",
+    "answer": "The main challenges that the project aims to address include (i) poorer performance of FL in terms of prediction accuracy when compared to traditional centralized learning methods, especially when applied to data that is not independently and identically distributed (IID) across different FL clients, and (ii) long training times for the aggregated global model to converge due to diverse weights and parameters across clients."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in predicting dengue fever outbreaks on a countrywide level in Peru, and how does the study address this challenge?",
+    "answer": "The primary challenge in predicting dengue fever outbreaks on a countrywide level in Peru is that dengue incidence varies across administrative areas. The study addresses this challenge by developing and applying a climate-based ensemble model using multiple machine learning approaches to forecast dengue incidence rate (DIR) by department, combining the outputs from Long Short-Term Memory (LSTM) recurrent neural network and Categorical Boosting (CatBoost) methods."
+}

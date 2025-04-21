@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the government in the context of emission license auctions, and how do they aim to achieve it?",
+    "answer": "The main goal of the government is to maximize societal welfare, which is the total economic value of the buyers minus the social cost. They aim to achieve this by tuning the auction parameters to maximize expected welfare, using tools from theoretical computer science and algorithmic game theory to address the strategic vulnerabilities of the auctions."
+}

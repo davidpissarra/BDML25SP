@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using convolution-based neural networks for extracting ice layer boundaries from radargrams, and how does the proposed multi-branch spatio-temporal graph neural network address this challenge?",
+    "answer": "The main challenge in using convolution-based neural networks for extracting ice layer boundaries from radargrams is the presence of noise in the radargrams, which prevents researchers from achieving high-quality results. The proposed multi-branch spatio-temporal graph neural network addresses this challenge by using the GraphSAGE framework for spatio feature learning and a temporal convolution operation to capture temporal changes, making different parts of the network more specialized to a single learning task, and thus improving both accuracy and efficiency."
+}

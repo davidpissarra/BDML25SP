@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in automating wildflower monitoring using computer vision, and how does the proposed multi-modal approach aim to address it?",
+    "answer": "The main challenge in automating wildflower monitoring using computer vision is the visual confusion between different species, which is caused by intra-class variation and inter-class similarity. The proposed multi-modal approach aims to address this challenge by leveraging flowering phenology estimates, which provide information on the timing of seasonal events in flowering plants over their growth cycle, to help distinguish between species."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What are the key components that should be included in a demand response benchmark to accurately measure the performance of demand response programs in smart grids?",
+    "answer": "The key components that should be included in a demand response benchmark are: Energy Generation (amount of produced energy available for consumption, sources, and their respective location in the grid), Power Grid Specification, Consumer Specification, and Performance Metrics. Additionally, information such as weather data (temperature and cloud cover) and the amount of renewable energy available at each point in time should also be considered."
+}

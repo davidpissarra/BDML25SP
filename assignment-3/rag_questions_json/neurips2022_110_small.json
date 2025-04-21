@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of developing multiple domain-specific language models (LMs) in the context of climate and health research?",
+    "answer": "The primary goal is to capture available knowledge and enable solving different tasks such as detecting similarities between climate- and health-related concepts, fact-checking, relation extraction, evidence of health effects to policy text generation, and more, in order to inform policies and reduce health risks associated with climate change."
+}

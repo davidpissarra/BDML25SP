@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary concern with current state-of-the-art Implicit Neural Representations (INRs) in the context of climate monitoring, and how does the proposed FAIR-E ARTH evaluation suite aim to address this issue?",
+    "answer": "The primary concern is that current INRs tend to produce highly biased predictions towards specific geospatial locations, with localized groups such as coasts and islands being left behind. FAIR-E ARTH aims to address this issue by providing a unified and fine-grained evaluation suite to quantify the fairness of current solutions, enabling researchers to design solutions aware of per-group biases and improve worst-case performance rather than average-case metrics."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed RMM-VAE method in the context of identifying weather regimes and their relationship with local-scale impact variables?",
+    "answer": "The main goal of the proposed RMM-VAE method is to identify weather regimes that capture the full phase space of atmospheric dynamics in a reduced space while providing enhanced predictability of a local-scale impact variable, such as precipitation."
+}

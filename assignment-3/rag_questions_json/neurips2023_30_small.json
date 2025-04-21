@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in optimizing tree placements in urban areas to mitigate heat stress, and how does the proposed approach address this challenge?",
+    "answer": "The main challenge in optimizing tree placements is the high computational cost of physical simulations, which rules out optimization over large areas and longer time scales. The proposed approach employs neural networks to simulate point-wise mean radiant temperatures, a driving factor of outdoor human thermal comfort, across various time scales, and harnesses the innate local effect of trees within the iterated local search framework to optimize tree placements."
+}

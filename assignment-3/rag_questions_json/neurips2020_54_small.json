@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the automated fish-counting method presented in this paper, and how does it improve upon existing methods?",
+    "answer": "The primary goal of the automated fish-counting method is to provide accurate and efficient estimates of escapement, the number of fish that have made it safely upstream to spawn, to support sustainable fish population management. This method improves upon existing methods by utilizing data from ARIS sonar cameras and machine learning techniques to automatically detect and track salmonids in rivers, reducing the financial and time burden associated with human involvement and achieving a 19:3% per-clip error rate compared to human counting performance."
+}

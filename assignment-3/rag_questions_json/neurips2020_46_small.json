@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed automated approach to generate a PV registry, and how does it improve upon existing registries?",
+    "answer": "The main contribution of the proposed automated approach is to generate an enriched PV registry with additional information such as tilt angle, orientation, and general building data by combining aerial imagery with 3D building geometries. This approach improves upon existing registries by providing accurate information on the exact location of PV systems, including corresponding rooftops, tilt angle, orientation angle, occupied rooftop area, and socio-economic information associated with buildings and their owners, which is not available in self-reported registries."
+}

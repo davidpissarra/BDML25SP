@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges in developing an efficient smartphone-based plant disease diagnosis tool using computer vision models?",
+    "answer": "The main challenges include a notable variation in visual symptoms of a single disease, different light and weather conditions, and the complexity of the models, as well as the presence of multiple diseases in an image, small datasets, and noisy inputs such as light and shade variations, and non-uniform backgrounds."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using LSTM-based approach over traditional methods like random forest for crop type classification in the context of climate change?",
+    "answer": "The LSTM-based approach outperforms traditional methods like random forest due to its ability to capture the cumulative effect of remote sensing information and adapt to interannual variability, which is crucial for modeling the dynamic response of crops to the environment and representing unique growth features."
+}

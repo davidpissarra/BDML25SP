@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the research presented in this paper, and how does it contribute to the field of coastal science?",
+    "answer": "The primary goal of the research is to develop a data-driven method for predicting shoreline change based on spatio-temporal data, which is critical for coastal risk assessment and mitigation. This work contributes to the field of coastal science by presenting a novel global-scale dataset of satellite-derived shorelines and their corresponding shoreline change drivers, and by demonstrating the effectiveness of a spatio-temporal approach to predicting shoreline change using a UNet and UNetLSTM models, achieving significant global forecast correlation scores of 0.66 and 0.77, respectively."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study presented in the paper, and how does the authors plan to achieve it?",
+    "answer": "The primary goal of the study is to enhance melt pond data by developing a method that segments thermal infrared (TIR) airborne imagery into melt pond, sea ice, and ocean classes. The authors plan to achieve this goal by adapting and fine-tuning the AutoSAM model, a Segment Anything-based segmentation model, using a data-driven deep learning approach."
+}

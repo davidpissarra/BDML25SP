@@ -1,0 +1,4 @@
+{
+    "question": "How can we probabilistically infer the latent function from a set of noisy vector-valued realisations in a scalable manner, while robustly propagating uncertainties from models and simulations to the final estimate?",
+    "answer": "We can use a Bayesian framework based on a hierarchy of Gaussian processes (GPs), specifically a sparse hierarchical Gaussian process (SHGP) model, to infer latent surface temperature changes from an ensemble of climate models."
+}

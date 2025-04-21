@@ -1,0 +1,4 @@
+{
+    "question": "Can graph neural networks (GNNs) be used to predict the dynamic stability of power grids, and if so, what are the benefits of using them in this context?",
+    "answer": "Yes, graph neural networks (GNNs) can be used to predict the dynamic stability of power grids. They are surprisingly effective at predicting the highly non-linear target from topological information only, and can be used to select promising candidate configurations for a more detailed assessment. The analysis of the decision process of GNNs may also lead to new unknown relations between dynamical properties and structural aspects, such as the grid's topology or the distribution of loads and generators, ultimately informing the design and development of power grids."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of previous research on cascading failure mitigation in power grids, and how does the proposed approach in this paper address this limitation?",
+    "answer": "The main limitation of previous research on cascading failure mitigation in power grids is that they often make unrealistic assumptions, which yield impractical control strategies in terms of time or economic cost. The proposed approach in this paper focuses on branch failures rather than node failures, taking into account the physical constraints of the power grid, and uses reinforcement learning to develop a more practical and effective mitigation strategy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of using Joint Species Distribution models (JSDM) in ecology, and how do they differ from traditional species distribution models?",
+    "answer": "The main goal of using JSDM is to learn inter-species relationships and species response to the environment by incorporating the interactions between multiple species. JSDMs differ from traditional species distribution models, which are univariate approaches that focus on individual key species separately, by using a multivariate approach that estimates the partial correlation matrix among responses to estimate their interactions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed machine learning workflow in the study, and how does it differ from traditional drought indices?",
+    "answer": "The main contribution of the proposed machine learning workflow is the interpretability of each step, which is essential to bridge the gap between advanced ML methods and the physical meaning of the results. Unlike traditional drought indices, which often fail to detect drought impacts due to their focus on specific drivers without accounting for complex interactions, the proposed workflow uses dimensionality reduction methods, filter feature selection, and linear supervised learning to define a novel data-driven, impact-based drought index that reproduces the state of vegetation impacted by drought conditions."
+}

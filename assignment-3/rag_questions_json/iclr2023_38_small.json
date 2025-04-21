@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in building interpretable engagement prediction models for climate change communication on Twitter, and how do the authors address this challenge?",
+    "answer": "The primary challenge is the presence of confounding factors such as author popularity and change in public interest in climate change over time. The authors address this challenge by defining the task as comparing engagement within a pair of tweets rather than predicting engagement for a given tweet, and selecting pairs of tweets from the same author and from the same window in time."
+}

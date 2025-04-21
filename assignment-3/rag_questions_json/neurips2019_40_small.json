@@ -1,0 +1,4 @@
+{
+    "question": "What is the key innovation of the proposed deep-learning-based methodology for forecasting monthly ENSO temperatures at various lead times, as compared to traditional statistical methods?",
+    "answer": "The proposed methodology trains exclusively on physical simulations from Coupled Atmosphere–Ocean General Circulation Models (AOGCMs), whereas traditional statistical methods train and validate on observational data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What are the unique challenges posed by climate datasets in the context of machine learning (ML) pipelines, and how do these challenges impact the performance of ML systems?",
+    "answer": "Climate datasets used in practice are uniquely biased due to the pervasive use of external simulation models (e.g., general circulation models) and proxy variables (e.g., satellite measurements) for imputing and extrapolating in-situ observational data. This bias can propagate within standard ML pipelines, leading to inaccurate or unreliable results. To mitigate this, it is essential to rethink the training and deployment of data-centric ML pipelines for climate science, as well as establish community guidelines for dataset and model release."
+}

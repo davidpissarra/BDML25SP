@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing object detection models for remote sensing tasks and how does the proposed approach address this challenge?",
+    "answer": "The main challenge is the dependency on large amounts of bounding box labels, which can be costly and time-consuming to obtain. The proposed approach, weakly-semi-supervised object detection (WSSOD), addresses this challenge by leveraging a small amount of bounding box labels together with a large amount of point labels that are easy to acquire at scale in geospatial data."
+}

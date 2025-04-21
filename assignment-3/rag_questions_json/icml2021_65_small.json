@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed system, and how does it aim to address the lack of public engagement on climate change?",
+    "answer": "The primary goal of the proposed system is to make climate communication more effective by presenting users with climate change impacts and solutions that are most relevant and motivational based on their personal values. To address the lack of public engagement on climate change, the system aims to alleviate the cold-start problem by leveraging a knowledge base (ClimateKB) of causes and effects of climate change, and their associations to personal values, and by providing practical, viable, accessible, and attractive solutions to address climate change."
+}

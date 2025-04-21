@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in the monitoring of soil health, and how does it hinder large-scale data collection efforts?",
+    "answer": "The primary challenge in the monitoring of soil health is accurately determining the atomic abundance (i.e., atomic concentration) of key soil elements. This challenge hinders large-scale data collection efforts because current soil testing techniques are expensive, with costs ranging from $10-$50/sample for basic fertility and contaminant testing and up to $3000/sample for more comprehensive testing, making it prohibitively expensive to test soil every few meters, which is necessary to develop a reliable soil profile."
+}

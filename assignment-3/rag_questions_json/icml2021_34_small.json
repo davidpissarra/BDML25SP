@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of traditional methods for discovering spatio-temporal patterns in climate data, and how does the proposed deep learning methodology address these limitations?",
+    "answer": "The main limitation of traditional methods is that they rely on extracting principal components from spatio-temporal data cubes and analyzing their linear correlation with a summarizing index, which can lead to spurious detections and an arbitrary selection of modes of variability. The proposed deep learning methodology addresses these limitations by learning Granger causal feature representations with neural networks that are trained to optimize both reconstruction error and Granger causality criterion between the latent representation and the index under study."
+}

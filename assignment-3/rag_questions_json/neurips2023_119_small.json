@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed data analysis framework for Integrated Pest Management (IPM) in the context of climate change?",
+    "answer": "The primary goal of the proposed data analysis framework for IPM is to alleviate skepticism among farmers about its effectiveness and encourage wider adoption of IPM practices by providing robust pest population predictions, interpretable pest presence predictions, actionable advice, field-specific treatment effect estimations, and assessments of the effectiveness of the advice using causal inference."
+}

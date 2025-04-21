@@ -1,0 +1,4 @@
+{
+    "question": "How does incorporating a safety layer with a shrinking horizon model-predictive control formulation into multi-agent reinforcement learning (MARL) algorithms affect the performance of agents participating in demand response (DR) programs?",
+    "answer": "Incorporating a safety layer with a shrinking horizon model-predictive control formulation into MARL algorithms improves both convergence speed and performance of the MARL agents by considering safety aspects in the reward during training, thereby ensuring minimal interference and guaranteeing constraint satisfaction."
+}

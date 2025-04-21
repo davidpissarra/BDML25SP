@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of developing a differentiable emulator for the Global Change Analysis Model (GCAM), and how does it differ from traditional GCAM simulations?",
+    "answer": "The primary goal of developing a differentiable emulator for GCAM is to provide a more efficient and cost-effective way to explore the complex interactions between the coupled Earth and human systems, allowing for the prediction of 22,528 GCAM outputs across time, sectors, and regions with a median R2 score of 0.998. This emulator differs from traditional GCAM simulations in that it can predict outcomes for novel scenarios faster than GCAM by at least three orders of magnitude and enables efficient search algorithms over the input space due to its differentiability."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the effectiveness of piecewise constant controllers, trained using deep reinforcement learning, in eliminating stop-and-go traffic when actions are held fixed for up to 10 seconds, compared to human driving baseline?",
+    "answer": "Even up to 10-second action holds, such controllers show congestion benefits over a human driving baseline."
+}

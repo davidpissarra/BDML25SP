@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a transformer-based'memory-aware' parameterization scheme in Global Climate Models (GCMs) compared to classic architectures?",
+    "answer": "The attention mechanism in transformer models allows them to capture complex non-linear dependencies of sub-grid scale variables and reduces the prediction error, making it a more effective approach than classic architectures such as Convolutional Neural Networks, Multi-Layer Perceptron, and Generative Adversarial Networks."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What are the benefits of using self-supervised learning (SSL) representations for weather data, particularly in scenarios with limited labelled data?",
+    "answer": "The benefits of using self-supervised learning (SSL) representations for weather data include improved performance across multiple tasks, the ability to generalize with limited in-task data, and a reduction in training time and carbon emissions."
+}

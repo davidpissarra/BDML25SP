@@ -1,0 +1,4 @@
+{
+    "question": "How can machine learning techniques be used to differentiate between various types of smoke from wildland burns, including prescribed burns and wildfires, while taking into account the complex chemical composition and sparse structure of the data?",
+    "answer": "Spectral clustering and manifold learning can provide interpretable representations and powerful tools for differentiating between smoke types, while a new geometry-based metric between smokes as distributions over chemical compounds can serve as input to kernel ML and visualization algorithms, allowing for the extraction of information on the impact of wildland burns on air quality and the development of effective strategies to reduce climate-induced wildﬁre risk while minimizing air quality damage."
+}

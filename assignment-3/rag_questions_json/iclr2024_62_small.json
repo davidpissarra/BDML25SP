@@ -1,0 +1,4 @@
+{
+    "question": "Can pre-trained weather forecasting models like FourCastNet be adapted to model vegetation activity at a high spatial and temporal resolution, and if so, how does this compare to learning an NDVI model from scratch?",
+    "answer": "Yes, pre-trained weather forecasting models like FourCastNet can be adapted to model vegetation activity at a high spatial and temporal resolution. Our results show that leveraging pre-trained weather models improves the NDVI estimates compared to learning an NDVI model from scratch, demonstrating the potential of transfer learning in this context."
+}

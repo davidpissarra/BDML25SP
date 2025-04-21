@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using passive acoustic monitoring (PAM) to understand the impact of climate change on biodiversity, and how can machine learning techniques help address this challenge?",
+    "answer": "The main challenge in using PAM is the discrepancy between the low barrier of entry to acquire large field audio datasets and the higher barrier of acquiring reliable species-level training, validation, and test subsets from the field audio. Machine learning techniques, such as intelligent sampling methods and neural network models, can help address this challenge by selecting audio data with a higher probability of containing vocalizations of interest, reducing the time and financial costs of the research process."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using infrared (IR) data from the Advanced Baseline Imager (ABI) on the geostationary GOES-16 satellite for understanding latent heat exchange in the atmosphere?",
+    "answer": "IR observations in cloudy or moist regions are mostly representative of emission from cloud tops or the middle troposphere due to absorption of IR radiation by water vapor and scattering by in-cloud hydrometeors, making it difficult to retrieve precipitation structure and latent heat exchange within and below clouds."
+}

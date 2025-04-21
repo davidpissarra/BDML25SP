@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of traditional machine learning methods used in crop yield prediction, and how does the proposed GNN-RNN model address this limitation?",
+    "answer": "The main limitation of traditional machine learning methods used in crop yield prediction is that they treat each county as an independent and identically distributed (i.i.d) sample, ignoring spatial correlations in the data. The proposed GNN-RNN model addresses this limitation by incorporating both geospatial and temporal structure using graph neural networks (GNNs) and recurrent neural networks (RNNs), allowing it to combine features from neighboring counties with its own features to boost predictive power."
+}

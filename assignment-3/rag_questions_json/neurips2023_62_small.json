@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using machine learning-based parameterizations in coupled climate models, and how do certain design decisions aim to address this issue?",
+    "answer": "The main challenge is that machine learning-based parameterizations are often unpredictably unstable and inaccurate in coupled testing, where they interact with large-scale climate models. Certain design decisions such as 'climate-invariant' feature transformation for moisture inputs, input vector expansion, and temporal history incorporation have been shown to improve coupled performance, but they may not be sufficient for coupled out-of-distribution generalization."
+}

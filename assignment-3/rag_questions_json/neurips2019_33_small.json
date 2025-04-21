@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the data-driven simulation of a ride-hailing EV agent, and how does it aim to achieve this goal?",
+    "answer": "The main goal of the data-driven simulation of a ride-hailing EV agent is to reduce costs and emissions while increasing transportation service provided. It aims to achieve this goal by optimizing the agent's decision-making policy through a data-driven approach, using a Markov Decision Process (MDP) framework, and Deep Reinforcement Learning (DRL) to learn the optimal policy from experience, without any prior knowledge."
+}

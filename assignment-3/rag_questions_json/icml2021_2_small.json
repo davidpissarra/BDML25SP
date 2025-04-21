@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in detecting contrails in satellite imagery, and how does the proposed dataset address this challenge?",
+    "answer": "The main challenge in detecting contrails in satellite imagery is the fundamental physical and visual similarity between contrails and naturally occurring cirrus clouds, as well as the absence of satellite orbits that can yield both high spatial and high temporal resolution imagery simultaneously. The proposed dataset addresses this challenge by providing a large collection of Landsat-8 scenes with pixel-level annotations of contrails, which will continue to grow and provide a valuable resource for training and testing contrail detection models."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge that Fully Convolutional Networks (FCNs) face when applied to single images in the context of land cover classification, and how can this challenge be addressed?",
+    "answer": "The main challenge that FCNs face is that they lead to a variance in land cover classification accuracy that depends on the day when the image was acquired. This challenge can be addressed by incorporating temporal information, such as using Recurrent Neural Networks (RNNs) to capture the temporal variations of features in multi-temporal images."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main hypothesis proposed in the study regarding the opposition to carbon pricing, and how is it tested?",
+    "answer": "The main hypothesis proposed is that oppose responses to carbon pricing arise from a well-worn 'tax is bad' ideology, involving a handful of correlated ideas (e.g. 'distrust of government', 'unfairness', etc.) that mutually enforce each other. This hypothesis is tested using a generative bag-of-words model of word responses to infer the topic structure underlying the three types of responses (oppose, support, and not sure), and moderate, significantly significant evidence is found to support this hypothesis across a set of mutually independent metrics, agnostic to semantics."
+}

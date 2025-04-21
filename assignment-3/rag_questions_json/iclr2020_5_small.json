@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study, and how does it aim to achieve this goal?",
+    "answer": "The primary goal of the study is to understand the implicit mental representations people have of foods and how they influence food choice. The study aims to achieve this goal by using Skip-gram word embeddings trained on the ukWaC corpus to uncover implicit mental representations, which are not captured by traditional, interview-based studies. By analyzing the behavior of food-word embeddings, the study aims to provide a data-driven approach to understanding the complex combination of conscious and subconscious processes surrounding food choice."
+}

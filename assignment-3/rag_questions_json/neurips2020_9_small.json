@@ -1,0 +1,4 @@
+{
+    "question": "Can a machine learning model using a modified ResNet-50 and U-Net approach accurately detect and quantify industrial smoke plumes from globally available multi-band image data from ESA's Sentinel-2 satellites, and what are the limitations of this approach?",
+    "answer": "Yes, the model can detect smoke plumes with an accuracy of 94.3% and segment them with an Intersection-over-Union (IoU) metric of 0.608 and an overall accuracy of 94.0%. However, the performance is limited by occasional confusion with surface objects, the inability to identify semi-transparent smoke, and human limitations in identifying smoke based on RGB-only images."
+}

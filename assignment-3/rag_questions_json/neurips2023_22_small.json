@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges in predicting deforestation using Deep Learning models, and how do these challenges affect the accuracy of the predictions?",
+    "answer": "The main challenges in predicting deforestation using Deep Learning models are the extreme class imbalance between pixels that are deforested (minority) and not deforested (majority), as well as the omission of social, political, and economic drivers of deforestation. These challenges lead to low levels of predictability, with the model achieving an F1 score of 0.263 for pixel-wise classification at a 30 m resolution, and only improving to a moderate performance (F1: 0.608) when simplifying the task to predicting if any level of deforestation occurs within a 1.5 km squared tile."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary motivation behind using Graph Convolution Networks (GCNs) to predict cascading failures in power systems?",
+    "answer": "The primary motivation behind using Graph Convolution Networks (GCNs) to predict cascading failures in power systems is to enhance the security and resiliency of power systems, thereby supporting higher penetration of renewable energy sources and thus forming pathways to a positive climate impact."
+}

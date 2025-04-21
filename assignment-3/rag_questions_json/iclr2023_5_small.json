@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed multimodal machine learning approach in the context of flood prediction, and how does it outperform other models?",
+    "answer": "The main contribution of the proposed multimodal machine learning approach is a novel framework that incorporates text-based geographical information to complement time-series statistical features for global flood prediction. This approach outperforms other models by achieving a 75%-77% ROCAUC score in the next 1-5 year flooding prediction, and it is the first machine learning flood prediction model at the global scale and on a multi-year horizon."
+}

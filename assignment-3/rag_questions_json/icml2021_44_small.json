@@ -1,0 +1,4 @@
+{
+    "question": "How does the performance of the Temporal Fusion Transformer (TFT) model compare to the climatology and a calibrated ECMWF SEAS5 ensemble forecast (S5) in terms of quantile risk at a six-month lead time?",
+    "answer": "The TFT predictions significantly outperform those from S5 and show an overall small improvement compared to climatology, and also respond positively to departures from normal that climatology cannot."
+}

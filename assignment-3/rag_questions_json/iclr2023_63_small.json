@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed statistical framework introduced in the paper, and how does it aim to improve existing methods for estimating the climate penalty on soot pollution (PM 2.5)?",
+    "answer": "The main goal of the proposed statistical framework is to estimate the climate penalty on PM 2.5, which measures the effects of a changing climate on air quality due to the interaction of pollution with climate factors, independently of future changes in emissions. The framework aims to improve existing methods by using higher-resolution climate inputs, integrating additional predictive data sources such as demographics, geology, and land use, and considering regional dependencies and synoptic weather patterns influencing PM 2.5, thereby deconvolving the effects of climate change from increasing air quality regulations and other sources of unmeasured spatial heterogeneity."
+}

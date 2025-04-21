@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using machine learning techniques to study ecosystem scale carbon-fluxes, and how does it relate to the limitations of current ecosystem-climate interaction models?",
+    "answer": "The main challenge is that data acquisition has to be achieved across a gradient of expected soil temperature changes in the highest possible frequency, and observation data from interaction processes do not necessarily verify the working assumptions of standard machine learning techniques, which is related to the limitations of current ecosystem-climate interaction models that are better at predicting the past than the future due to the existence of small-scale ecosystem feedbacks between ecosystem factors and climate that are currently unidentified by these models."
+}

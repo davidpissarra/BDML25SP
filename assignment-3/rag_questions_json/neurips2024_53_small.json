@@ -1,0 +1,4 @@
+{
+    "question": "What are the key advantages of the CLEAN model over traditional Computable General Equilibrium (CGE) models in climate policy development?",
+    "answer": "The CLEAN model demonstrates clear advantages over CGE models by identifying scalable global patterns across national, provincial, city, and sectoral levels, effectively capturing the complex, dynamic interactions between energy systems and markets, and offering high generalization ability for various downstream prediction tasks, including bidirectional prediction for policy simulation and the ability to predict daily emissions for unseen countries where direct emissions data is unavailable."
+}

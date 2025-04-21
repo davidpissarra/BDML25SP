@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of the National Energy Efficiency Data Framework (NEED) dataset in the UK, and how does the NEBULA dataset address this limitation?",
+    "answer": "The primary limitation of the National Energy Efficiency Data Framework (NEED) dataset in the UK is its anonymized nature, which means insights cannot be geolocated beyond regional identification. The NEBULA dataset addresses this limitation by providing detailed information about building stock, climate, urbanisation, and socio-demographic factors at the postcode level, while maintaining privacy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing machine learning models for disruption prediction in tokamaks, and how can data augmentation help address this challenge?",
+    "answer": "The main challenge is that machine learning models struggle to generalize to the diverse characteristics and dynamics of different tokamak designs and operating conditions. Data augmentation, specifically the use of viewmaker networks to generate diverse augmentations or 'views' of training data, can help improve model robustness and generalizability, making them more effective across different tokamak designs and operating conditions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary application of the Conditional Denoising Diffusion Probability Model (CDDPM) in the context of typhoon forecasting, as demonstrated in the study, and what are its key advantages over other models?",
+    "answer": "The primary application of CDDPM in the context of typhoon forecasting is for imputation purposes in missing meteorological datasets and generating additional high-quality meteorological data using satellite images. CDDPM outperforms other models, including Convolutional Neural Networks (CNN) and Squeeze-and-Excitation Networks (SENet), with a PSNR of 32.807, which is approximately 7.9% higher than CNN and 5.5% higher than SENet, and an RMSE of 0.032, showing a 11.1% improvement over CNN and 8.6% improvement over SENet."
+}

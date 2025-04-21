@@ -1,0 +1,4 @@
+{
+    "question": "What are the two perennial challenges with satellite-based earth observation that hinder climate change risk applications, and how does the proposed DeepSentinel model aim to address them?",
+    "answer": "The two perennial challenges are the presence of atmospheric interference and a shortage of training labels. DeepSentinel aims to address these challenges by using sensor fusion of SAR Sentinel-1 data and multispectral Sentinel-2 data to provide latent space embeddings of surface conditions even in excessively cloudy conditions, and by using self-supervised pretraining followed by fine-tuning on land-use and land-cover data to create a general-purpose embedding model suitable for a wide range of downstream applications using transfer learning."
+}

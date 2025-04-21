@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in classifying waste using machine learning, and how does the proposed DeepWaste app address this challenge?",
+    "answer": "The main challenge in classifying waste using machine learning is that whether a waste is recyclable or compostable depends on the properties of the material, which can be hard to detect simply from the image, and the material can come in various shapes and forms. The proposed DeepWaste app addresses this challenge by leveraging convolutional neural networks (CNNs) for image recognition tasks and using a fully-annotated dataset of over 1200 waste items to achieve an average precision of 0.881 on the test set, making it a fast, low-cost, and accurate solution for waste identification."
+}

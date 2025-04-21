@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of traditional benthic image annotation methods and how does the proposed hierarchical classification approach address this limitation?",
+    "answer": "The main limitation of traditional benthic image annotation methods is that they use flat classification, which presents challenges for underrepresented categories and often lack sufficient labeled data for accurate classification at a high level of detail. The proposed hierarchical classification approach addresses this limitation by organizing classes into a hierarchy, allowing for partially correct predictions and aligning with the inherent hierarchical structure of benthic organisms."
+}

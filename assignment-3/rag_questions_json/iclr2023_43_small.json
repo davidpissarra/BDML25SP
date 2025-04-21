@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in solving gas network optimization problems with emission targets, and how is it addressed by the proposed ICNN-aided optimization method?",
+    "answer": "The main challenge in solving gas network optimization problems with emission targets is the complex gas flow physics, which can lead to non-convex optimization problems. The proposed ICNN-aided optimization method addresses this challenge by substituting the non-convex Weymouth equation of gas flows with a composition of trained input-convex and input-concave neural networks (ICNNs), which can be embedded into planning optimization problems in a computationally tractable manner."
+}

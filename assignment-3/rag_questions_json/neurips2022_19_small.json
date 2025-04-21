@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed algorithm ROBUST ML in the context of operation of dispatchable generation in power systems?",
+    "answer": "The main contribution of ROBUST ML is to provide a learning-augmented algorithm that exploits the good performance of a machine-learned algorithm while providing worst-case guarantees on cost, thereby ensuring robustness to distribution shift and improved efficiency as renewable penetration increases."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of using machine learning to approximate the M7 microphysics model in the ECHAM-HAM global climate aerosol model?",
+    "answer": "The main goal is to reduce the computational cost of the model by achieving sufficient accuracy and being fast at inference time, allowing for higher resolutions or longer time runs."
+}

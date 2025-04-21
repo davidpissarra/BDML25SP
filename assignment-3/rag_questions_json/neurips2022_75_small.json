@@ -1,0 +1,4 @@
+{
+    "question": "What is the key innovation of FloodGNN compared to existing approaches in flood prediction, and how does it process water flow velocities?",
+    "answer": "FloodGNN employs a graph-based model, operates on both spatial and temporal dimensions, and processes water flow velocities as vector features, rather than scalar features, which is a key innovation compared to existing approaches. It uses geometric vector perceptrons to process velocities as vector features."
+}

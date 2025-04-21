@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in estimating annual glacier velocities using classical algorithms, and how does the proposed method address this challenge?",
+    "answer": "The main challenge in estimating annual glacier velocities using classical algorithms is that they rely on sparse cross-correlation estimates and computationally expensive optical flow solutions. The proposed method addresses this challenge by utilizing a novel deep-learning approach, specifically the Recurrent All-Pairs Field Transforms (RAFT) architecture, to generate dense per-pixel velocity estimates within an automated framework that utilizes Sentinel-2 images."
+}

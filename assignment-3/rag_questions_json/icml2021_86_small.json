@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing a climate model for the Arctic region to project future ocean wave climate, and how can it be addressed?",
+    "answer": "The main challenge is the lack of ocean wave information in climate models, the computational expense of ocean wave numerical modeling, and the exclusion of the Arctic region in most global wave climate ensembles. This can be addressed by developing a deep learning network, such as a CNN-LSTM model, which can potentially provide a large ensemble of Arctic wave projections at an affordable cost."
+}

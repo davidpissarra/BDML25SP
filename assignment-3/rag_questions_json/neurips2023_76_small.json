@@ -1,0 +1,4 @@
+{
+    "question": "Can self-supervised learning be applied to Synthetic Aperture Radar (SAR) data to improve the timeliness and accuracy of climate change monitoring, and if so, what are the benefits of this approach?",
+    "answer": "Yes, self-supervised learning can be applied to SAR data to improve the timeliness and accuracy of climate change monitoring. The use of masked autoencoding, a self-supervised pretraining scheme, on large-scale SAR data covering 8.7% of the Earth's land surface area, reduces labelling requirements for downstream tasks by more than an order of magnitude and generalises geographically, allowing for the development of task and region-specific SAR models that can be deployed for rapid, accurate monitoring of climate change effects."
+}

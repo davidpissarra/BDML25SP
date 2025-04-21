@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of creating a knowledge graph like KnowUREnvironment, and how does it differ from other approaches to addressing climate change?",
+    "answer": "The primary goal of creating a knowledge graph like KnowUREnvironment is to equip the general public with accessible information about climate change and related environmental issues, enabling them to easily comprehend facts and connect different concepts. This differs from other approaches to addressing climate change, such as deep-learning-based models, which lack interpretability, and traditional fact-checking methods, which often rely on human intervention. KnowUREnvironment is an unsupervised knowledge graph that uses RDF triples to represent its knowledge, making it a more efficient and explainable solution for addressing climate change and related issues."
+}

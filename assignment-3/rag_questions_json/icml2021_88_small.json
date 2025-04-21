@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using machine learning for geospatial applications in areas of the world without labeled data, and how can domain adaptation address this issue?",
+    "answer": "The primary challenge is the limited availability of labeled geospatial datasets, which are often specific to certain regions, instruments, and methods of acquisition. Domain adaptation can address this issue by leveraging labeled'source' data to learn on a separate 'target' dataset with only unlabeled data, enabling the use of machine learning for environmental monitoring and forecasting in areas without labeled data."
+}

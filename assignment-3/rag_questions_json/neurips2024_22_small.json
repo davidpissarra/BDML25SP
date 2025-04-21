@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge that distribution system operators (DSOs) face when planning electric vehicle (EV) charging infrastructure expansion, and how does the proposed study aim to address this challenge?",
+    "answer": "The primary challenge that DSOs face is optimizing grid expansion for efficiency to cover anticipated EV charging demand in various areas while not overloading the current network and not overspending on areas where demand is not as high. The proposed study aims to address this challenge by developing a method to generatively create anticipated EV charging load curves based on location characteristics, even in places where no chargers are present, to allow for DSOs and the wider community to better understand and simulate public EV charging behavior."
+}

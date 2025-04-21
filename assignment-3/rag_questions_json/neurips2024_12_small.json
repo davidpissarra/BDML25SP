@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the Detection and Attribution (D&A) process in climate change research, and how does the application of Vision Transformers (ViTs) contribute to this goal?",
+    "answer": "The primary goal of the Detection and Attribution (D&A) process is to distinguish the signals of human-induced warming from the inherently noisy patterns of natural climate variability to inform targeted mitigation and adaptation strategies effectively. The application of Vision Transformers (ViTs) contributes to this goal by utilizing their global attention mechanism to improve D&A models, which is particularly promising given the recent successes of MLPs and CNNs in similar tasks."
+}

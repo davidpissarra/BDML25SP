@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using large language models (LLMs) in life cycle assessments (LCA) to improve the usability of LCA as a decision-support tool for climate-smart policies?",
+    "answer": "The primary goal is to enhance the decision-making process by facilitating comparisons among LCAs, enabling policymakers to adopt data-driven climate policies, and encouraging the use of common assumptions by LCA practitioners, ultimately creating a foundational model for LCA tasks that can plug-in with existing open-source LCA software and tools."
+}

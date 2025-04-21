@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed Bayesian optimal experimental design (BOED) approach improve the estimation of climate metrics from Earth system models (ESMs) compared to traditional sampling methods like Latin hypercube sampling?",
+    "answer": "The BOED approach optimizes the expected information gain (EIG) to select the most informative input parameters for ESM simulations, actively accounting for observed data to reduce uncertainty in climate metrics, unlike traditional methods which may evaluate simulators in parameter regions unlikely to produce simulations matching observed data."
+}

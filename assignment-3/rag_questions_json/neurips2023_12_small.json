@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge that traditional, passive controllers like spring-damper face when dealing with complex ocean waves, and how does the proposed reinforcement learning controller address this issue?",
+    "answer": "The main challenge that traditional, passive controllers like spring-damper face when dealing with complex ocean waves is that they are sub-optimal for ocean waves that have a spectrum of frequencies with components in multiple directions, known as spread waves. The proposed reinforcement learning controller addresses this issue by utilizing information from incoming waves obtained from wave sensors further out in the ocean, enabling the agent to effectively utilize this information and maximize power for a variety of sea states for a specific location while minimizing the yaw rotational motion detrimental to the device's longevity."
+}

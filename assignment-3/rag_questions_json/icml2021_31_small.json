@@ -1,0 +1,4 @@
+{
+    "question": "What is the main difference between the proposed Residual DMD Neural Network (Res-DMD) and the standard Dynamic Mode Decomposition (DMD) approach in modeling non-linear dynamics?",
+    "answer": "The main difference is that the Res-DMD explicitly models the non-linear term of the dynamics with a neural network, whereas the standard DMD approximates the non-linear dynamics with a linear system and random noise."
+}

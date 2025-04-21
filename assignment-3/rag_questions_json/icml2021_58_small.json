@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed method in this study, and how does it aim to achieve it?",
+    "answer": "The main goal of the proposed method is to optimize energy exchanges to maximize renewable energy penetration within the community. It achieves this by predicting future household electricity consumption using machine learning from past time series data, and then determining the next energy-exchange strategy to minimize the surplus of solar energy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main objective of the research presented in this work, and how does it differ from previous studies on ice cloud process understanding?",
+    "answer": "The main objective of this work is to provide regime-dependent ice water path (IWP) with high spatio-temporal coverage, which is achieved by training a convolutional neural network (CNN) on SEVIRI data supervised by co-located IWP retrievals from DARDAR. This differs from previous work as it provides insight into both ice regimes (cirrus and mixed-phase clouds) independently, whereas previous studies have combined geostationary and actively sensed retrievals for IWP predictions without considering the context of cloud regime."
+}

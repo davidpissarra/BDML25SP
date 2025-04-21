@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of current Alaskan heating load estimation work, and how does the proposed research approach address this limitation?",
+    "answer": "The main limitation of current Alaskan heating load estimation work is its micro-level scale, which is often invasive and labor-intensive, making it impractical to visit each of the approximately 230,000 buildings in Alaska's railbelt. The proposed research approach addresses this limitation by pioneering a geospatial-first methodology that integrates remote sensing and machine learning techniques to estimate heating loads at the building level, providing a more accurate and efficient method for researchers and policymakers to inform grid modernization, diversify energy sources, and advise retrofitting and other energy efficiency update programs in the state."
+}

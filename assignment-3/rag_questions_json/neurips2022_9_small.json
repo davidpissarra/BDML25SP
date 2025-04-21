@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study, and how does the use of SIF-based GPP in addition to radar and optical imagery improve the model's performance?",
+    "answer": "The primary goal of the study is to generate a wall-to-wall map of aboveground carbon biomass (AGB) within the Continental USA (CONUS) with 30-meter spatial resolution for the year 2021. The use of SIF-based GPP in addition to radar and optical imagery reduces the validation RMSE by almost 10% and the standard deviation by 40%, indicating improved model performance."
+}

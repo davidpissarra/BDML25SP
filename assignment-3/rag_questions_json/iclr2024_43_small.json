@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using synthetic data, such as the Faraday model, in grid modelling, compared to unlocking raw datasets through regulatory changes?",
+    "answer": "Synthetic data addresses privacy issues directly, allowing for the creation of household-level synthetic load profiles conditioned on labels such as property type and low carbon technologies ownership, which can be used for real-world applications by grid modellers interested in modelling energy grids of the future."
+}

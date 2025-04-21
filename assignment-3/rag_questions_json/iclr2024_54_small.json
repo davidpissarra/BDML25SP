@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of using SHapley Additive exPlanations (SHAP) in power systems, and how does it help in understanding the outcomes of Machine Learning (ML) models?",
+    "answer": "The main goal of using SHAP in power systems is to provide detailed explanations of ML model predictions, which helps in understanding the outcomes of ML models by demonstrating that SHAP values can be related back to the physics that underpin the power system, thereby building confidence in the explanations SHAP can offer."
+}

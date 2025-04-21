@@ -1,0 +1,4 @@
+{
+    "question": "What are the two main approaches developed to detect the onset of flowering at large-scale and high-resolution, and which one provides the best performance?",
+    "answer": "The two main approaches developed are: 1) using fine grain temperature data with domain knowledge based features and traditional machine learning models, and 2) using satellite data with deep learning to deal with high dimensionality and transfer learning to overcome ground truth label sparsity. The first approach provides the best performance."
+}

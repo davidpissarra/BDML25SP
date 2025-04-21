@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using SatCLIP embeddings in geospatial predictive modeling tasks?",
+    "answer": "SatCLIP embeddings can be used for various predictive out-of-domain tasks, including temperature prediction and animal recognition in imagery, and outperform existing competing approaches, while also helping to overcome geographic domain shift."
+}

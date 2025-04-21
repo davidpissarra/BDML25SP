@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using Physics-Informed Neural Networks (PINNs) for modeling pollution spread under laminar flow conditions, as demonstrated in the research?",
+    "answer": "PINNs offer a drastic reduction in computational time, making them a viable solution for real-time pollution monitoring and emergency response planning, with a speedup of over 2520 times compared to traditional numerical solvers."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can deep learning methods accurately reconstruct global ocean deoxygenation over a century under sparse dissolved oxygen observations, considering the irregular 4D spatio-temporal heterogeneity and coupled physical-biogeochemical properties?",
+    "answer": "Yes, our proposed O XYGENERATOR model, a spatio-temporal graph learning model, can significantly outperform CMIP6 numerical simulations, reducing MAPE by 38.77%, and demonstrate a promising potential to understand the ocean deoxygenation in a data-driven manner."
+}

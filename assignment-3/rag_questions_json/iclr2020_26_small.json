@@ -1,0 +1,4 @@
+{
+    "question": "What are the key features that a unified dataset for optimizing energy consumption in smart buildings should ideally contain, according to the proposal?",
+    "answer": "The proposed dataset should contain the structure of main energy sources within the smart-grid unit, a unified energy time step (preferably seconds but with a minimum of minutes), water consumption as an auxiliary data, and other environmental impact for electrical devices such as consumed water and Chloroﬂuorocarbon (CFC) emissions."
+}

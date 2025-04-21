@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using Aerosol Optical Depth (AOD) as a proxy for aerosol concentration or Cloud Condensation Nuclei (CCN), and how does it relate to the reconstruction of aerosol vertical profiles?",
+    "answer": "The main challenge in using AOD as a proxy for aerosol concentration or CCN is that it does not provide information on the vertical distribution of aerosols, which is crucial for understanding the direct and indirect effects of aerosols on the Earth's energy budget. AOD is useful as a measure of total aerosol load within the column, but vertically resolved aerosol extinction coefficient bext shows significantly higher correlations with CCN or its proxies, making it essential to reconstruct aerosol vertical profiles to accurately assess aerosol-cloud interactions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary tool used for predicting the flow transport of CO2 in CO2 storage projects, and what are the challenges associated with its use?",
+    "answer": "Numerical simulation is the primary tool used for predicting the flow transport of CO2 in CO2 storage projects. However, it is governed by highly non-linear partial differential equations (PDEs) and requires fine spatial and temporal discretization for accurate depiction of flow processes, making large-scale numerical simulation computationally expensive, inefficient, and even infeasible for some CCS storage optimization problems."
+}

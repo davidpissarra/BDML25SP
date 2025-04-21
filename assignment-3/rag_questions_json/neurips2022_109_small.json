@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing techniques in learning long-term sequential dependencies in the context of Arctic sea ice concentration forecasting?",
+    "answer": "The main limitation of existing techniques is their inability to effectively learn long-term sequential dependencies, which can be attributed to the chaotic systems that drive Arctic SIC and the vanishing or exploding gradients that occur while training recurrent neural networks (RNNs)."
+}

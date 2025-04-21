@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the Iterative Logistic Regression (ILR) method in the context of shadow detection and removal from hyperspectral images?",
+    "answer": "The main goal of the Iterative Logistic Regression (ILR) method is to learn a spectral basis in which shadows can be linearly classified, allowing for the extraction of the maximum likelihood mixing parameter of the Gaussians to estimate the shadow coverage and correct the shadowed spectra."
+}

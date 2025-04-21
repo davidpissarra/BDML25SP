@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in implementing smart meters for energy demand forecasting, and how can federated learning help address this challenge?",
+    "answer": "The main challenge is that smart meter data can expose private aspects of a consumer's household, such as occupancy and appliance usage, which can be used to infer sensitive information. Federated learning can help address this challenge by allowing for the training of accurate energy demand forecasting models that preserve the privacy of consumer energy consumption data, making it possible to increase the adoption of smart meters among privacy-conscious consumers."
+}

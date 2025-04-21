@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the research presented in this work, and how does it aim to improve upon existing flood prediction systems?",
+    "answer": "The main goal of the research is to develop generalizable, multi-basin models of river flooding susceptibility using machine learning, which can reduce the need for extensive in-situ measurements and make flood prediction more accessible to all at-risk communities. This work aims to improve upon existing flood prediction systems by providing a more cost-effective and generalizable approach that can be applied across different river basins, rather than relying on expensive and time-consuming physics-based models that are limited to small geographic areas."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using community science data for species distribution models (SDMs) and how can spatial clustering algorithms help address this issue?",
+    "answer": "The main challenge is that community science data are not collected according to the sampling design prescribed by occupancy models, which are necessary to correct for imperfect detection. Spatial clustering algorithms can help address this issue by framing the challenge of creating sites for occupancy models from unstructured community science data as a spatial clustering problem, known as the Site Clustering Problem."
+}

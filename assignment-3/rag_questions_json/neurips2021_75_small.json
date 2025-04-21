@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed study, and how does it aim to improve the detection of hydrological extreme events?",
+    "answer": "The main goal of the proposed study is to develop a machine learning-based anomaly detection model with semi-supervised approaches to improve the detection of hydrological extreme events. This model aims to be easily applicable to any other region and to be run with future climate projection scenarios, serving as an early warning system for natural disaster response."
+}

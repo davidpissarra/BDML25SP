@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in applying deep neural network models to satellite imagery for climate-relevant infrastructure assessment, especially when the model is applied to stylistically different geographies?",
+    "answer": "The primary challenge is the domain gap, which occurs when the visual properties of the images used to train the model differ significantly from those used to test the model, leading to unreliable model performance."
+}

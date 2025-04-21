@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a CNN-based emulator to calibrate Earth System Models (ESMs) compared to traditional methods?",
+    "answer": "The CNN-based emulator can be trained effectively using a combination of inexpensive lower-resolution examples from the same ESM and a relatively small number of high-resolution examples, reducing the required CPU time for calibration by 20-40%."
+}

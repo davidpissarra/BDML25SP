@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed SCALAE method in the context of climate change and land use/land cover change estimation?",
+    "answer": "The main contribution of SCALAE is the ability to generate satellite imagery conditional on gridded population distributions, allowing for the explicit disentanglement of population from the model's latent space and the input of custom population forecasts into the generated imagery."
+}

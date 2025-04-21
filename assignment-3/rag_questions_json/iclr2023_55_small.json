@@ -1,0 +1,4 @@
+{
+    "question": "What is the estimated environmental impact of training a 176 billion parameter BLOOM language model, considering both dynamic power consumption and the overheads of manufacturing training platforms?",
+    "answer": "The estimated environmental impact is 50.5 metric tonnes of CO2, which is double the impact when only considering dynamic power consumption, and does not include the impact incurred from serving the model."
+}

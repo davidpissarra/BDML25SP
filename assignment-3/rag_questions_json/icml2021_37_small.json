@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of semantic segmentation in the context of natural disaster damage assessment, and how does it aid in rescue efforts?",
+    "answer": "The primary goal of semantic segmentation in the context of natural disaster damage assessment is to assign semantic labels to each pixel of an image, which can assist in rescue efforts by providing quick and accurate damage assessment, facilitating the rescue efforts."
+}

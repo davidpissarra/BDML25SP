@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the research presented in this paper, and how does it contribute to the development of solar PV forecasts in emerging economies?",
+    "answer": "The primary goal of the research is to investigate the performance of low-resource nowcasting models for solar PV yield and estimate their potential benefit in reducing carbon emissions. The research contributes to the development of solar PV forecasts in emerging economies by exploring smaller, shallower neural network architectures that can be deployed independently of hardware limitations, making them suitable for use in low-resource settings where the need for clean energy solutions is greatest."
+}

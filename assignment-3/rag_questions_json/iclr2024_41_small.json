@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed framework in the context of spatiotemporal predictions, and how does it address the limitations of conventional metrics?",
+    "answer": "The main contribution of the proposed framework is the introduction of a spatially aware evaluation metric and loss function based on Optimal Transport (OT), which leverages partial OT to minimize relocation costs in any spatial prediction problem, addressing the limitations of conventional metrics that only quantify error per time step and station, ignoring the spatial distribution of residuals and their implications in a production setting involving relocation costs."
+}

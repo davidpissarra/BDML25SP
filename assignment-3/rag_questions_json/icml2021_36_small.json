@@ -1,0 +1,4 @@
+{
+    "question": "What is the main objective of the proposed LSTM architecture in the paper, and how does it differ from previous LSTM models?",
+    "answer": "The main objective of the proposed LSTM architecture is to estimate streamflow that implicitly modulates fast and slow flow components, respecting mass conservation. This differs from previous LSTM models, such as Hoedt et al. (2021), which modified an LSTM to represent the dynamics of the water balance in a recurrent cell, but did not explicitly address the modulation of fast and slow flow components."
+}

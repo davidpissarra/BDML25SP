@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed energy game-theoretic framework, and how does it aim to achieve it?",
+    "answer": "The main goal of the proposed energy game-theoretic framework is to incentivize occupants to modify their behavior in a competitive game setting to reduce the overall energy consumption in the building. It achieves this by assigning points to players based on their energy-efficient daily usage compared to their peers and their past usage, and using a lottery mechanism with gift cards to incentivize occupants."
+}

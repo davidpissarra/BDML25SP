@@ -1,0 +1,4 @@
+{
+    "question": "What is the most optimal loss function to use for training a deep learning model to classify levels of building damage in satellite imagery?",
+    "answer": "Ordinal-cross entropy loss is the most optimal loss function to use for training a deep learning model to classify levels of building damage in satellite imagery."
+}

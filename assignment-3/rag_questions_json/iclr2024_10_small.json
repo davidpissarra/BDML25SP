@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed method in the context of climate forecasting, and how does it improve the reliability of the forecasts?",
+    "answer": "The main contribution of the proposed method is the calibration of a UNet++ based architecture for sub-seasonal forecasting, which is shown to produce well-calibrated and sharp forecasts. This method improves the reliability of the forecasts by providing a way to ensure confidence in the predictions, which is crucial for climate sciences, especially in predicting extreme events such as temperature anomalies."
+}

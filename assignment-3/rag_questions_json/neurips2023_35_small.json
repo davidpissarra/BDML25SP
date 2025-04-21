@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in modeling plasma dynamics in tokamaks, and how does the neural ordinary differential equations (ODE) framework address this issue?",
+    "answer": "The main challenge in modeling plasma dynamics in tokamaks is the difficulty of balancing computational cost and the complexity of plasma modeling, as well as the relative paucity of data. The neural ODE framework addresses this issue by introducing physics-based inductive biases, allowing for more efficient and robust data-driven prediction of plasma dynamics."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary contribution of the research presented in this paper, and how does it differ from existing research in the field of unit commitment (UC) problems?",
+    "answer": "The primary contribution of the research is a novel and scalable approach applying reinforcement learning (RL) to the UC problem, which shows significant potential to learn complex operational strategies and outperform mixed-integer linear programming (MILP) approaches. This research differs from existing research in the field, which has focused on small numbers of generators and deterministic problems, whereas this study tackles larger power systems with stochastic demand and wind generation, and investigates the impact of carbon pricing on carbon emissions."
+}

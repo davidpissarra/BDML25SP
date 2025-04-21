@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using Synthetic Aperture Radar (SAR) data for flood detection, and how does the proposed DSE framework address this limitation?",
+    "answer": "The main limitation of using SAR data for flood detection is that human analysts often struggle to interpret SAR images due to speckle noise. The proposed DSE framework, Diffusion-based SAR-to-EO Image Translation, addresses this limitation by converting SAR images into EO-like imagery, thereby enhancing their interpretability for human analysis."
+}

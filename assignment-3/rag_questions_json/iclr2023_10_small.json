@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary focus of the proposed Context Guided convolutional neural network architecture, and how does it differ from previous approaches to semantic segmentation of tropical cyclones?",
+    "answer": "The primary focus of the proposed Context Guided convolutional neural network architecture is on tropical cyclones, the most destructive weather events, for which current models show limited performance. Unlike previous approaches that optimize for intersection over union, this architecture specifically seeks to improve recall to penalize under-counting and prioritize the identification of tropical cyclones."
+}

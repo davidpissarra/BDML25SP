@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using radar data alone to determine severe hail risk, and how does the proposed Bayesian approach address this limitation?",
+    "answer": "The main limitation of using radar data alone is that it is insufficient to definitively separate severe hail from hail less than 2cm in diameter and heavy rain. The proposed Bayesian approach addresses this limitation by developing a probabilistic framework that relates radar data to the probability of hail at the surface while accounting for chronic under-reporting of hail and incorporating prior knowledge and a probabilistic characterisation of observational uncertainties."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed solution, Chase, in reducing the carbon footprint of DNN training?",
+    "answer": "Chase aims to reduce the carbon footprint of DNN training without migrating or postponing jobs, by observing real-time carbon intensity shifts and controlling the energy consumption of GPUs, while maintaining training performance."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using ultrasonic or laser technologies for ground-based snow depth measurements in high alpine regions?",
+    "answer": "The primary challenge is that these technologies measure the height of any underlying object, whether it is snow or vegetation in snow-free periods, making it difficult to distinguish between snow and non-snow measurements."
+}

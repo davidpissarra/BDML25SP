@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge hindering the widespread adoption of WiFi-based Occupancy Positioning Systems (OPS) in smart buildings, and how does the proposed WiGAN scheme address this issue?",
+    "answer": "The primary challenge hindering the widespread adoption of WiFi-based OPS is the labor-intensive and time-consuming off-line site survey process, as well as the vulnerability of the manually calibrated radio map to temporal and spatial dynamics. The proposed WiGAN scheme, which combines Gaussian Process Regression and Generative Adversarial Network, addresses this issue by providing an automatic fine-grained radio map construction and adaptation scheme that can adapt to changing indoor environments."
+}

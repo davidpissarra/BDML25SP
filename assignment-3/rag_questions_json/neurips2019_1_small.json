@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed approach to improve the efficiency of the Optimal Power Flow (OPF) problem in electrical grid management, and what benefits does it offer?",
+    "answer": "The proposed approach uses machine learning to produce a solution to the OPF problem, which is then used to warm-start an ACOPF solver, resulting in a significantly faster execution time and guaranteed legality, while potentially saving hundreds of megatons of CO2-equivalent per year."
+}

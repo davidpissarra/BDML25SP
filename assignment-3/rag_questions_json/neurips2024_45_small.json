@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using machine learning (ML) models for crop modeling, and how does the proposed method address this challenge?",
+    "answer": "The main challenge in using ML models for crop modeling is that they operate as black boxes and lack adherence to crop growth's physical principles. The proposed method addresses this challenge by combining the strengths of both ML and simulation models to estimate water use and crop sensitivity to water scarcity at the pixel level, enabling yield loss estimation grounded in physical principles."
+}

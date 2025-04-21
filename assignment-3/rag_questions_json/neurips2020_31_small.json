@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in analyzing climate-related financial disclosures and how does the proposed ClimateQA tool aim to address it?",
+    "answer": "The main challenge in analyzing climate-related financial disclosures is the lack of quantitative data and the difficulty in extracting relevant information from hundreds of pages of financial documents. The ClimateQA tool aims to address this challenge by leveraging Natural Language Processing (NLP) to identify climate-relevant sections in financial reports using a question-answering approach, thereby reducing the time and effort required to analyze these disclosures."
+}

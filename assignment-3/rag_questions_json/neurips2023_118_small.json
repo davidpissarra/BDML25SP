@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in detecting sand mining activity using satellite imagery, and how do researchers propose to address this challenge?",
+    "answer": "The primary challenge in detecting sand mining activity using satellite imagery is the high amounts of informality and temporal variability in sand mining, making it hard to distinguish from natural fluvial processes. Researchers propose to address this challenge by using self-supervised learning (SSL) in combination with open-access medium-resolution satellite imagery and a new dataset of hand-crafted labels to build a custom sand mine detection tool."
+}

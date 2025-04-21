@@ -1,0 +1,4 @@
+{
+    "question": "What is the key innovation of the Stormer model in weather forecasting, and how does it improve upon existing methods?",
+    "answer": "The key innovation of the Stormer model is its randomized dynamics forecasting objective, which trains the model to forecast the weather dynamics at random intervals and combine them to obtain better forecast accuracy. This approach improves upon existing methods by allowing the model to learn and resolve different time scales, including the diurnal cycle and synoptic-scale dynamics, and to prioritize near-surface variables using a physics-based weighting function."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in training Convolutional Neural Networks (CNNs) on camera trap image datasets, and how does two-phase training address this issue?",
+    "answer": "The primary challenge in training CNNs on camera trap image datasets is the highly imbalanced class-distribution, which results in biased classiﬁers that perform well for a few majority classes but poorly for many minority classes. Two-phase training is proposed as a solution to mitigate this imbalance, which involves training a model on a subset of the dataset and then fine-tuning it on the minority classes, resulting in improved performance for minority classes with limited loss in performance for other classes."
+}

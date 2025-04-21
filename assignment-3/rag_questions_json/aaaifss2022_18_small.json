@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary motivation behind the proposed Graph Autoencoder for Multiple time resolution Energy Systems (GAMES) approach in the context of joint power-NG system planning?",
+    "answer": "The primary motivation behind the proposed Graph Autoencoder for Multiple time resolution Energy Systems (GAMES) approach is to efficiently extract a set of representative days from power and NG data in respective networks, thereby reducing the computational burden required to solve the Generation and Transmission Expansion Problem (GTEP) for joint planning of power-NG systems."
+}

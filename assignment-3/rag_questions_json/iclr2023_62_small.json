@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by battery energy storage systems (BESS) in the context of solar photovoltaic (PV) curtailments, and how can it be addressed?",
+    "answer": "The main challenge faced by BESS is that its backup role significantly limits its economic value, disincentivizing its deployment due to high investment costs. This can be addressed by designing an effective coordination strategy for the co-located solar-BESS system to simultaneously reduce solar curtailment and improve the BESS's economic viability through energy arbitrage in the wholesale electricity market."
+}

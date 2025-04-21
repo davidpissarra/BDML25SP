@@ -1,0 +1,4 @@
+{
+    "question": "What is the main novelty of the proposed approach in climate model emulation, and how does it improve upon existing methods?",
+    "answer": "The main novelty is framing climate model emulation as a transfer learning task, which allows using all high-resolution data as an auxiliary task to help learn the low-resolution emulator, resulting in improved generalization performance and forecasting ability without any further cost at simulation time."
+}

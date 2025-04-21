@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting drought occurrence and impact in East Africa, particularly in Kenya, and how does the proposed machine learning pipeline address this challenge?",
+    "answer": "The main challenge in predicting drought occurrence and impact in East Africa, particularly in Kenya, is the complex interactions of large-scale atmospheric circulation with local orography. The proposed machine learning pipeline addresses this challenge by developing an open-source pipeline for training and evaluating machine learning algorithms with geospatial datasets, which can easily combine data from multiple sources, such as gridded climate data and satellite imagery, and can be applied to other hydrological and climatological problems."
+}

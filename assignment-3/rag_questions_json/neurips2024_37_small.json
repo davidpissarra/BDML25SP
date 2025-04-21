@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of existing approaches to detecting and quantifying methane emissions using Sentinel-2 data, and how does Methane SatMapper address this limitation?",
+    "answer": "The primary limitation of existing approaches is their reliance on temporal analysis of shortwave-infrared spectra, assuming consistent ground conditions and prior knowledge of methane-free periods, which can lead to errors and limit scalability. Methane SatMapper addresses this limitation by introducing a novel module that localizes and quantifies methane plumes without the need for temporal data, utilizing all 12 spectral channels of Sentinel-2 imagery to effectively estimate ground terrain and detect methane emissions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the study presented in the paper, and how does it aim to improve Earth System Models (ESMs)?",
+    "answer": "The main goal of the study is to develop a physics-informed machine learning (ML)-based cloud microphysics parameterization for the ICON model, which aims to improve Earth System Models (ESMs) by incorporating higher resolution dynamics into the lower resolution ESM, thereby enhancing the representation of subgrid-scale cloud microphysics and improving the accuracy of climate projections."
+}

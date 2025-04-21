@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed explainable multi-agent recommendation system for load shifting in household appliances, and how does it address the limitations of existing approaches?",
+    "answer": "The primary goal of the proposed system is to provide understandable and persuasive recommendations to support electricity consumers' behavioral change in tackling the energy efficiency problem. It addresses the limitations of existing approaches by enhancing the predictive capacity of agents with weather data and state-of-the-art models, and introducing an Explainability Agent that provides transparent recommendations, thereby increasing the trust and acceptance rate of users."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in training deep learning models like ConvCNP on real environmental observations, and how does the Sim2Real approach address this challenge?",
+    "answer": "The main challenge is the sparsity of real observations, which presents a challenge for data-hungry deep learning models like ConvCNP. The Sim2Real approach addresses this challenge by pre-training the model on abundant simulator data from reanalysis datasets and then fine-tuning it on limited real weather station data, allowing the model to learn from both simulated and real-world data."
+}

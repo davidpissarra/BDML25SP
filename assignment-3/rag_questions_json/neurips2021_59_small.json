@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of high-resolution simulations such as the ICON-LEM, and how do machine learning approaches address this limitation?",
+    "answer": "The primary limitation of high-resolution simulations such as the ICON-LEM is their extremely high computational cost, which makes it impractical to run them for a longer period or in larger spatial domains. Machine learning approaches address this limitation by leveraging satellite observations providing long-term global spatial coverage, enabling the development of models that can capture key processes such as autoconversion rates, which are essential for understanding aerosol-cloud-precipitation interactions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in calibrating physics-informed digital twins of buildings and heating, ventilation, and cooling (HVAC) systems, and how does ANP-BBO address this challenge?",
+    "answer": "The primary challenge in calibrating physics-informed digital twins of buildings and HVAC systems is the large-scale, black-box calibration problem due to the nonlinear behavior and numerical stiffness of the models, which often comprise hundreds or thousands of parameters to be calibrated. ANP-BBO (Attentive Neural Processes-Batch Bayesian Optimization) addresses this challenge by leveraging attentive neural processes and batch-wise Bayesian optimization to provide a scalable and parallelizable methodology for calibrating digital twins without exhaustive simulations."
+}

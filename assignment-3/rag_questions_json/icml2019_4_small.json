@@ -1,0 +1,4 @@
+{
+    "question": "What are the unique challenges of climate event tracking compared to traditional visual object tracking, and how does the proposed model address these challenges?",
+    "answer": "Climate event tracking has two unique challenges: (1) it involves longer-term and wider-range spatio-temporal dynamics between multiple scientific variables, and (2) the target events are not rigid bodies and can change shape with no clear boundary, making it difficult to associate an object of interest with the correct one in consecutive frames. The proposed model addresses these challenges by utilizing a ConvLSTM-based end-to-end model with two sub-modules: the focus learning module to learn where and what to focus, and the tracking module to track what was focused on, effectively taking long-term and wide-range dynamics into account."
+}

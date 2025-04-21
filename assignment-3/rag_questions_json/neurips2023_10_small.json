@@ -1,0 +1,4 @@
+{
+    "question": "What method do researchers leverage to improve the robustness of deep learning models for remote sensing of PV installations and assess the reliability of a model's decision?",
+    "answer": "The wavelet scale attribution method (WCAM), which decomposes a model's prediction in the space-scale domain to provide insights on which scales the representation of a PV model rests."
+}

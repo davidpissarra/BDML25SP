@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea behind the Quantum Mechanical Data Assimilation (QMDA) scheme employed in this work, and how does it relate to the dynamics and measurement formalism of quantum mechanics?",
+    "answer": "The QMDA scheme is based on the observation that the predictor-corrector structure of data assimilation resembles the dynamics and measurement formalism of quantum mechanics, where the system state evolves under unitary dynamics between measurements (analogous to the forward modeling step in data assimilation) and under projective dynamics during measurements (the so-called “wavefunction collapse”, analogous to the analysis step in data assimilation)."
+}

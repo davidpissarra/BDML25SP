@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of current methods for detecting methane emissions using Sentinel-2 satellite imagery, and how does the proposed approach address this limitation?",
+    "answer": "The main limitation of current methods is their reliance on temporal relations between a ratio of shortwave-infrared spectra and the assumption of relatively constant ground conditions, as well as the availability of ground information on when there was no methane emission on site. The proposed approach addresses this limitation by using a guided query-based transformer neural network architecture that detects and quantifies methane emissions without dependence on temporal information, leveraging the Sentinel Enhanced Matched Filter (SEMF) approach to classify confusing land cover types and artifacts."
+}

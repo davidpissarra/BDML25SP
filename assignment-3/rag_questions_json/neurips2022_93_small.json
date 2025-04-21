@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in generating synthetic residential load data and how does the proposed RLPGen method address this challenge?",
+    "answer": "The main challenge in generating synthetic residential load data is the lack of access to diverse and high-quality residential load data due to the cost-intensive data collection process and privacy concerns of data sharing. The proposed RLPGen method addresses this challenge by developing a Generative Adversarial Network (GAN)-based method that can generate synthetic yet realistic load data, and adopts a generation-focused weight selection method to select model weights and address the mode collapse problem, resulting in diverse load patterns."
+}

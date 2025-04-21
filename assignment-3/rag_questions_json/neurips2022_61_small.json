@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using traditional methods for simulating high-resolution climate data for future climates, and how do deep generative models address this challenge?",
+    "answer": "The main challenge in using traditional methods for simulating high-resolution climate data for future climates is that it becomes prohibitively expensive to simulate multiple possible climate scenarios. Deep generative models, such as Generative Adversarial Networks (GANs), leverage the expressivity of neural networks to model distributions in high dimensions, making them a promising approach for addressing this challenge."
+}

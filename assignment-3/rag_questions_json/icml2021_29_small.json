@@ -1,0 +1,4 @@
+{
+    "question": "What is the main assumption made in the migration model to simplify the parameterization of the full distribution p(X1;:::;X T) without requiring exponentially many parameters in T?",
+    "answer": "The model assumes that a bird's trajectory is Markovian, meaning that the bird's position one week only depends on the position the week before."
+}

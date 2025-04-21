@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in applying video prediction architectures to precipitation nowcasting tasks, and how does the proposed Nowformer model address this challenge?",
+    "answer": "The main challenge in applying video prediction architectures to precipitation nowcasting tasks is that precipitation data have unique characteristics that differ from common video prediction benchmarks, such as a fluid mass spreading in a particular direction and individual life cycles from initiation to maturation to decay. The proposed Nowformer model addresses this challenge by incorporating a global dynamic attention module to extract global spatial features and a local dynamic attention module to learn how the intensity of fluids changes at each point in the frames, allowing it to capture spatiotemporal patterns and predict long-term future frames with high accuracy."
+}

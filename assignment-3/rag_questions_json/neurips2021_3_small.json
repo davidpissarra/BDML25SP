@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary motivation behind the development of AtmoDist, a novel self-supervised representation learning approach for atmospheric dynamics?",
+    "answer": "The primary motivation behind the development of AtmoDist is to provide a discriminative distance measure for atmospheric dynamics, which is critical for a wide range of applications addressing climate change, such as automatically classifying patterns and evaluating the impact of anthropogenic forcing."
+}

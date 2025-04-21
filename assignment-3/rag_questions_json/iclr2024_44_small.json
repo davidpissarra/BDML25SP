@@ -1,0 +1,4 @@
+{
+    "question": "What is a key challenge in applying physics-based models in predictive maintenance for wind turbine gearbox bearings, and how does the proposed approach address this challenge?",
+    "answer": "A key challenge is that system-specific measurements are often not available, making it difficult to adapt physics-based models to each scenario. The proposed approach addresses this challenge by treating unknown system coefficients as trainable parameters, allowing the model to incorporate physics without requiring precise measurements of component coefficients."
+}

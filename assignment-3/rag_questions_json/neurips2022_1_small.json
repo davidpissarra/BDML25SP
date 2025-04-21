@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed Skip Transformer-XL (STrXL) architecture in the context of Wave Energy Converters (WECs) and how does it improve their performance?",
+    "answer": "The main contribution of the proposed Skip Transformer-XL (STrXL) architecture is that it performs better and trains faster than state-of-the-art transformers for WEC control, boosting energy efficiency by an average of 25% to 28% over the existing spring damper controller, and almost eliminating mechanical stress from the rotational yaw motion."
+}

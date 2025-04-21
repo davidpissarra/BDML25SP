@@ -1,0 +1,4 @@
+{
+    "question": "What is the key element in calculating greenhouse gas emissions in the maritime transport segment, and how is it addressed in the proposed hybrid model?",
+    "answer": "Predicting ship speed through water is the key element in calculating greenhouse gas emissions. The proposed hybrid model addresses this by combining physical modeling with data-driven techniques, using a differential equation solver to estimate speed through calm water and a machine learning model to improve speed predictions in real-world conditions."
+}

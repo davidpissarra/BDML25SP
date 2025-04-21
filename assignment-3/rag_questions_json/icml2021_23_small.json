@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of using satellite-based atmospheric column density air pollution measurements for estimating air pollution concentrations near the surface?",
+    "answer": "The primary limitation of using satellite-based atmospheric column density air pollution measurements for estimating air pollution concentrations near the surface is that they currently only provide spatial resolutions in the kilometer range and with little information about the pollutant's vertical distribution, making it a non-trivial task to estimate concentrations near the surface."
+}

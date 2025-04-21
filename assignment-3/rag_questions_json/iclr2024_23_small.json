@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using generative deep learning approaches in emulating Earth system models (ESMs) for climate science?",
+    "answer": "Generative deep learning approaches are suitable for emulating ESMs due to their computational efficiency and ability to generate realizations in a fraction of the time required by ESMs."
+}

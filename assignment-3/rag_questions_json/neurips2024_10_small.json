@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed Green-DCC system in terms of workload distribution across geographically dispersed Data Center Clusters (DCCs)?",
+    "answer": "The main contribution of the proposed Green-DCC system is the use of Reinforcement Learning-based hierarchical controller techniques to dynamically optimize temporal and geographical workload distribution between data centers, considering various constraints and interdependencies such as non-uniform external weather, carbon intensity, computing resources, cooling capabilities, and dynamic bandwidth costs."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using deep learning approximators in model predictive control (MPC) for building operation, and how does it address the challenges of traditional MPC implementation?",
+    "answer": "The main advantage of using deep learning approximators in MPC is its low computational footprint, minimal software dependencies, and easy deployment on low-level hardware without compromising control performance. This approach addresses the challenges of traditional MPC implementation by learning optimal control policies from MPC data via a suitable function approximator, such as a deep learning model, which reduces the need for expert knowledge to set up the controller and increased computational power and dedicated software to run it."
+}

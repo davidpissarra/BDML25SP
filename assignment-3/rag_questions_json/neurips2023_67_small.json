@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using two-stage stochastic programs (SP) for decision making under uncertainty in renewable energy systems, and how can reinforcement learning (RL) potentially address this challenge?",
+    "answer": "The main challenge in using two-stage SP is scalability, as a large number of scenarios may be necessary for finding meaningful solutions, and the problem size can increase significantly with more scenarios. Reinforcement learning (RL) can potentially address this challenge by learning close to optimal solutions for first-stage variables of a two-stage stochastic program under different contexts without having to solve the full two-stage stochastic program."
+}

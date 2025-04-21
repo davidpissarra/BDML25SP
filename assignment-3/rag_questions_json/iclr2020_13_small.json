@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using ground sensors to monitor soil moisture across a large area, and how can machine learning be used to address this challenge?",
+    "answer": "The primary challenge in using ground sensors to monitor soil moisture across a large area is the high cost of equipment and labor required to embed the sensors, as well as the need for a great number of sensors to provide an accurate measure of soil moisture. Machine learning can be used to address this challenge by developing interpolation methods that estimate soil moisture between sensors using algorithms based on values and distance from nearby sensors and other features at the target location."
+}

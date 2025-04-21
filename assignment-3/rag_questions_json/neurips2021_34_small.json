@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the research presented in the text, and how does it differ from traditional statistical models used in TC intensity forecasting?",
+    "answer": "The main goal of the research is to provide meteorologists with an enhanced understanding of how convective evolution relates to rapid intensification (RI) events in tropical cyclones (TCs). This is achieved by leveraging powerful machine learning methods to analyze the spatio-temporal structure of deep convection within the storm, rather than simply providing a statistical model that predicts TC intensity directly from infrared (IR) imagery, which is a 'black-box' approach that is difficult for forecasters to utilize."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using air pollution modeling with satellite imagery, and how does the proposed GeoFormer model address this challenge?",
+    "answer": "The main challenge in using air pollution modeling with satellite imagery is the scarcity of ground-based monitoring facilities and the dependency on comprehensive datasets, often inaccessible for numerous areas. The proposed GeoFormer model addresses this challenge by combining a vision transformer module with a highly efficient time-series transformer module to predict surface-level nitrogen dioxide (NO2) concentrations from Sentinel-5P satellite imagery."
+}

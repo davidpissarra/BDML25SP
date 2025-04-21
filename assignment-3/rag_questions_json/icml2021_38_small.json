@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a multi-model ensemble to generate forecasts in the proposed online LSTM-based framework for hurricane trajectory prediction?",
+    "answer": "The main advantage of using a multi-model ensemble is that the ensemble members simulate the future state of the atmospheric system based on current environmental conditions, allowing the framework to capture the current and future environmental conditions that affect the hurricane trajectory path."
+}

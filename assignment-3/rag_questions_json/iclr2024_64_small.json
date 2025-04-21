@@ -1,0 +1,4 @@
+{
+    "question": "What are the limitations of the current 3D tree mapping approach used in the Open Forest Observatory (OFO) and how can Neural Radiance Fields (NeRF) improve it?",
+    "answer": "The current 3D tree mapping approach used in the OFO, which relies on classical structure-from-motion techniques, is prone to artifacts, lacks detail, and has difficulty on the forest floor where the input data (overhead imagery) has limited visibility. NeRFs, on the other hand, can produce higher quality results that are more robust to sparse views and support data-driven priors, leading to improved reconstruction quality and photorealism, which can facilitate virtual remote qualitative assessments and potentially even enable neural networks to augment or replace human assessments."
+}

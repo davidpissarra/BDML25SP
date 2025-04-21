@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in assessing climate-related financial information from company reports, and how does the proposed model address this challenge?",
+    "answer": "The main challenge is the high degree of inconsistency in how companies communicate climate-related financial information, which is often spread across discretionary and regulatory reports, and is a small portion of the report in question. The proposed model addresses this challenge by leveraging TF-IDF, sentence transformers, and multi-label k nearest neighbors (kNN) to assess alignment of climate disclosures at scale with a level of granularity and transparency that supports decision-making in the financial markets."
+}

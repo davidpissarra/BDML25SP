@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation in using Earth Observation (EO) data for climate-resilient programs and adaptation planning, and how does the proposed Street2Sat system address this limitation?",
+    "answer": "The primary limitation is a lack of ground-truth data for training and validating Machine Learning (ML) methods that use EO data as inputs. The proposed Street2Sat system addresses this limitation by providing a low-cost approach to creating ground-truth geo-referenced labeled datasets from street-level images, which can be used to train and validate ML methods for various applications, including crop type mapping."
+}

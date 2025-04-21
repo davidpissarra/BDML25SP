@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in reliably forecasting the potential air quality impact from prescribed fires in California, and how does the proposed research address this challenge?",
+    "answer": "The main challenge is forecasting the potential air quality impact from prescribed fires at hourly to daily time scales. The proposed research addresses this challenge by integrating prescribed fire simulation with a spatio-temporal graph neural network-based PM 2.5 forecasting model, which can aid land managers in minimizing the PM 2.5 exposure of vulnerable populations during controlled burns and inform the public when proposing prescribed fires."
+}

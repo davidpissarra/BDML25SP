@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the PyDCM library, and how does it contribute to reducing the operational carbon footprint of enterprise data centers?",
+    "answer": "The main goal of the PyDCM library is to enable fast prototyping of data center design and apply reinforcement learning-enabled control to evaluate key sustainability metrics, including carbon footprint, energy consumption, and temperature hotspots. It contributes to reducing the operational carbon footprint of enterprise data centers by providing a novel approach to design and control data centers using both design and machine learning methods, allowing for the development of carbon-aware control applications that incentivize lower carbon footprint while optimizing the HV AC cooling setpoint for the IT room."
+}

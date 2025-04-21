@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the current article in addressing the complex trade-offs in sustainable consumption, and how does it differ from existing recommender systems?",
+    "answer": "The main contributions of the current article are to propose and formalize a real-world multi-objective optimization problem for recommendations of personalized sustainable baskets, create a novel synthetic dataset based on sustainability factors and consumer real-world data, propose effective recommender baselines and quantify their impact on environmental criteria, and introduce a novel deep learning framework for mixed integer programming and multi-objective optimization problems. This differs from existing recommender systems, which often focus on specific aspects like diets or single product recommendations, and overlook the environmental aspects of products."
+}

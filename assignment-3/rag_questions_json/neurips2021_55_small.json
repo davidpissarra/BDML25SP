@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge faced by the authors in generating a vision dataset for natural disaster management, and how do they propose to address it?",
+    "answer": "The primary challenge faced by the authors is the cost of labeling the data, especially for semantic segmentation, which often leads to labels only for a small percentage of the data. They propose to address this challenge by using a semi-supervised method of training, generating pseudo labels for both classification and segmentation during training, and slowly incrementing the amount by which the pseudo label loss affects the final loss."
+}

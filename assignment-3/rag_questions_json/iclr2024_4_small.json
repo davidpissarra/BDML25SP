@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using global LSTM models for streamflow prediction, and how does the Geo-ViT-LSTM approach address this challenge?",
+    "answer": "The main challenge in using global LSTM models for streamflow prediction is the difficulty in acquiring detailed basin attributes, which are critical for understanding hydrological responses to climatic inputs. The Geo-ViT-LSTM approach addresses this challenge by integrating basin attributes derived from remote sensing with a vision transformer, allowing for the extraction of spatially informed context from remote sensing data and enhancing streamflow prediction with additional basin attributes."
+}

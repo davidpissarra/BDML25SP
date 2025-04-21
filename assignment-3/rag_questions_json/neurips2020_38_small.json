@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of the WeatherBench dataset in enabling precipitation forecasts, and how does RainBench address this limitation?",
+    "answer": "The main limitation of WeatherBench is that it does not include observational raw data (e.g. satellite imagery) and only contains ERA5 precipitation data, which has limited skill in representing extreme precipitation events. RainBench addresses this limitation by including SimSat data, which provides information about global cloud cover and moisture features, and IMERG data, a global half-hourly precipitation estimation product provided by NASA."
+}

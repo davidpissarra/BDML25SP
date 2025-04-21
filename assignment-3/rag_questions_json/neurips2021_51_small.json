@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in deploying Wave Energy Converters (WECs) and how does the proposed Multi-Agent Reinforcement Learning (MARL) controller address this challenge?",
+    "answer": "The main challenge in deploying WECs is the variability of the wave time period, height, and directionality in offshore locations, leading to the complexity of capturing energy. The proposed MARL controller addresses this challenge by using separate agents to control the reactive force of the generators on each of the three legs, allowing for better energy capture efficiency and adaptability to different wave conditions."
+}

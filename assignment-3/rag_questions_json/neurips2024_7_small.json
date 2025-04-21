@@ -1,0 +1,4 @@
+{
+    "question": "What is the main motivation behind developing a baseline of diverse machine learning techniques for sea-ice forecasting in the Arctic, and how does it contribute to addressing the challenges posed by climate change?",
+    "answer": "The main motivation is to fill the gap in existing research by providing strong baselines for different model architectures, which is crucial for informing current research and pointing out limitations with certain architectures. This is necessary because the changing climate and ice conditions are threatening the way of life of remote and native Arctic communities, making short-term high-resolution ice forecasts critical for their day-to-day operations and weather forecasting."
+}

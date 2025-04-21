@@ -1,0 +1,4 @@
+{
+    "question": "What is the main motivation behind developing advanced inverter models using physics-informed neural networks (PINNs) in the context of power systems?",
+    "answer": "The main motivation is to accelerate high-fidelity simulations needed to ensure a stable and reliable renewables-rich future grid, which is crucial for rapid decarbonization of power systems and enabling clean electrification in other sectors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using HV AC-DPT, a Decision-Pretrained Transformer, in multi-zone HV AC control?",
+    "answer": "HV AC-DPT enables scalable, data-efficient, and generalisable deployment across diverse building types, removing the need for retraining and pre-deployment data collection in new environments."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using meta-learning Bayesian Optimization (BO) techniques in Inertial Confinement Fusion (ICF) experiments, and how do these techniques improve the optimization process?",
+    "answer": "The primary goal of using meta-learning BO techniques in ICF experiments is to increase the effectiveness of the optimization process by leveraging prior knowledge from simulations or past experiments, thereby reducing the number of experiments needed to achieve a satisfactory yield. Meta-learning BO techniques, such as Meta-Learning Acquisition Functions for BO (MetaBO), Rank-Weighted Gaussian Process Ensemble (RGPE), and Neural Acquisition Processes (NAP), improve the optimization process by meta-learning the BO surrogate model, the acquisition function, or both, which enables rapid adaptation and high sample efficiency, ideal for the limited ICF experiments possible on a shot day."
+}

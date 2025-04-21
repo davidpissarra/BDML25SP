@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the efficiency optimizations proposed in the study, and how do they aim to achieve it?",
+    "answer": "The primary goal of the efficiency optimizations is to reduce the time and cost of vessel detection in SAR images while minimizing performance loss. They aim to achieve this by using a fast, cheap classification model and a statistical algorithm to efficiently determine whether at least one ship is present in an SAR image before applying the expensive base detection model."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in training deep learning models for crop mapping using Earth Observation (EO) data, and how can it be addressed?",
+    "answer": "The main challenge is the scarcity and difficulty of acquiring large amounts of annotated data, which can be addressed by using transfer learning methods to exploit available annotations and enable crop mapping for other regions, crop types, and years of inspection."
+}

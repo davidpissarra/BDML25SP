@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing robust solar forecasting systems using deep learning methods, and how does the proposed SkyImageNet dataset aim to address this challenge?",
+    "answer": "The main challenge is that current deep learning methods often rely on a single dataset with limited sample diversity for training, which leads to poor generalization to new locations and different sky conditions. The proposed SkyImageNet dataset aims to address this challenge by assembling, harmonizing, and processing a large-scale standardized sky image dataset collected in various geographical locations, thereby enabling more robust forecasting systems and facilitating the transition to sustainable energy systems."
+}

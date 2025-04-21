@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the paper in terms of addressing the environmental impact of Federated Learning (FL)?",
+    "answer": "The paper proposes a rigorous model to quantify the carbon footprint of FL, facilitating the investigation of the relationship between FL design and carbon emissions, and compares the carbon footprint of FL to traditional centralized learning, highlighting its potential as a greener technology."
+}

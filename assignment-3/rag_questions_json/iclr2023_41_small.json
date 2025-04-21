@@ -1,0 +1,4 @@
+{
+    "question": "What is the main issue with current PV portfolio designs that focus on yield maximization, and how does the proposed method address this issue?",
+    "answer": "The main issue with current PV portfolio designs that focus on yield maximization is that they ignore negative side-effects such as increased variability due to similar-oriented PV systems at clustered regions, leading to costly ancillary services and reduced acceptance of renewable energy. The proposed method addresses this issue by suggesting to rethink PV portfolio designs and derive mean-variability hedged PV portfolios with smartly orientated tilt and azimuth angles, using a data-driven method inspired by modern portfolio theory and automatic differentiation of the physical PV conversion model."
+}

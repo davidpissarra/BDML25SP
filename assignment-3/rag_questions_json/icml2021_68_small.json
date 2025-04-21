@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in analyzing wave breaking statistics from airborne imagery, and how can a data-driven approach using deep learning techniques help overcome this challenge?",
+    "answer": "The main challenge in analyzing wave breaking statistics from airborne imagery is differentiating between sunglint and whitecaps, which can contaminate the results due to their similar spatial and temporal structures. A data-driven approach using deep learning techniques, such as the UNet model, can help overcome this challenge by classifying objects at pixel resolution with great accuracy and identifying the unique spatial and temporal structures of sunglint and whitecaps."
+}

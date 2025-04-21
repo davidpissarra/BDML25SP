@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of using reinforcement learning (RL) in transportation simulations, and how does it contribute to reducing greenhouse gas emissions?",
+    "answer": "The primary objective of using reinforcement learning (RL) in transportation simulations is to determine optimal parameters for transportation systems to increase public transport usage and reduce individual vehicle reliance, thereby decreasing transportation emissions. RL can effectively find system interventions that increase public transit usage and decrease transportation emissions, making it a valuable tool for urban planners to optimize transportation objectives and contribute to a more sustainable transportation system."
+}

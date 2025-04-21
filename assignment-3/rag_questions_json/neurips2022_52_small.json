@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the work presented in the paper, and how does it address the challenges in global wildﬁre forecasting?",
+    "answer": "The main contribution of the work is the creation of a global dataset called the SeasFire Cube, which combines historical burned areas and carbon emissions from wildﬁres with variables related to the fire drivers. This dataset is used to train a deep learning model that treats global wildﬁre forecasting as an image segmentation task, allowing for the prediction of burned areas 8, 16, 32, and 64 days ahead of time. This work addresses the challenges in global wildﬁre forecasting by providing a large-scale, open-access dataset and leveraging the capabilities of deep learning models to improve the anticipation of global wildﬁre patterns."
+}

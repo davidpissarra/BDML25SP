@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of traditional machine learning methods in tackling the problem of accurately forecasting agricultural production under climate change, and how does the proposed approach aim to address this limitation?",
+    "answer": "The main limitation of traditional machine learning methods is that they lack consideration of causal structure, making them unreliable for counterfactual analysis necessary for policy decisions. The proposed approach aims to address this limitation by integrating nonlinear function approximators with robust causal estimation methods, such as cointegration analysis and Granger causality, to develop an accurate agricultural forecasting model capable of robust counterfactual analysis."
+}

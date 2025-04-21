@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using the Scene-to-Patch models approach in Land Cover Classification (LCC) compared to traditional methods?",
+    "answer": "The main advantage of using the Scene-to-Patch models approach in LCC is that it enables the use of high-level scene labels, reducing the need for segmentation datasets and allowing for faster development of new datasets, while still providing segmentation through patch-level predictions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can the generalizability of ice prediction models for wind turbines be improved to tackle climate change?",
+    "answer": "The generalizability of ice prediction models for wind turbines can be improved by utilising synthetic data augmentation via neural style transfer with Convolutional Neural Networks (CNNs), which helps in generating synthetic images that capture transferable fine-grained icing representations not bound to a specific wind park, thereby enabling effective predictions across different wind parks."
+}

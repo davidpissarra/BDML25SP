@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary reason for the high importance of monitoring coastline changes across the world, and how do researchers address the issue of errors in traditional image processing techniques?",
+    "answer": "The primary reason for the high importance of monitoring coastline changes is the severe impact on a major percentage of the population inhabiting coastal land zones, with a recent study placing 110 million people living below the local high tide line. To address the issue of errors in traditional image processing techniques, researchers use a moving average based composite image approach, which reduces the error margin to a half-pixel precision value."
+}

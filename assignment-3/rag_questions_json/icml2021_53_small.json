@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the demand response program proposed in this paper, and how does it differ from existing combinatorial multi-armed bandit (CMAB) algorithms?",
+    "answer": "The main goal of the demand response program is to minimize the expected loss, which is a function of the cost of buying electricity from the market and the cost of compensating consumers, by exploiting the heterogeneity in the consumer base. This differs from existing CMAB algorithms, which fail to work in this setting due to non-monotonicity of the reward function and time-varying optimal sets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed Graph Neural Network (GNN) based communication mechanism in the context of ocean plastic collection, and how does it enable agents to achieve this goal?",
+    "answer": "The primary goal of the proposed GNN based communication mechanism is to enable agents to collect as much macroplastics as possible from the ocean. The mechanism allows agents to develop a communication protocol using a binary signal, which enables them to collaborate effectively and increase their collective performance, while also maintaining high individual performance in terms of macroplastic collection."
+}

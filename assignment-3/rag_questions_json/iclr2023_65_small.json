@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using Graph Neural Networks (GNNs) in cyclone prediction, as proposed in the research paper?",
+    "answer": "The primary advantage of using GNNs in cyclone prediction is that they can model wind flow patterns as edges between nodes in a graph, thereby gaining a more comprehensive understanding of the entire atmospheric and oceanic system, which is not captured by traditional models."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary motivation behind the researchers' work on using machine learning techniques to downscale coarse resolution weather and climate simulations to finer resolution grids?",
+    "answer": "The primary motivation stems from The Jefferson Project at Lake George, a multiyear research initiative based at Lake George, New York, USA, which aims to understand the impact of human activity on fresh water and how to mitigate those effects, particularly in relation to the discovery that hydrodynamic simulations of Lake George are considerably more accurate when forced with high-resolution weather model data (<1 km horizontal resolution)."
+}

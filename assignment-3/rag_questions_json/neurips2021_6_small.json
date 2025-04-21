@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting subsurface response to CO2 injection and storage in deep saline aquifers, and how does the proposed Learning-based Inversion-free Prediction (LIP) framework aim to address this challenge?",
+    "answer": "The main challenge is the uncertainty associated with predicting subsurface response to CO2 injection and storage, which is a key barrier to developers seeking to secure financing, permits, and social license to inject CO2 into deep underground. The LIP framework aims to address this challenge by circumventing the challenging inverse modeling process through precomputing an ensemble of unconstrained forward simulations and using machine learning methods to learn the relationship between simulated observation and prediction variables, enabling rapid data assimilation and real-time decision support."
+}

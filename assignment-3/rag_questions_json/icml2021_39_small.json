@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of Generative Adversarial Networks (GANs) in weather generation, and how does Variational Autoencoders (VAEs) address this limitation?",
+    "answer": "GANs are unable to generate realistic extreme weather scenarios, including severe rainfall, wind storms, and droughts, because they do not explicitly learn the training data distribution and therefore depend on auxiliary variables for conditioning and controlling the synthesis. VAEs, on the other hand, explicitly learn the training set distribution and enable stochastic synthesis by regularizing the latent space to a known distribution, allowing for more effective control over weather field data synthesis towards more extreme scenarios."
+}

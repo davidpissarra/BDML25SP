@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using Conditional Normalizing Flows (CNFs) for stochastic climate variable downscaling compared to other generative models?",
+    "answer": "The main advantage of using CNFs is that they allow for the direct evaluation of predictive uncertainty by computing the standard deviation from the fitted distribution mean, unlike other generative models where predictive uncertainty is often computed over an ensemble of different runs of weight initializations or using techniques such as dropout."
+}

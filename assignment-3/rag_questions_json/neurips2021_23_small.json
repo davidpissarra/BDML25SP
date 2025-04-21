@@ -1,0 +1,4 @@
+{
+    "question": "What is the main motivation behind the need for machine learning models in solar energy forecasting, especially for longer lead times?",
+    "answer": "The main motivation is the computational expense of numerical weather prediction (NWP) models, which are traditionally more accurate at hours to days-ahead lead times, but are updated less frequently and with coarser resolution at longer prediction lead times, such as week(s) ahead."
+}

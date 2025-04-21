@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using deep learning models for climate and weather forecasting, and how does the proposed method address this limitation?",
+    "answer": "The main limitation of using deep learning models for climate and weather forecasting is that they often violate physical laws such as conservation of energy, momentum, and moisture. The proposed method addresses this limitation by introducing a renormalization layer at the end of the neural network, which guarantees that physical constraints are satisfied, ensuring that the predicted output values conserve important physical quantities."
+}

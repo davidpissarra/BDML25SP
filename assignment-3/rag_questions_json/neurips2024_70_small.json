@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in the spend classification process for companies, and how can Large Language Models (LLMs) help address this challenge?",
+    "answer": "The primary challenge in the spend classification process is its complexity, requiring company-specific context, domain knowledge of carbon accounting principles, and a comprehensive understanding of possible Emissions Factors (EFs). LLMs can help address this challenge by streamlining the process and providing a systematic evaluation of different modeling approaches, as demonstrated by the ATLAS dataset and its initial evaluation results."
+}

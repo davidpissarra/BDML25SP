@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the PREDISM model, and how does it differ from previous machine learning approaches in the disaster damage domain?",
+    "answer": "The primary goal of the PREDISM model is to predict building-level damages on a before-the-fact basis, allowing for resource distribution to minimize or preempt losses. Unlike previous studies that focus on after-the-fact damage estimation, PREDISM models susceptibility of buildings, landscapes, and habitats for a future calamity, predicting damages that could happen from a future hazard with a given intensity, without relying on massive past data but with current community information."
+}

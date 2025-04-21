@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation hindering the commercialization of Sodium-ion batteries (SIBs) and how can it be addressed?",
+    "answer": "The primary limitation hindering the commercialization of SIBs is the performance and synthesis routes of cathode active materials for SIBs. This limitation can be addressed by leveraging the insights derived from a large database of challenges restricting the performance and synthesis of SIB cathode active materials (CAMs) and pairing them with corresponding mitigation strategies from the SIB literature, which can be efficiently extracted using custom natural language processing (NLP) tools."
+}

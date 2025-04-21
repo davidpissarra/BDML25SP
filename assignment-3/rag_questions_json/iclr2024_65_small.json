@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using metal-organic frameworks (MOFs) for CO2 capture, and how can Graph Neural Networks (GNNs) help address this challenge?",
+    "answer": "The main challenge in using MOFs for CO2 capture is their highly complex crystal structure, which cannot be easily exploited in tabular data format in conventional machine learning methods. Graph Neural Networks (GNNs) can easily be trained on the representative crystallographic information file (CIF) content of MOFs, allowing for the screening of large numbers of MOF crystal structures directly from the data within the CIF files for their CO2 working capacity or CO2/N2 selectivity under low-pressure conditions."
+}

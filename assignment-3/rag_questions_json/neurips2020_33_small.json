@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing household energy demand models based on Time Use Survey data and Markov chains, and how does the proposed study address this limitation?",
+    "answer": "The main limitation of existing household energy demand models based on Time Use Survey data and Markov chains is that they are not able to capture day-to-day dependencies in occupant behavior due to the nature of the underlying data and the Markov property. The proposed study addresses this limitation by developing an approach that uses attention-based models to merge weekly mobility data with daily time use survey data, allowing for the capture of long-term dependencies in behavior and enabling the creation of high-quality mobility and activity data of individuals."
+}

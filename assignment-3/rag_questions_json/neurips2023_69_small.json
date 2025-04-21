@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by multi-agent reinforcement learning (MARL) methods in controlling microgrids (MGs) with a large number of distributed generators (DGs)?",
+    "answer": "The main challenge faced by MARL methods in controlling MGs with a large number of DGs is the curse of dimensionality, which causes the size of the observation and action spaces to exponentially increase with the number of agents, rendering the lack of scalability of the framework."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed deep learning framework for detecting schools of herring from echograms, and how does it improve upon traditional machine learning approaches?",
+    "answer": "The main contribution of the proposed deep learning framework is its ability to automate acoustic survey analyses, reducing processing times, required manpower, and inconsistencies in results. It outperforms traditional machine learning approaches that use hand-crafted features, and has the potential to be scaled to handle additional underwater species."
+}

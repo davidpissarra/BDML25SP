@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using drone imagery for monitoring, reporting, and verification (MRV) of forest ecosystem services, and how does the proposed algorithm TrueBranch address this challenge?",
+    "answer": "The main challenge is that landowners may report untruthful drone imagery, which can be altered in location, time, or with adversarial perturbation. TrueBranch, a metric learning-based algorithm, addresses this challenge by verifying the trustworthiness of reported drone imagery by matching it with public satellite imagery, thereby distinguishing truthfully and untruthfully collected imagery."
+}

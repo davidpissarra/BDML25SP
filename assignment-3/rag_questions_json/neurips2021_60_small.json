@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using classical machine learning and deep learning-based classification and segmentation algorithms for cloud observation, and how do the proposed transformer-based models address this challenge?",
+    "answer": "The main challenge is the subjectivity in the evaluation process, which introduces bias and uncertainties due to the heavy manual intervention of domain experts. The proposed transformer-based models, CloudViT and CloudUT, address this challenge by not inducing spatial biases and learning inter-patch dependencies from scratch, thus improving the robustness of the approach."
+}

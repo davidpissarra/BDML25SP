@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the FIDLA R architecture in the context of flood management, and how does it improve upon existing methods?",
+    "answer": "The main contribution of FIDLA R is the effective use of tools for model explainability, allowing us to understand the contribution of various environmental factors towards its decisions. FIDLA R performs better than the current state-of-the-art with several orders of magnitude speedup and provably better pre-release schedules, making it possible for real-time flood management."
+}

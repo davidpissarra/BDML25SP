@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed end-to-end deep learning model for rapid intensification (RI) prediction compared to other methods?",
+    "answer": "The main advantage of the proposed end-to-end deep learning model is that it automatically learns discriminative features from raw climate data rather than relying on heuristic hand-crafted features."
+}

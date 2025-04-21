@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in modeling CO2 sequestration in geological formations, and how can deep neural networks help address this challenge?",
+    "answer": "The main challenge in modeling CO2 sequestration in geological formations is the inherent uncertainty associated with the subsurface geology, which makes the process computationally intractable due to the heterogeneity of geological formations, large spatial domains, and the long time frame of CO2 sequestration. Deep neural networks can help address this challenge by providing probabilistic estimates of plume migration through uncertainty analysis with stochastic simulations, and by dealing with discontinuous geological heterogeneities, which is crucial for many sequestration formations."
+}

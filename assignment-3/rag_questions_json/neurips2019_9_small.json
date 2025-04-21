@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed data-to-text generation system in the context of wind energy, and how does it aim to contribute to the reliability of wind energy?",
+    "answer": "The primary goal of the proposed data-to-text generation system is to produce event descriptions from SCADA data capturing the operational status of turbines and proposing maintenance strategies, with the aim of making wind turbines a more reliable energy source and contributing to the uptake and sustainability of wind energy."
+}

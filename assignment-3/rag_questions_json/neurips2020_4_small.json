@@ -1,0 +1,4 @@
+{
+    "question": "How do the authors propose to improve the state-of-the-art industrial control strategies for district heating networks in China, where 87% of heat production is from coal or oil, to ensure both higher thermal comfort and smaller energy and operation cost?",
+    "answer": "The authors propose a deep reinforcement learning (DRL) approach, where a recurrent neural network is trained on simulated data to predict indoor temperatures, and then used to train two DRL agents, with or without expert guidance, for the optimal control of the supply water temperature."
+}

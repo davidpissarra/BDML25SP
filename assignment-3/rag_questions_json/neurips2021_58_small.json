@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed Mathematical Program with Neural Network Constraint (MPNNC) in the context of optimal bidding strategy in electricity markets?",
+    "answer": "The main goal of the proposed MPNNC is to leverage the learning abilities of neural networks to propose a data-driven representation of the imperfectly known lower-level problem in a bi-level structure, thereby enhancing the solution quality of the optimal bidding strategy."
+}

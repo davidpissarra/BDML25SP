@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed data-driven approach in understanding cloud physics, and how does it differ from traditional numerical weather and climate prediction models?",
+    "answer": "The main goal of the proposed data-driven approach is to improve the understanding of cloud physics by predicting the visual appearance of cloud photographs from physical quantities obtained from reanalysis data and attributing the decisions to physical quantities using explainable AI methods. This approach differs from traditional numerical weather and climate prediction models, which face challenges in effectively modeling cloud physics due to the large breadth of spatial and temporal scales involved."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by weak supervision systems in climate finance, particularly in the context of Monitoring, Reporting and Verification (MRV) tasks?",
+    "answer": "The main challenge faced by weak supervision systems in climate finance is the difficulty in interpreting model predictions, especially when dealing with critical data subsets or slices, such as selective logging or mining in land use and land use change (LULUC), where rare data is available."
+}

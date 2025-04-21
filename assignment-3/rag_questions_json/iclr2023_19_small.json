@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using machine learning and artificial intelligence to model and mitigate wildfires, and how does the proposed Burn Mitigation Dataset (BurnMD) aim to address this challenge?",
+    "answer": "The primary challenge is the lack of standardized and validated datasets that can accurately represent complex interactions among fire behavior, environmental conditions, and various mitigation options. The Burn Mitigation Dataset (BurnMD) aims to address this challenge by providing a novel dataset composed of 308 medium-sized fires from 2018-2021, complete with time series airborne-based inference and ground operational estimation of fire extent, and operational mitigation data such as control line construction, which can help advance fire projection modeling, fire risk modeling, and AI-generated land management policies."
+}

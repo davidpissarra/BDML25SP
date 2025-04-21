@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the 'personalization' of sustainable agriculture, and how is it achieved?",
+    "answer": "The main goal of the 'personalization' of sustainable agriculture is to provide farmers with targeted advice on best practices to use in order to uplift sustainable metrics, such as Soil Organic Carbon (SOC), depending on the particular farming context. This is achieved by leveraging climate data, land use information, and employing Double Machine Learning to estimate the heterogeneous effect of sustainable practices on SOC content at the field-level."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What are the primary objectives of the research proposal to develop an ocean monitoring system using machine learning and underwater cameras, and what are the challenges involved in detecting and classifying rarer species in the dataset?",
+    "answer": "The primary objectives of the research proposal are to detect and classify different species of fish in underwater video data and to determine the number of samples of each class required to develop an efficient and accurate deep learning model. The challenges involved in detecting and classifying rarer species in the dataset include the need for a large number of samples to train a model successfully, and the difficulty in distinguishing between similar species. To address these challenges, the researchers propose strategies such as collecting more data and using techniques to improve the quality of the data."
+}

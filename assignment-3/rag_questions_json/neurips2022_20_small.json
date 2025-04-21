@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using satellite observations to derive flood-extent maps directly, and how does the proposed approach address this limitation?",
+    "answer": "The main limitation of using satellite observations to derive flood-extent maps directly is that they are impeded by cloud and canopy cover, and can be very infrequent and hence miss the flood completely. The proposed approach addresses this limitation by fusing information contained within dynamic state variables from hydrologic models with direct observations from satellites, resulting in a model that has an hourly temporal resolution, contains no cloud-gaps, and generalizes to watersheds across the continental United States with a 6% error on held-out areas that never flooded before."
+}

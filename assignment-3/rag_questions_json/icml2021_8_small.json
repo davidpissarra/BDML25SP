@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the machine learning workflow presented in the paper for characterizing porous media from limited imaging data?",
+    "answer": "The primary goal of the machine learning workflow is to develop methods for 3D image volume translation and synthesis from 2D training data, enabling the characterization of rock samples and understanding of pore-scale storage and recovery processes."
+}

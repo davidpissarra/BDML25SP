@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using the proposed methodology for methane plume detection from PRISMA satellite images, compared to generating synthetic plumes from Large Eddy Simulations?",
+    "answer": "The proposed methodology avoids computationally expensive synthetic plume generation by generating a broad and realistic training database, thus paving the way for large-scale detection of methane plumes using future hyperspectral sensors."
+}

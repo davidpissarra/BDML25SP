@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a deep learning LULC (Land Use and Land Cover) workflow over traditional machine learning methods, especially in developing countries?",
+    "answer": "A deep learning LULC workflow is more scalable once a good-performing model is trained and selected, allowing it to take advantage of cloud GPU machines' computation powers, whereas traditional methods like Random Forest, Support Vector Machine, and XGBoost are more sensitive to class imbalance and may perform poorly with classes having less data in the training dataset."
+}

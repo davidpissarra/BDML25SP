@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed EfficientTempNet model in the context of radar rainfall products?",
+    "answer": "The primary goal of the proposed EfficientTempNet model is to increase the temporal resolution of radar-based rainfall products from 10 minutes to 5 minutes."
+}

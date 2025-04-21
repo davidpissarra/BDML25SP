@@ -1,0 +1,4 @@
+{
+    "question": "How can we ensure that non-Bit-for-Bit (BFB) identical simulation outputs from the Community Earth System Model (CESM) are a result of natural variation rather than a 'climate-changing' error introduced in the code?",
+    "answer": "Ensemble consistency testing (ECT) provides a statistical answer to this question by comparing the outputs from multiple CESM runs with slightly perturbed initial conditions to outputs from test runs with a modified version of the climate model, and issuing a pass or fail based on the first 50 sample PCA scores for global climate variable averages at the last time step of the simulation."
+}

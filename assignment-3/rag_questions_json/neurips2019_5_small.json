@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in integrating wind turbines into power systems, and how does the proposed approach address this challenge?",
+    "answer": "The primary challenge in integrating wind turbines into power systems is the lack of accurate location information, which is significantly impeded by the fact that only 42% of the over 398,000 installed wind turbines worldwide are mapped with accurate locations. The proposed approach, DeepWind, addresses this challenge by developing a deep learning model that uses weakly supervised convolutional neural networks to automatically localize wind turbines in satellite imagery, ultimately enabling the construction of a more complete and up-to-date global database of wind energy infrastructure."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by machine learning-augmented climate models in predicting climate data, and how does the proposed approach address this issue?",
+    "answer": "The main challenge faced by machine learning-augmented climate models is their vulnerability to irregular inputs, which can cause model instability and frequent crashes due to the accumulation of ML model errors over time. The proposed approach addresses this issue by incorporating semi-supervised novelty detection to identify out-of-sample data and disable the ML correction accordingly, thereby stabilizing simulations and improving the quality of predictions."
+}

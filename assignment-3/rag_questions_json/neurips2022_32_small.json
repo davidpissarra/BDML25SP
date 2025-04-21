@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using high-resolution climate models for studying surface melt features on the Antarctic Ice Sheet?",
+    "answer": "Generating high-resolution climate model simulations requires substantial computational resources and careful finetuning for some model parameters, making it challenging to study surface melt features beyond the grid scale."
+}

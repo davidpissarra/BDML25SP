@@ -1,0 +1,4 @@
+{
+    "question": "What are the limitations of the current standard algorithm, DINEOF, for reconstructing missing Chl-a data from satellite images, and how does the proposed machine learning approach using a Variational Autoencoder (V AE) address these limitations?",
+    "answer": "DINEOF is slow, suffers from accuracy loss in temporally homogenous waters, reliant on temporal data, and only able to generate a single potential reconstruction. The proposed V AE approach addresses these limitations by offering vastly decreased computation time and the ability to generate multiple potential reconstructions, making it a more efficient and flexible alternative for Chl-a data reconstruction."
+}

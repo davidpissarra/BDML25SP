@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the study in terms of incorporating news data into the analysis of carbon prices?",
+    "answer": "The main contribution of the study is the conversion of online news articles to meaningful variables that enhances our understanding of ETS prices, specifically through the creation of the EU Climate Change News Index (ECCNI) using the TF-IDF method to measure the frequency of climate change-related keywords in news associated with the EU."
+}

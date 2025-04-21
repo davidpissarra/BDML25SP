@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using airborne sensing and satellite imagery for monitoring urban tree health, and how does the GreenScan Project address this challenge?",
+    "answer": "The main challenge in using airborne sensing and satellite imagery for monitoring urban tree health is that they may not capture vegetation elements such as green walls, short trees, or shrubs present underneath the tree canopy, and may be influenced by external factors such as availability of clear skies. The GreenScan Project addresses this challenge by using a ground-based sensing system that fuses data from low-cost thermal and multispectral imaging sensors using custom computer vision models to generate two health indexes, namely NDVI and CTD, which can be used to assess tree health at high spatio-temporal resolutions with low costs."
+}

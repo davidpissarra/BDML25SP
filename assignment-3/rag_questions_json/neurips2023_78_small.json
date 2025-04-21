@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a Continuous Convolutional Neural Network (CNN) over discrete models for disruption prediction in tokamaks?",
+    "answer": "The main advantage of using a Continuous CNN is that it offers significantly better performance (Area Under the Receiver Operating Characteristic Curve = 0.974) with fewer parameters compared to discrete models, such as the Hybrid Deep Learner (HDL), which has an AUC of 0.799."
+}

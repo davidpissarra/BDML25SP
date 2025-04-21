@@ -1,0 +1,4 @@
+{
+    "question": "What are the key differences between peatland fires and forest fires that make traditional fire prediction techniques less effective for peatland fires?",
+    "answer": "Peatland fires produce less heat, can occur underground, in wet or cold areas, and even under snow, and can last for months when smouldering underground, making burn duration an unreliable heuristic for fire severity. Additionally, factors such as soil carbon and soil moisture are more important for peatland fires than forest fires since the soil itself is a fuel source."
+}

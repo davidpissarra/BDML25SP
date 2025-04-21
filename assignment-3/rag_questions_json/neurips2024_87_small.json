@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed agentic LLM system address the limitations of current Large Language Models (LLMs) in evaluating climate policy?",
+    "answer": "The proposed agentic LLM system addresses the limitations of current LLMs by integrating knowledge graphs to model past climate policies and their outcomes, and accessing curated climate forecasting data to evaluate the possible long-term effects of policies, enabling a more informed and effective assessment of climate policy."
+}

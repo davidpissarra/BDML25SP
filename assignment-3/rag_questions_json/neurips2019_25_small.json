@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary driver for changes in radar images at the time scales used in the precipitation nowcasting model, and how is this represented in the neural network model?",
+    "answer": "Horizontal atmospheric advection is the primary driver for changes in the radar images at the time scales used in the precipitation nowcasting model, and this is represented in the neural network model by capturing the dynamics of storm initiation and decay."
+}

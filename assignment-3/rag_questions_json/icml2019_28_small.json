@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the PVNet model, which is a Long-Term Recurrent Convolutional Network (LRCN) architecture, in the context of PV power forecasting?",
+    "answer": "The PVNet model introduces an LRCN architecture that integrates past PV power 1D time-series with dense spatiotemporal NWP and physical models' inputs, leveraging spatial features with CNN modules to improve prediction accuracy."
+}

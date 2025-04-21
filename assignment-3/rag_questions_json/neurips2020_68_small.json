@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of understanding fire regimes in different ecosystems, and how does the proposed study contribute to this understanding?",
+    "answer": "Understanding fire regimes is crucial for characterizing the impact of fire activity on ecological aspects such as vegetation adaptability, soil degradation, carbon stocks, air quality/pollution, and conservation of the biosphere. The proposed study contributes to this understanding by using AI and a statistical framework to analyze global wildﬁre events over 20 years, consolidating data into a grid covering the entire planet, and deriving a global classiﬁcation of fire regimes based on unsupervised machine learning methods."
+}

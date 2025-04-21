@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary focus of the research presented in the study, and how does it address the limitations of current models in capturing extreme weather events?",
+    "answer": "The primary focus of the research is predicting short-term precipitation with high accuracy. The study introduces a novel method for computing Extreme Values Loss (EVL) without assuming fixed extreme representations, addressing the limitations of current models in capturing extreme weather events."
+}

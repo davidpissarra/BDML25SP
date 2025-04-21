@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in accurately identifying butterfly species on the eButterfly website and how does the proposed computer vision model address this issue?",
+    "answer": "The main challenge is that correctly identifying butterfly species is a challenging task for non-specialists, requiring the involvement of entomologists to verify the labels of novice users. The proposed computer vision model addresses this issue by incorporating geographic and temporal information of where and when the image was taken, in addition to the image itself, to improve the accuracy of the classification model compared to a baseline image recognition system."
+}

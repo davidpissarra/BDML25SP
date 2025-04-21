@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using Fortran for Earth System Modeling and how can it be addressed?",
+    "answer": "The primary challenge in using Fortran for Earth System Modeling is its high barrier of entry for early career scientists, lack of GPU runtime, and lack of differentiability. This can be addressed by converting Fortran code to Python/JAX, which enables automatic differentiation, GPU parallelization, and makes model development more inclusive."
+}

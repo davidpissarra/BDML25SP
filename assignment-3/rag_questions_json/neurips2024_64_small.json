@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in integrating renewable energy sources into the electric grid, and how does a hybrid wind speed forecasting methodology proposed in the study address this challenge?",
+    "answer": "The main challenge in integrating renewable energy sources into the electric grid is the operational difficulties of managing their highly variable power generation. A hybrid wind speed forecasting methodology proposed in the study combines two custom ML models for Chile, one based on TiDE (MLP-based) for short-term forecasts and the other based on GraphCast (graph neural network) for medium-term forecasts, to improve the accuracy of wind speed forecasts and mitigate the impact of wind generation on thermal ramping, curtailment, and system-level emissions."
+}

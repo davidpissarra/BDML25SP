@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the machine learning pipeline described in the text, and how does it address the challenges of traditional insect monitoring methods?",
+    "answer": "The main goal of the machine learning pipeline is to transform raw photos from insect camera traps into species-level moth data, accurately identifying moths, non-moths, and fine-grained species, while addressing the challenges of traditional insect monitoring methods by providing a scalable, user-friendly, and hardware-agnostic solution that does not require extensive manual labelling of training images."
+}

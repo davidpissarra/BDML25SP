@@ -1,0 +1,4 @@
+{
+    "question": "What are the two main challenges faced by deep learning-based sub-seasonal to seasonal (S2S) weather forecasts, and how do they differ from short-term weather forecasts?",
+    "answer": "The two main challenges faced by deep learning-based S2S weather forecasts are (i) the small volumes of available training data and (ii) large fluctuations in predictability due to atmospheric conditions. These challenges differ from short-term weather forecasts, which can be described deterministically, whereas S2S forecasts require statistical descriptions due to the chaotic behavior of the atmosphere on these timescales."
+}

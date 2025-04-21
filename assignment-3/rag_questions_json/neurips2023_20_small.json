@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed approach of incorporating market-clearing optimization as a deep learning layer improve fairness in electricity market applications, and what is the impact of prediction errors on locational marginal prices (LMPs) in congested systems?",
+    "answer": "The proposed approach improves fairness by directly incorporating market-clearing optimization as a deep learning layer to inform predictions on pricing errors, which reduces the spatial disparities in congested systems. Prediction errors have a disparate effect on LMPs, with the same error having a different impact on prices depending on location, and congested networks are particularly affected, with a small set of buses contributing the most to the overall disparity."
+}

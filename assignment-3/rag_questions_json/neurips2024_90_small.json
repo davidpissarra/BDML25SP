@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed solution to address the lack of a comprehensive, standardized database of feasible carbon emissions reduction actions for companies to achieve their net-zero goals?",
+    "answer": "A multi-agent system leveraging Large Language Models (LLMs) integrated with Retrieval-Augmented Generation (RAG) to systematically extract, classify, and validate carbon reduction actions from publicly available sustainability reports, and construct a standardized database of reduction levers categorized by industry, geography, and greenhouse gas scopes."
+}

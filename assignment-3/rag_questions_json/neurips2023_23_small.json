@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of the research presented in the paper, and how does it differ from existing emulators that assess climate change?",
+    "answer": "The primary objective of the research is to develop a machine learning stochastic model to emulate the statistics of climate extremes, specifically the probability distribution of local climate variables. This differs from existing emulators that focus on predicting the statistics of global-mean or regional-mean quantities, or those that specialize in generating spatially-resolved local statistics but primarily focus on mean quantities."
+}

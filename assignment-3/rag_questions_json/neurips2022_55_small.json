@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed model address the issue of over-crediting in REDD+ projects, and what does the application of the model to a REDD+ project in Brazil suggest about its effectiveness?",
+    "answer": "The proposed model addresses the issue of over-crediting in REDD+ projects by integrating ex-ante baseline prediction before intervention and ex-post dynamic baseline updating at each observation after intervention. The application of the model to a REDD+ project in Brazil suggests that it might have had a small, positive effect, but was over-credited, and that the 90% predictive interval of the ex-ante baseline included the ex-post baseline, implying that the ex-ante estimation can work effectively."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting solar irradiance on a global scale and how does the proposed Convolutional Long Short-Term Memory Network model address this challenge?",
+    "answer": "The main challenge in predicting solar irradiance on a global scale is that existing models are either proprietary, computationally demanding, or rely on Numerical Weather Prediction (NWP) models. The proposed Convolutional Long Short-Term Memory Network model addresses this challenge by treating solar nowcasting as a next-frame prediction problem, which is more efficient than NWP models and has a straightforward, reproducible architecture."
+}

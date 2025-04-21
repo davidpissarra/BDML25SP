@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using echo state networks (ESN) in climate modeling compared to other deep learning techniques like RNN-LSTM and fully connected neural networks?",
+    "answer": "ESN outperforms RNN-LSTM and fully connected neural networks by factors of 3 to 10 in terms of prediction horizon, making it a powerful method for surrogate modeling and data-driven prediction in climate modeling."
+}

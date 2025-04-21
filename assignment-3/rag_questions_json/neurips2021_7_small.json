@@ -1,0 +1,4 @@
+{
+    "question": "What is a limitation of the standard quantile mapping (QM) method used for bias correction in climate models, and how does it impact the representation of spatial relationships between variables?",
+    "answer": "The standard quantile mapping (QM) method is limited because it does not capture conditional relationships and does not use the values of other variables at the same spatial location, which can lead to severed relationships between variables and physically unrealistic representations of spatial phenomena, such as the size and shape of cyclones or the position of storms along the polar front."
+}

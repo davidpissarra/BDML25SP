@@ -1,0 +1,4 @@
+{
+    "question": "How can machine learning methods be used to optimize flight time and reduce carbon dioxide emissions in commercial aviation, and what is the key insight behind this approach?",
+    "answer": "Machine learning methods can be used to optimize flight time by improving wind forecasts and deriving optimal flight policies. The key insight is that an aircraft can significantly reduce flight time by choosing a routing that has favorable winds, which can be achieved by using publicly available information from the large number of aircraft aloft as surrogate sensors to continually update and inform about the winds."
+}

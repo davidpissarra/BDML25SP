@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in solving the Optimal Power Flow (OPF) problem in modern power systems with the proliferation of renewable energy resources?",
+    "answer": "The main challenge is the need for near real-time solutions to sustain accurate representation of the system state, preferably combined with probabilistic techniques for modelling uncertainty, which requires sequential OPF solutions at rates unattainable by conventional algorithms."
+}

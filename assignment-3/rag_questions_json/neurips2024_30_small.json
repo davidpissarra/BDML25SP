@@ -1,0 +1,4 @@
+{
+    "question": "How does Climate PAL's Retrieval Component select a dataset best-suited to answering a user query, and what is the process for predicting the Variable descriptor?",
+    "answer": "Climate PAL's Retrieval Component selects a dataset by first building a profile of an ideal dataset by predicting each of the dataset's descriptors, including Variable, using a GPT model. For Variable, a three-step technique is used: summarizing the conversation, performing an embeddings-based search to find the top ten closest matches, and providing this shortlist in an In-Context Learning (ICL) GPT prompt. The descriptor predictions form the profile of an ideal dataset for retrieval, and the system then filters all datasets by each descriptor's prediction sequentially, skipping descriptors that cannot be satisfied due to previous descriptor values."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed Prototype-oriented Unsupervised Change Detection for Disaster Management (PUCD) method compared to other unsupervised change detection methods?",
+    "answer": "PUCD does not require complex hyperparameter tuning, unlike other unsupervised change detection methods, which often necessitate the adjustment of numerous hyperparameters."
+}

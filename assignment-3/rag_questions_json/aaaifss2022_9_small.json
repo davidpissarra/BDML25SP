@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of the proposed web platform NADBenchmarks, and how does it differ from a traditional leaderboard platform?",
+    "answer": "The primary objective of the proposed web platform NADBenchmarks is to increase accessibility for researchers to find benchmark datasets related to natural disasters, rather than generating a leaderboard platform. This is because leaderboards often pose the risk of simplifying progress to a singular metric, as mentioned in Ethayarajh and Jurafsky (2020)."
+}

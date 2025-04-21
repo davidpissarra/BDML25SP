@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of widely used metrics for evaluating the quality and diversity of generated outputs from conditional generative models, and how does the proposed work address this limitation?",
+    "answer": "The main limitation of widely used metrics is that they do not necessarily correlate with human judgment, rendering quantitative measurement of progress difficult. The proposed work addresses this limitation by adapting existing metrics and assessing them against gold standard human evaluation, ultimately finding that using Fréchet Inception Distance (FID) with embeddings from an intermediary Inception-V3 layer produces results most correlated with human realism."
+}

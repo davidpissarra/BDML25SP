@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using high-capacity prediction models such as deep neural networks for uncertainty estimation in high-dimensional settings, and how does the proposed framework address this challenge?",
+    "answer": "The main challenge is that high-capacity prediction models can produce many valid uncertainty estimates with varied performance profiles, making it difficult to obtain calibrated uncertainty estimates. The proposed framework addresses this challenge by developing an end-to-end framework for conditional robust optimization that uses conformal prediction to provide robustness and calibration guarantees, and represents arbitrary convex uncertainty sets with sublevel sets of partially input-convex neural networks (PICNNs) that are learned as part of the framework."
+}

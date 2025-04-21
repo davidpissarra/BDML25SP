@@ -1,0 +1,4 @@
+{
+    "question": "How does the model approach the problem of inferring a population's global perception of carbon footprint from pairwise comparisons, and what is the mathematical representation of this approach?",
+    "answer": "The model casts the problem as a linear regression, where the perceived (log-)carbon footprint of an action is modeled as the difference between the log-impact ratio of the action and a comparison action, with a centered Gaussian noise added. The likelihood of the model is represented as a multivariate Gaussian distribution, and the posterior distribution of the weight parameters is computed using Bayes' theorem, assuming a Gaussian prior for the weight parameters."
+}

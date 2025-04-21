@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using machine learning models for predicting water temperature, and how do the authors address this challenge in their study?",
+    "answer": "The primary challenge in using machine learning models for predicting water temperature is the difficulty in finding co-located datasets for potential predictor variables, as well as the need to consider spatial and temporal scales for prediction that are dependent on constraints of data availability and stakeholder needs. The authors address this challenge by using publicly available data from the CAMELS dataset and the USGS National Water Information System, and by selecting model input features through exploratory data analysis."
+}

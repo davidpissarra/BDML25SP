@@ -1,0 +1,4 @@
+{
+    "question": "Can deep learning provide an objective, data-driven, and computationally efficient approach to estimating parameters for sub-grid parameterization in climate models, and if so, how?",
+    "answer": "Yes, deep learning can provide an objective, data-driven, and computationally efficient approach to estimating parameters for sub-grid parameterization in climate models. This is demonstrated by using the Lorenz-96 model, a non-linear dynamical system that resembles the climate system, to show that deep learning can recover the underlying parameters of the model more accurately than traditional methods."
+}

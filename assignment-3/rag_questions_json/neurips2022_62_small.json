@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in developing an optimal bidding strategy for a Battery Energy Storage System (BESS) participating in both the spot and contingency Frequency Control Ancillary Services (FCAS) markets?",
+    "answer": "The primary challenge is the limited capacity of the BESS and the high stochasticity of energy prices, making it difficult to derive real-time bidding strategies through stochastic optimization, and requiring a model-free paradigm like deep reinforcement learning (DRL) to adaptively capture the dynamics of the electricity market."
+}

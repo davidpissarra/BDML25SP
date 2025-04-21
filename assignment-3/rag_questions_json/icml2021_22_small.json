@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the DroughtED dataset in addressing the limitations of previous drought forecasting models?",
+    "answer": "The DroughtED dataset combines globally consistent spatial and temporal features related to drought, enabling machine learning models to be trained for nationwide drought prediction and monitoring, and includes a location-identifier feature that allows for drought predictions across diverse geographic regions."
+}

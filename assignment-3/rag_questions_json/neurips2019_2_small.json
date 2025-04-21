@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of traditional methods for measuring urban canopy cover, and how does the proposed method address this limitation?",
+    "answer": "The primary limitation of traditional methods is that they rely on either overhead imagery or in-person fieldwork, which are often costly and cannot represent the street-level and resident perspectives of canopy cover. The proposed method, which uses deep convolutional neural networks (DCNNs) to estimate urban greenery, addresses this limitation by providing a more accurate and scalable method for measuring canopy cover from street-level images, allowing for a more comprehensive understanding of urban canopy cover at large scales."
+}

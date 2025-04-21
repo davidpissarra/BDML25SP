@@ -1,0 +1,4 @@
+{
+    "question": "How can GainForest improve the efficiency and effectiveness of Measurement, Reporting and Verification (MRV) processes in relation to forest conservation efforts and climate finance instruments?",
+    "answer": "GainForest integrates large amounts of unlabeled satellite imagery with labelled authoritative data from forest zoning and plot ownership to predict land use change, and uses interpretable machine learning approaches to guide fair performance and model-based climate payments."
+}

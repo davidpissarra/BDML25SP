@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed physics-informed super-resolution (SR) generative adversarial network (GAN) in the context of mitigating global warming?",
+    "answer": "The main goal of the proposed physics-informed SR GAN is to super-resolve 3D low-resolution wind fields by upscaling them ×9 times, enabling the precise tracking of greenhouse gas emissions from potential sources and reducing the computational cost of high-resolution wind simulations."
+}

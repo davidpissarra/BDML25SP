@@ -1,0 +1,4 @@
+{
+    "question": "What is a simpler alternative to the methods proposed in previous studies for quantifying uncertainty in climate change projections, and how does it improve the uncertainty quantification of statistical downscaling models?",
+    "answer": "Deep ensembles, which consist of training several models in parallel on the same data and combining their predictions through an aggregation operation, is a simpler alternative that improves the uncertainty quantification of statistical downscaling models by providing better predictive uncertainty estimates and allowing for a better risk assessment in sectoral applications to tackle climate change."
+}

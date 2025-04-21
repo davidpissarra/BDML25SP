@@ -1,0 +1,4 @@
+{
+    "question": "What are the four major challenges faced when estimating corporate greenhouse gas (GHG) emissions, particularly in the context of a dataset with significantly imbalanced labeled and unlabeled data?",
+    "answer": "The four major challenges are: 1) significantly imbalanced labeled and unlabeled datasets, 2) high feature missing rates, 3) mismatched feature missing patterns between the labeled and unlabeled datasets, and 4) uncertainty of estimation."
+}

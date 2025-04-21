@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by existing methods in estimating Scope 1 emissions from buildings, and how does the proposed machine learning model aim to address this challenge?",
+    "answer": "The main challenge faced by existing methods is that they either have low resolution, high latency (often a year or more), or rely on data typically unavailable at scale. The proposed machine learning model aims to address this challenge by providing a high-resolution (1 km^2), global model that can be updated monthly, separately estimates for both residential and commercial subsector Scope 1 building emissions, and provides estimates of the three primary greenhouse gases (CO2, CH4, and NOx) with a resolution of 1 km^2."
+}

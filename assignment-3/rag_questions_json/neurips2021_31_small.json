@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed method in tackling climate change with machine learning, and how does it differ from traditional expansion planning studies?",
+    "answer": "The main contribution of the proposed method is formulating the problem of minimizing a mixture of carbon emissions and monetary costs during planning, and solving it using gradient descent via implicit differentiation. This differs from traditional expansion planning studies, which often focus on monetary costs and assume the underlying dispatch problem uses a carbon tax or cap, whereas the proposed method can minimize emissions even if the dispatch model does not tax or cap emissions."
+}

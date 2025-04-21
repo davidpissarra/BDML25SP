@@ -1,0 +1,4 @@
+{
+    "question": "What spatial interpolation technique is used to generate pseudo-labels for unlabeled satellite images in the proposed data augmentation strategy?",
+    "answer": "Ordinary kriging"
+}

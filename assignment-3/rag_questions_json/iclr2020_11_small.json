@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of WeatherBench, and how does it facilitate the evaluation of data-driven weather forecasting models?",
+    "answer": "The main goal of WeatherBench is to evaluate deep learning models for global medium-range weather forecasting. It facilitates the evaluation of data-driven weather forecasting models by providing a benchmark dataset and a simple and clear evaluation metric, allowing for a direct comparison between different proposed methods."
+}

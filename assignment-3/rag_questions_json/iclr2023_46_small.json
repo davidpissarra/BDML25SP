@@ -1,0 +1,4 @@
+{
+    "question": "Can neural networks, specifically multilayer perceptrons (MLPs), be used as a viable alternative to well-established species distribution model (SDM) methods, such as MaxEnt, for predicting species distributions across landscapes?",
+    "answer": "Yes, our results show that MLP models achieve comparable results to state-of-the-art SDM methods, such as MaxEnt, indicating that neural networks are worth considering for SDMs."
+}

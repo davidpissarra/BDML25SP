@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed Hybrid Recurrent Neural Network (HRNN) model in drought monitoring, as compared to traditional drought indices and data-driven models?",
+    "answer": "The proposed HRNN model outperforms both traditional drought indices and data-driven models, suggesting the potential of hybrid frameworks for drought monitoring and opening the door to synergistic systems that learn from data and domain knowledge altogether."
+}

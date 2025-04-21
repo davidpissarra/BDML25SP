@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using Deep Gaussian Processes (DGPs) in creating surrogate models for decision-making, especially in the context of environmental models?",
+    "answer": "The primary advantage of using DGPs is that they can create a'surrogate model' or 'emulator' of the original model, enabling decision makers to directly explore a vast array of policy options corresponding to potential target outcomes in real-time, while also providing a well-calibrated measure of uncertainty."
+}

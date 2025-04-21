@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge addressed by the proposed SQUASH loss function in the context of drought forecasting, and how does it improve upon existing approaches?",
+    "answer": "The main challenge addressed by the proposed SQUASH loss function is the imbalance in time-series forecasting aspects, particularly the difficulty in forecasting extremely dry and wet events. The SQUASH loss function improves upon existing approaches by combining weighted quantile loss and dynamic time-warping-based shape loss, which enables it to capture the shape error of the time-series aspect of the problem, handle imbalanced data, and provide a more accurate forecast of extreme and severe drought events."
+}

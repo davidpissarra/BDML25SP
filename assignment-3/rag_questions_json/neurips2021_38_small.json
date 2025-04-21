@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary finding of the study regarding the choice of source dataset for transfer learning in geophysical imaging tasks?",
+    "answer": "The study finds that pretraining on the large, general-purpose ImageNet dataset yields significantly better results across all experiments, even when compared to pretraining on smaller, task-specific geophysical datasets."
+}

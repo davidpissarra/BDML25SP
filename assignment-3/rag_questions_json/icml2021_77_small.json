@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed multi-task learning approach in the context of metabolic engineering, and how does it aim to achieve this goal?",
+    "answer": "The primary goal of the proposed multi-task learning approach is to enhance sustainable biomolecule production in engineered microorganisms. It aims to achieve this goal by using deep learning and feature attribution methods to identify DNA sequence signals that control gene expression in microorganisms, thereby enabling the development of genetic tools to optimize microbes to produce valuable molecules efficiently, sustainably, and at large scales."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using current physical models to predict localized climate impacts at scales less than 100m, and how can machine learning models help address this challenge?",
+    "answer": "The main challenge is that the relationship between driving variables and Earth's surface at such local scales remains unresolved by current physical models and is partly unknown, leading to considerable uncertainty. Machine learning models, particularly those using large Earth observation datasets, can help address this challenge by translating coarse weather information into high-resolution Earth surface forecasts, enabling the prediction of localized climate impacts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed pipeline in the study, and how does it address the increasing number of climate policy documents?",
+    "answer": "The main contributions of the proposed pipeline are: 1) proposing a pipeline for analyzing similarly structured documents regarding climate public policy, leveraging Natural Language Processing, and 2) providing an easy-to-use web application for exploring structured results of the pipeline. The pipeline addresses the increasing number of climate policy documents by leveraging NLP methods to quickly and comprehensively summarize and compare these documents, revealing important nuances in how governments frame their climate policies."
+}

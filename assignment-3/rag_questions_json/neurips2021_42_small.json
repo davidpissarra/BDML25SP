@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting thermal energy demand in district heating systems (DHS) and how does the proposed framework address this challenge?",
+    "answer": "The main challenge in predicting thermal energy demand in DHS is the non-linearity and non-stationarity of heat consumption data. The proposed framework addresses this challenge by using a kernel Support Vector Regression (kSVR) model with Particle Swarm Optimization (PSO) to find the optimal hyper-parameters, which leads to improved prediction accuracy compared to traditional methods like ARIMA."
+}

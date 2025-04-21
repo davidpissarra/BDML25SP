@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed approach to monitor and quantify sustainable development along the Shared Socioeconomic Pathways (SSPs), and how do the proposed methods aim to achieve this goal?",
+    "answer": "The primary goal is to distill environmental and socioeconomic features into a single, interpretable metric to evaluate development against established scenarios, thereby assisting decision-makers in addressing the climate crisis and monitoring sustainable socioeconomic development. The proposed methods aim to achieve this goal by integrating socioeconomic and environmental datasets, using mathematical methods such as norm-induced measures and TraCE scores, and machine learning techniques to produce a robust and interpretable score that can be applied at various spatial scales."
+}

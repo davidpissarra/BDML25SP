@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study presented in the paper, and how does it aim to address the challenges of coastal flood risk quantification?",
+    "answer": "The primary goal of the study is to derive a machine learning model for coastal flood mapping using historical flood records in England. The study aims to address the challenges of coastal flood risk quantification by considering the suitability of computationally 'lightweight' approaches to derive inundation from water levels and geospatial features for coastal flood risk mapping at the country scale, which is a particular requirement for industry sectors such as transport, energy, and utilities who operate across large geographic domains."
+}

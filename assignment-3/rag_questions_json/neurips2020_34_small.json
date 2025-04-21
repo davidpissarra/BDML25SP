@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge that the proposed Street to Cloud methodology aims to address in the context of flood mapping and monitoring using satellite data?",
+    "answer": "The primary challenge that the proposed Street to Cloud methodology aims to address is the labor-intensive task of generating high-quality, hand-labeled training data for machine learning models, which is often required for processing satellite images of floods."
+}

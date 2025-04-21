@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using Computational Fluid Dynamics (CFD) models for simulating data center thermo-fluid dynamics, and how does the proposed 3D Convolutional Neural Network (CNN) model address this challenge?",
+    "answer": "The primary challenge in using CFD models is their time-consuming nature, which is often incongruent with the real-time demands of modern data centers. The proposed 3D CNN model addresses this challenge by providing a faster and more accurate method for predicting data center temperature distribution, allowing for real-time applications and optimizations such as workload distribution and cooling efficiency."
+}

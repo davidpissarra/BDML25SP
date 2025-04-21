@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed Meta Bayesian Optimization with Human Feedback (MBO-HF) framework, and how does it improve upon existing methods?",
+    "answer": "The main contribution of MBO-HF is its ability to integrate expert knowledge into the Meta-BO framework using Transformer Neural Processes (TNPs) to build an adaptable surrogate model, providing an explainable system that helps experts evaluate optimization recommendations and improving both the effectiveness and trustworthiness of the optimization process."
+}

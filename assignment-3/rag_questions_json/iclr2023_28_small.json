@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in estimating the topology of electrical grids in low- and middle-income countries (LMICs) and how does the proposed method address this challenge?",
+    "answer": "The main challenge in estimating the topology of electrical grids in LMICs is the limited knowledge of distribution topology and the high cost of advanced sensing infrastructure such as smart meters or PMUs. The proposed method addresses this challenge by using outlet-level voltage magnitude measurements from low-cost sensors, such as PowerWatch sensors, to estimate and visualize topological proximity, making it a more accessible and cost-effective solution for grid monitoring in LMICs."
+}

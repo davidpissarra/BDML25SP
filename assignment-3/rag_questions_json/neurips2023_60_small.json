@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing deep learning methods in the domain of typhoon intensity prediction using satellite imagery, and how does the proposed Typhoon Intensity Transformer (Tint) address this limitation?",
+    "answer": "The main limitation of existing deep learning methods is their reliance on convolutional neural networks (CNNs), which suffer from limited per-layer receptive fields, hindering their ability to capture long-range dependencies and global contextual knowledge. The Typhoon Intensity Transformer (Tint) addresses this limitation by leveraging self-attention mechanisms with global receptive fields per layer, allowing it to extract both local and global contextual relations between all patch pairs simultaneously."
+}

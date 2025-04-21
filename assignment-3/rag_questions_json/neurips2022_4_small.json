@@ -1,0 +1,4 @@
+{
+    "question": "Can aerosol optical depth (AOD) observations be used to constrain a global prior over aerosol vertical distributions, and if so, what is the proposed method for doing so?",
+    "answer": "Yes, AOD observations can be used to constrain a global prior over aerosol vertical distributions. The proposed method involves using Gaussian processes to map vertically-resolved meteorological variables (such as temperature and relative humidity) to a probabilistic estimate of the extinction coefficient profile bext, which is then integrated into the AOD. This approach is validated using ECHAM-HAM global aerosol-climate model simulation data."
+}

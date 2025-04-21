@@ -1,0 +1,4 @@
+{
+    "question": "What is a potential limitation of using unsupervised machine learning to analyze food waste policy text, and how can it be addressed?",
+    "answer": "A potential limitation of using unsupervised machine learning to analyze food waste policy text is that it may not demonstrate convergent validity with policy ratings provided by subject matter experts and no predictive validity with food waste. This limitation can be addressed by using supervised machine learning to analyze food waste policy text, which can potentially improve the accuracy of the analysis and provide more meaningful insights into the impact of food waste policies."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using off-the-shelf reinforcement learning algorithms for power grid overload management, and how does the proposed Physics-Guided Reinforcement Learning (PG-RL) framework address this challenge?",
+    "answer": "The main challenge is that generic exploration policies often select actions that cause severe overloads and blackouts, preempting a comprehensive exploration of the Markov decision process (MDP) state space, which hampers accurate decision utility predictions for the unexplored MDP states. The PG-RL framework addresses this challenge by leveraging the physics knowledge of the system and incorporating it into RL exploration design, using power-flow sensitivity factors to guide the RL exploration during agent training."
+}

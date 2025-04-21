@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using satellite SIF observations for crop yield prediction, and how does the proposed CSR-U-Net approach address this challenge?",
+    "answer": "The main challenge is that satellite SIF observations are only available at a coarse spatial resolution (e.g. 3-5km), making it difficult to determine how individual crop types or farms are doing. CSR-U-Net, a novel approach, addresses this challenge by training a U-Net to predict SIF at a very fine spatial resolution (30 meters) using fine-resolution input features, despite only having access to coarse-resolution SIF labels at training time."
+}

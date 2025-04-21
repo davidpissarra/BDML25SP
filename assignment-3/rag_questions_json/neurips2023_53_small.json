@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed Segment-then-Classify (STC) workflow over the conventional Detect-then-Segment approach in instance segmentation for environmental science research?",
+    "answer": "The STC workflow has the potential to drastically reduce training data requirements, as it leverages the zero-shot capabilities of the Segment Anything Model (SAM) to segment all objects in an image, followed by a simple classifier like ViT, which requires comparatively small amounts of data for training."
+}

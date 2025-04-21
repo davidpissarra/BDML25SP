@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using LANDSAT 7 satellite images for climate-related tasks after May 31, 2003, and how is it addressed in the proposed method?",
+    "answer": "The main challenge is the presence of lines of missing pixels due to a mechanical fault in the satellite's scanline corrector, which occupies about 20% of the data and impairs the performance of computational methods. This is addressed by using Convolutional Neural Processes (ConvNPs) for image inpainting, which can fill the corrupted pixels with values that resemble the original pixel values as closely as possible."
+}

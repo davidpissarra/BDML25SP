@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using general circulation models (GCMs) for climate projections, and how does the proposed multi-resolution deep-learning framework address this issue?",
+    "answer": "The main challenge in using GCMs is their inability to accurately characterize weather extremes, particularly the most unlikely events in the tail of a hazard's probability distribution. The proposed multi-resolution deep-learning framework addresses this issue by correcting the biases in GCM output at coarse scales and enhancing the resolution of the debiased output by reconstructing finer scales as a function of the coarse ones."
+}

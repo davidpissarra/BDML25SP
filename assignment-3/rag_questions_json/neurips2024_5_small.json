@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a transformer-based model, such as FutureTST, over traditional LSTM models for streamflow prediction?",
+    "answer": "The main advantage of using a transformer-based model, such as FutureTST, over traditional LSTM models for streamflow prediction is its ability to efficiently model long-range dependencies and capture complex seasonal and inter-annual patterns in streamflow data more effectively, thanks to its self-attention mechanism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed research, and how does it address the limitations of previous studies on flood forecasting and damage estimation?",
+    "answer": "The main goal of the proposed research is to develop accurate forecasts and response plans to mitigate the damage caused by flooding. It addresses the limitations of previous studies by creating a new large-scale benchmark dataset consisting of hourly USGS flow data from rivers around the country combined with hourly precipitation and temperature data, and utilizing NLP to construct a second subset consisting of flash flood events with property damage estimates, injury data, and regional information, which is not available in previous datasets."
+}

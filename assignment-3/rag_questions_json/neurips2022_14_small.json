@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in applying standard Gaussian Process (GP) regression to large-scale photovoltaic (PV) timeseries data in the UK, and how is it addressed in the proposed approach?",
+    "answer": "The main challenge is the large data size and non-Gaussianity of PV readings, which is addressed by leveraging recent advances in scalable GP inference, specifically by using the state-space form of GPs combined with modern variational inference techniques."
+}

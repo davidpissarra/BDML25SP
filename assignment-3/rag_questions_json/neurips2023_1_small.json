@@ -1,0 +1,4 @@
+{
+    "question": "What is the most suitable machine learning method for gap-filling GHG emissions datasets when only a few dataset features are available and the gap consists of a missing time step in a record?",
+    "answer": "Simple interpolation is often the most accurate method in such circumstances, as it is less complex and can provide more accurate results compared to complex models."
+}

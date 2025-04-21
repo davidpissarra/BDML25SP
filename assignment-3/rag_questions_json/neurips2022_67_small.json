@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing statistical downscaling (SD) methods when applied to future climate model projections?",
+    "answer": "The main limitation of existing SD methods is the domain gap between climate models and reanalysis data, which limits their generality when applied to future climate model outputs."
+}

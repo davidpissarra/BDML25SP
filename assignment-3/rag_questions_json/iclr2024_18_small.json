@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed work in analyzing bees' health and environmental conditions, and how does it contribute to addressing climate change?",
+    "answer": "The primary goal is to predict bees' activity and analyze influencing environmental conditions, which can help make recommendations on good locations for beehives and aid in protecting species. This work demonstrates the potential of applying machine learning on sensor, satellite, and weather data for monitoring and predicting species' health, ultimately contributing to adapting to climate change and more accurate species monitoring."
+}

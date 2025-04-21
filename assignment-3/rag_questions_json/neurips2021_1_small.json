@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed semi-supervised learning scheme in the paper, and how does it improve flood segmentation models?",
+    "answer": "The proposed semi-supervised learning scheme involves training an ensemble model of multiple U-Net architectures with high confidence hand-labeled data and generated pseudo labels or low confidence labels on the entire unlabeled test dataset. The generated labels are then filtered out, combined with the previously available high confidence hand-labeled dataset, and used for the next round of training ensemble models. This cyclical process is repeated until performance improvement plateaus, and the results are post-processed with Conditional Random Fields (CRFs) to further improve performance."
+}

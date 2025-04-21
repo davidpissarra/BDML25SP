@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed PE-GNN framework in the context of geospatial data modeling, and how does it differ from traditional GNN approaches?",
+    "answer": "The main contribution of the proposed PE-GNN framework is its ability to incorporate spatial context and correlation explicitly into the models by learning a context-aware vector encoding of geographic coordinates and predicting spatial autocorrelation in the data in parallel with the main task. This differs from traditional GNN approaches, which do not have an intuition to account for spatial dynamics and may not be sufficient for modeling complex spatial effects."
+}

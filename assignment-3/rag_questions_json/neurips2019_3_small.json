@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in assessing the impacts of climate change on hydrologic systems using traditional models, and how does the proposed EA-LSTM approach address this challenge?",
+    "answer": "The primary challenges in assessing the impacts of climate change on hydrologic systems using traditional models are simplistic models, unreliable parameter fitting, drastic performance degradation in large-scale modeling, and not accounting for changing environmental conditions. The proposed EA-LSTM approach addresses these challenges by using a Long Short-Term Memory network (LSTM) with a modified input gate, trained on meteorological time series data from hundreds of riverine systems, which learns to model real hydrological processes and provides at least some confidence that it learns the underlying physical process instead of just a simplistic mapping."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a major challenge in training machine learning models for audio species classification on large databases of community-created focal recordings?",
+    "answer": "A major challenge is that clips are given a 'weak label,' a single label that represents the whole clip, which includes segments with background noise, anthropogenic sounds, and different species that are labeled as calls in the training data, reducing model performance."
+}

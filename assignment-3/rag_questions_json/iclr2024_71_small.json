@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the downscaling benchmark dataset introduced in the study, and how does it aim to facilitate the application of deep learning to meteorological downscaling?",
+    "answer": "The main goal of the downscaling benchmark dataset is to provide a standardized framework for comparing and benchmarking different deep learning architectures for statistical downscaling, thereby promoting transparency and confidence in their application to meteorological downscaling. It aims to achieve this by providing a carefully designed test setup, utilizing ERA5 and COSMO-REA6 datasets, and accompanying evaluation metrics to standardize assessments."
+}

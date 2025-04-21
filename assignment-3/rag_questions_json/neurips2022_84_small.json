@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in accurately simulating Aerosol-Cloud Interactions (ACI) in current climate models, and how does the proposed work address this challenge?",
+    "answer": "The main challenge in accurately simulating ACI in current climate models is their inability to account for environmental heterogeneity, leading to increased uncertainty in future projections. The proposed work addresses this challenge by using causal machine learning to estimate ACI from satellite observations, reframing the problem as a treatment (aerosol) and outcome (change in droplet radius), and providing uncertainty bounds that compare to the parameterizations of climate model ACI."
+}

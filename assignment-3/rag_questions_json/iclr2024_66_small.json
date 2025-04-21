@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed model R-Tran in predicting species encounter rates from satellite images and partial information on the encounter rates of other species?",
+    "answer": "R-Tran uses a novel transformer encoder architecture to model interactions between features of satellite imagery and labels, and it surpasses the baselines while providing flexibility to use with a variable set of information."
+}

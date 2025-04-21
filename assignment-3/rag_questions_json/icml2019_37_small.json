@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in understanding floods in a climate context, and how can machine learning be used to address this challenge?",
+    "answer": "The main challenge in understanding floods in a climate context is the need to consider changes in attributes of precipitation extremes, uncertainty in our understanding of flood generation, exposure, and vulnerability. Machine learning can be used to address this challenge by estimating parameters of high-resolution Earth System Model processes, addressing fundamental gaps in process understanding, and post-processing Earth System Model outputs to improve predictions and uncertainty quantification."
+}

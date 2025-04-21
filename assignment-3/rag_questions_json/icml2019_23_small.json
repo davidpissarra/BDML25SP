@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in recovering surface properties from imaging data collected by spectrometers, and how is it addressed in the proposed work?",
+    "answer": "The primary challenge is the accurate removal of atmospheric effects from the radiation incident on the sensor, which is addressed in the proposed work by developing an algorithm that can efficiently emulate Radiative Transfer Models (RTMs) using neural networks, leading to a multifold speedup in processing time."
+}

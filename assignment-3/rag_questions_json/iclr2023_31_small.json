@@ -1,0 +1,4 @@
+{
+    "question": "What is the main hypothesis of the project described in the text, and how does it aim to improve Species Distribution Models (SDMs)?",
+    "answer": "The main hypothesis of the project is that building a rich model of the sampling effort is the most promising direction to improve the state-of-the-art in SDMs. The project aims to achieve this by jointly learning the user behavior and species distributions in an end-to-end manner, leveraging the synergies between both tasks, and utilizing a hybrid approach that combines large amounts of available observation data with priors about the behavior of citizen scientists and wildlife."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed deep learning-based classification method for monitoring the impact of wildfires on tree species?",
+    "answer": "The main goal of the proposed method is to systematically monitor the long-term tree species distributions in fire-prone regions and quantify the impact of wildfires on vegetation species by classifying tree species before and after wildfires using large-scale image classification on multispectral images."
+}

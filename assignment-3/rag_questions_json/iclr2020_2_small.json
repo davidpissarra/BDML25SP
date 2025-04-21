@@ -1,0 +1,4 @@
+{
+    "question": "What is the main objective of the proposed novel strategy called error compensable forecasting (ECF) in the context of renewable energy forecasting?",
+    "answer": "The main objective of ECF is to make errors compensable by leveraging a battery, rather than simply reducing errors, by considering whether the errors are positive or negative and taking into account the state of the battery."
+}

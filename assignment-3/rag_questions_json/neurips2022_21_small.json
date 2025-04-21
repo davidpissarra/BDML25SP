@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using diffusion models for generating high-resolution rainfall samples in the UK, as demonstrated in this work?",
+    "answer": "The main advantage of using diffusion models is that they can generate realistic high-resolution rainfall samples much more cheaply than traditional methods, conditioned on data from a low-resolution simulation."
+}

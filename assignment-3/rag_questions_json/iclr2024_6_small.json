@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed method in the paper, and how does it address the limitations of existing ecological network analysis methods?",
+    "answer": "The main contribution of the proposed method is the use of the Gromov-Wasserstein (GW) distance to quantify dissimilarity between ecological networks, which addresses the limitations of existing methods by providing a computationally efficient, interpretable, and flexible way to compare graphs of different sizes, and allowing for the identification of corresponding functional roles between species in different food webs."
+}

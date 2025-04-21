@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of traditional cloud segmentation methods and how does the proposed Cloud Adaptive-Labeling (CAL) approach address this limitation?",
+    "answer": "The primary limitation of traditional cloud segmentation methods is the reliance on accurate mask annotations, which are often noisy and invalid. The proposed Cloud Adaptive-Labeling (CAL) approach addresses this limitation by introducing a trainable pixel intensity threshold that adaptively labels training images on the fly, iteratively enhancing the quality of training data annotations and improving model performance."
+}

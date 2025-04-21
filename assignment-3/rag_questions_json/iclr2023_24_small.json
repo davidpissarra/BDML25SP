@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in modeling CO2 storage and its effects on subsurface geological formations, and how does the proposed Nested Fourier Neural Operator (FNO) approach address this challenge?",
+    "answer": "The main challenge in modeling CO2 storage is the high computational costs of existing numerical methods, which leads to significant uncertainty in evaluating storage opportunities and delays the pace of global CCS deployments. The Nested Fourier Neural Operator (FNO) approach addresses this challenge by providing a machine-learning-based simulator that speeds up flow prediction nearly 700,000 times compared to existing methods, enabling real-time high-fidelity modeling to support decision-making in basin-scale CCS projects."
+}

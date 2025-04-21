@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary approach used by the DeepQuake model to predict earthquake variables such as time, location, magnitude, and depth, and how does it utilize cGPS data?",
+    "answer": "The DeepQuake model uses a hybrid approach that combines a physics-based pre-processing algorithm with a deep learning neural network. The physics-based algorithm extracts relevant features from cGPS data, including the x, y, and xy components of strain in the earth's crust, capturing the earth's elastic response to climate variables. These features are then fed into a deep learning neural network to predict earthquake variables."
+}

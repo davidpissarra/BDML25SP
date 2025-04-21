@@ -1,0 +1,4 @@
+{
+    "question": "How does the Conference of the Parties (COP) events influence the growth or contraction of user communities related to climate change on social media platforms, and what are the implications of this analysis for promoting climate change awareness and countering misinformation campaigns?",
+    "answer": "Our analysis of 13.6 million tweets from 2006 to 2019 reveals that COP events shape public opinion on climate change by influencing the growth or contraction of user communities related to climate change on social media platforms. By applying the Louvain community detection algorithm, we identified changes in community structure around COP events, which can inform the development of effective communication strategies to promote climate change awareness and counter misinformation campaigns, ultimately helping to raise public awareness and encourage individuals to join the collaborative effort in slowing down climate change."
+}

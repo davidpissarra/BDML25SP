@@ -1,0 +1,4 @@
+{
+    "question": "What is the main concern regarding the use of machine learning (ML) methods in predicting extreme weather events, and how can it be addressed?",
+    "answer": "The main concern is that ML models may struggle to predict extreme weather events due to the lack of samples of such events, leading to uncertainty about their usefulness. This can be addressed by researching and evaluating the performance of ML methods in extreme situations, particularly for return periods of more than a few years, and identifying approaches to accelerate progress in this area."
+}

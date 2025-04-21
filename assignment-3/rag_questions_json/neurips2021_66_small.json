@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in the project for battery degradation prediction, and how does it differ from existing battery modeling efforts?",
+    "answer": "The main goal of the proposed approach is to build a hybrid model with physics as its backbone and statistical learning techniques as enhancements, which has better generalizability and interpretability together with a well-calibrated uncertainty associated with its prediction. This approach differs from existing battery modeling efforts by minimizing reliance on historical usage data in diagnosis and prognosis, and making heavy use of known physical knowledge of both charge/discharge cycling and degradation to reduce the amount of training data required."
+}

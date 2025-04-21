@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the CLIMATE-FEVER dataset, and how does it differ from the FEVER dataset?",
+    "answer": "The primary goal of the CLIMATE-FEVER dataset is to facilitate and encourage work on improving algorithms for retrieving evidential support for climate-specific claims, addressing the underlying language understanding challenges. It differs from the FEVER dataset in that it uses real-life claims collected from the Internet, whereas FEVER uses artificially designed claims."
+}

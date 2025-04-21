@@ -1,0 +1,4 @@
+{
+    "question": "Can self-supervised deep learning techniques be used to detect irrigation patterns in developing countries with limited access to curated and labelled data?",
+    "answer": "Yes, self-supervised deep learning techniques can be used to detect irrigation patterns in developing countries with limited access to curated and labelled data, as demonstrated by the authors who achieved up to nine times better precision, 90% better recall, and 40% more generalization ability compared to traditional supervised learning methods."
+}

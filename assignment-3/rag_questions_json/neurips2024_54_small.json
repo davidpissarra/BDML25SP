@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed deep learning model for precipitation nowcasting in the context of climate change?",
+    "answer": "The proposed model leverages multi-source meteorological data and physics-based forecasts to deliver high-resolution predictions in both time and space, capturing complex spatio-temporal dynamics through temporal attention networks and is optimized using data quality maps and dynamic thresholds, outperforming existing operational physics-based and extrapolation-based models."
+}

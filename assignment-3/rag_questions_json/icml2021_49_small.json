@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using wavelet transforms in conjunction with convolutional neural networks (CNNs) for analyzing the Greenland Ice Sheet?",
+    "answer": "The primary goal is to denoise the radar images and refine ice layer detection, enabling the calculation of the change in thickness of each ice layer over time, which is essential for determining the overall mass loss from the Greenland Ice Sheet."
+}

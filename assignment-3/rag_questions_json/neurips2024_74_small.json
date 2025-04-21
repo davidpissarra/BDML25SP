@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in downscaling Global Climate Models (GCMs) to fine resolutions for applications in extreme weather events, agriculture, insurance, and infrastructure development, and how does the proposed Earth Vision Transformer (Earth ViT) model address this challenge?",
+    "answer": "The main challenge is the significant computational cost of downscaling GCMs to fine resolutions. The proposed Earth ViT model, initially trained on ERA5 data to downscale from 50 km to 25 km resolution, demonstrates its ability to generalize across different resolutions without additional training, making it a cost-efficient solution for generating large ensembles of regional climate simulations."
+}

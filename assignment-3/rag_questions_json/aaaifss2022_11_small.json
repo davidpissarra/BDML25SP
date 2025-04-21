@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in tracking greenhouse gas (GHG) emissions from power plants globally, and how does the proposed solution address this issue?",
+    "answer": "The main challenge in tracking GHG emissions from power plants globally is the lack of standardized and accurate reporting protocols, which varies depending on each country's infrastructure and monitoring systems. The proposed solution, an end-to-end deep learning pipeline, addresses this issue by utilizing satellite imagery to provide accurate and precise estimates of power plant GHG emissions, which is a low-cost alternative to traditional methods that are cost-prohibitive for developing countries."
+}

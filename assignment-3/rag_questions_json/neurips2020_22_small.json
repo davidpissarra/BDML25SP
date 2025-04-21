@@ -1,0 +1,4 @@
+{
+    "question": "What are the three key technical developments that enable high classification performance in the ForestNet model for identifying the direct drivers of primary forest loss in Indonesia?",
+    "answer": "The three key technical developments that enable high classification performance in the ForestNet model are: 1) pre-training on a large land cover dataset, 2) data augmentation using satellite revisits, and 3) multi-modal fusion with auxiliary predictors to complement the satellite imagery."
+}

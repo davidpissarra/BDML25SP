@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge hindering the full utilization of satellite measurements for GHG emissions quantification, and how does the proposed data-driven architecture aim to address this issue?",
+    "answer": "The main challenge is the severe computational bottlenecks caused by the increased volume of satellite measurements, which cannot be fully leveraged due to the limitations of existing Lagrangian Particle Dispersion Models (LPDMs). The proposed data-driven architecture, utilizing Graph Neural Networks, aims to alleviate this issue by emulating the outputs of LPDMs using only meteorological inputs, thereby enabling the efficient processing of satellite measurements and potentially facilitating near real-time, global emissions inference."
+}

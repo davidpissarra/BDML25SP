@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using a multi-task neural process (MTNP) over an ensemble of single-task neural processes (STNPs) when limited context information is provided for short-term weather forecasting?",
+    "answer": "The MTNP leverages inter-task knowledge to outperform the STNP when limited context information is provided."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in implementing safe and effective carbon capture and sequestration (CCS) operations, and how can it be addressed?",
+    "answer": "The main challenge in implementing safe and effective CCS operations is the inherent subsurface uncertainty combined with complex physio-chemical processes, which requires a tight coupling of information gathering and acting. This challenge can be addressed by formulating CCS as a partially observable Markov decision process (POMDP) and relying on POMDP solvers to inform the decision-making process."
+}

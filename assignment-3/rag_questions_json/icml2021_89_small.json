@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using transformers for imputing missing values in multivariate energy time series data, such as electricity production, demand, and prices, compared to classical imputation methods?",
+    "answer": "Transformers are more precise than classical imputation methods, despite potentially coming at higher computational costs, due to their ability to efficiently take into account dependencies between time series across multiple dimensions using attention mechanisms."
+}

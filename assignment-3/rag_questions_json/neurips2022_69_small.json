@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in detecting wildfires using machine learning algorithms, and how does the proposed Wildfire Detection and Alert System address this challenge?",
+    "answer": "The main challenge in detecting wildfires using machine learning algorithms is that smoke can be of varying scales. The proposed Wildfire Detection and Alert System addresses this challenge by using an architecture similar to FCOS, which is specifically designed to extract relevant information at different scales, allowing for accurate detection of wildfire smoke."
+}

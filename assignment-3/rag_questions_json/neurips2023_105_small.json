@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by current methods for recording total water usage in buildings, and how does PressureML address this challenge?",
+    "answer": "The main challenge faced by current methods is that they are difficult to use in a multi-inlet setting, economically expensive to install, challenging to retrofit, and require high maintenance. PressureML addresses this challenge by using a novel approach that records data from pressure sensors and uses time-series classification by DNN models to determine room-wise water consumption in a building, without requiring fixture-level training data and calibration."
+}

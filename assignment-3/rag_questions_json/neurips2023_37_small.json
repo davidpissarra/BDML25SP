@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in characterizing and tracking ocean physics in complex climate models, and how does the method Tracking global Heating with Ocean Regimes (THOR) address this challenge?",
+    "answer": "The primary challenge in characterizing and tracking ocean physics in complex climate models is the difficulty of understanding the physical processes underlying changes in ocean dynamics, particularly in regions with complex bathymetry and mesoscale turbulence. The method Tracking global Heating with Ocean Regimes (THOR) addresses this challenge by using unsupervised classification of ocean grid cells into dynamical regimes based on their physics, followed by training a deep ensemble of neural networks to predict these regimes from readily accessible fields, and finally applying this trained ensemble to a new climate change scenario or model to understand changes in dynamical regimes over time."
+}

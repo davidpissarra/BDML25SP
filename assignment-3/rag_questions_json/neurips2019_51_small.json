@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge that prevents the rapid adaptation/scaling of systems to new downstream tasks or new data sources in remote sensing for MRV?",
+    "answer": "The lack of available labeled data prevents the rapid adaptation/scaling of systems to new downstream tasks, or for new data sources."
+}

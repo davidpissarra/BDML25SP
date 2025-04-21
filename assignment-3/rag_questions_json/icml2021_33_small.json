@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in real-time solutions of the optimal power flow (OPF) problem in electricity markets, and how do existing machine learning (ML) approaches address this challenge?",
+    "answer": "The main challenge in real-time solutions of the OPF problem is the variability of renewable generation, which poses a challenge in traditional iterative methods. Existing ML approaches have focused on identifying active constraints, finding a warm start for iterative OPF solutions, or addressing the feasibility issue, but they rely on end-to-end neural networks that incur high model and computation complexity and need to be constantly re-trained whenever the system inputs change."
+}

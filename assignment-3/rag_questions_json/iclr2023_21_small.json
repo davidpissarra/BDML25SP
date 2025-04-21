@@ -1,0 +1,4 @@
+{
+    "question": "What type of Machine Learning algorithm is used in this work to find interpretable symbolic expressions that can explain relations in the data, and how is it used to improve the ShoreFor model?",
+    "answer": "Symbolic Regression (SR) is the type of Machine Learning algorithm used, and it is used in conjunction with Cartesian Genetic Programming (CGP) to encode and improve upon the ShoreFor model."
+}

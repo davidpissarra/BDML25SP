@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing deep learning flood prediction models on a national scale in Kenya, and how do the proposed models aim to address this challenge?",
+    "answer": "The main challenge is the lack of a national flood risk management framework and sparse flood observation data in Kenya. The proposed models aim to address this challenge by leveraging statistical machine learning approaches to predict flood or no flood events on a 0.25 x 0.25 degree scale, and by using pre-trained remote sensing based models to generate segmented flood or no flood data on a fine spatial scale, thereby increasing the number of validation points by a factor of 1000."
+}

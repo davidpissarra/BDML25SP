@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges faced by Transmission System Operators (TSOs) as the amount of deployed residential PV increases, and how can remote sensing help address these challenges?",
+    "answer": "The main challenges faced by TSOs are the difficulty in balancing the frequency of power due to the fluctuating energy mix caused by meteorological variations from solar and wind. Remote sensing can help address these challenges by enabling the tracking of solar adoption using machine learning methods, which can assist policy makers in incentivizing further green energy adoption and identifying regions of lower solar adoption."
+}

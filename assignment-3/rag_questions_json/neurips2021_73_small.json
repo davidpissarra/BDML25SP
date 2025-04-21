@@ -1,0 +1,4 @@
+{
+    "question": "What are the potential downsides of foundation models for Earth monitoring, and how can they be mitigated?",
+    "answer": "Foundation models for Earth monitoring come with downsides such as amplifying and perpetuating biases, and having high CO2e emissions associated with their training. To mitigate these negative impacts, an open evaluation procedure should be implemented early in the process, and a benchmark dataset and evaluation process should be developed to facilitate the development of foundation models in Earth monitoring."
+}

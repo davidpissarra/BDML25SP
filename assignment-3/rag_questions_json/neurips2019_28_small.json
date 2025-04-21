@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using machine learning methods to identify solar panels in historical low-resolution satellite images, and how does the proposed deep siamese network address this challenge?",
+    "answer": "The main challenge is the potential displacement between solar panels in the exemplar image and that in the target image, as well as the low resolution, object displacement, and lack of datapoints in some years. The proposed deep siamese network addresses this challenge by using a cross-correlation module to collate the spatial features learned from each input and measure their similarity, allowing it to identify solar panels in historical low-resolution images by comparing them with high-resolution exemplar images at the same location."
+}

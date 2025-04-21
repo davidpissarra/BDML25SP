@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed M-LSTM model in predicting malaria incidence rates in South Asian countries, and how does it improve upon existing spatio-temporal deep learning models?",
+    "answer": "The proposed M-LSTM model contributes to predicting malaria incidence rates in South Asian countries by integrating environmental factors and historical malaria data, offering the ability to make localized temporal predictions. It improves upon existing spatio-temporal deep learning models by resulting in lower country-specific error rates, making it a more accurate and reliable tool for malaria early warning systems."
+}

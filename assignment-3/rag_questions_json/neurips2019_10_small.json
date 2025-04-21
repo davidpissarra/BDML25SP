@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in the context of severe weather prediction, and how does it differ from previous approaches?",
+    "answer": "The main goal of the proposed approach is to predict thunderstorms and lightning as a binary classification problem based on satellite images and past lightning observations, with a focus on achieving a high probability of detection and minimizing the false alarm ratio. This approach differs from previous approaches, such as NowCastMIX, which struggle with a high false alarm ratio, especially for longer forecast periods."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in decomposing Sea Surface Height (SSH) into balanced and unbalanced motions (BMs and UBMs) using deep learning approaches, especially when dealing with high spatial resolution data from the SWOT satellite?",
+    "answer": "The main challenge is that deep learning models struggle to work well across a wide range of spatial scales and require extensive training data, which is scarce in this domain, and pixel-wise mean squared error (MSE) loss fails to effectively capture patterns across the full range of scales for these multi-scale fields."
+}

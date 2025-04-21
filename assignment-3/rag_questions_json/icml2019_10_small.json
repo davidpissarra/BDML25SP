@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea behind the Targeted Meta-Learning framework proposed in this paper to address the issue of biases in training data?",
+    "answer": "The main idea behind the Targeted Meta-Learning framework is to create a small, well-crafted target dataset that resembles the desired properties of the test distribution, and impose it on the training process as an additional constraint to guide the learning process in a coupled manner."
+}

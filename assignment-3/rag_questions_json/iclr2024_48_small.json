@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed method in the paper, and how does it improve upon existing methods for global high-resolution (HR) monitoring of greenhouse gases (GHGs)?",
+    "answer": "The main contribution of the proposed method is the application of Super Resolution (SR) to the Orbiting Carbon Observatory 2 (OCO-2) L3 dataset to generate HR global maps of column-averaged dry air mole fraction of atmospheric CO2 (XCO2). This method offers a quantitative improvement in performance over alternative methods and does not introduce noise compared to the original Low Resolution (LR) dataset, providing a new HR dataset with a resolution of 0.03°*0.04° that enables global XCO2 monitoring consistently."
+}

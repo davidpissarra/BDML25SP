@@ -1,0 +1,4 @@
+{
+    "question": "What is a key challenge in quantifying stop-and-go (SAG) traffic events, and how does the proposed study address this challenge?",
+    "answer": "A key challenge is that the data available to researchers and governments are typically sparse and aggregated to a granularity that obscures SAGs. The proposed study addresses this challenge by exploring the use of traffic reconstruction techniques for SAG identification, introducing a kernel-based method for identifying spatio-temporal features in traffic and leveraging bootstrapping to quantify the uncertainty of the reconstruction process."
+}

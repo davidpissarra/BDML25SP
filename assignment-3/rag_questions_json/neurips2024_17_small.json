@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge hindering the rapid identification of locations at high risk of PFAS contamination, and how does the proposed study aim to address this limitation?",
+    "answer": "The primary challenge is the time-consuming and expensive nature of data collection and analysis, which hinders the rapid identification of locations at high risk of PFAS contamination. The proposed study aims to address this limitation by leveraging a novel geospatial dataset and machine learning models, including Random Forest, IBM-NASA's Prithvi, and UNet, to predict regions with high PFAS concentrations in surface water."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting the Atlantic Multidecadal Variability (AMV) using machine learning models, and how is it addressed in this work?",
+    "answer": "The main challenge in predicting the AMV is the lack of data, particularly for decadal and longer modes of variability, due to the limited availability of observational records for many variables, which are only available after the 1980s. This work addresses this challenge by using the Community Earth System Model version 1.1 Large Ensemble Simulations, which provides a fully-coupled global climate model with 40 ensemble runs, each between 1920 and 2005, to simulate the AMV and provide a larger dataset for training and testing machine learning models."
+}

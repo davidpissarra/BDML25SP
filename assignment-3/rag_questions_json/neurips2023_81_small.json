@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of applying Causal Discovery with Single-parent Decoding (CDSD) to climate model data, and how does it aim to improve climate model emulation?",
+    "answer": "The primary objective is to harness the power of causal methods to make ML-based climate emulation more interpretable and trusted by experts. CDSD aims to achieve this by learning causally informed low-dimensional latents underlying the emissions, temperature, and precipitation time-series from climate data, thereby making climate model emulation more interpretable and robust."
+}

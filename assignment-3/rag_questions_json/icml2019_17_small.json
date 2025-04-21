@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using Normal Behaviour Models (NBMs) for wind turbine fault detection, and how does it relate to the choice of features?",
+    "answer": "The main challenge in using NBMs for wind turbine fault detection is that it's not trivial that the more features the model has, the better its fault detection performance will be. This is because the model's performance can be negatively affected by the use of features that are highly correlated with the target, even if they improve the temperature modelling performance."
+}

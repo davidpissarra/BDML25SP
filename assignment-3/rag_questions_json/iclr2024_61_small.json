@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by traditional approaches to estimate precipitation on high-resolution grids, and how does the proposed deep learning framework address this challenge?",
+    "answer": "The main challenge faced by traditional approaches is that they either struggle to model severe precipitation due to insufficient expressiveness in capturing complex convective dynamics or come with an enormous computational cost. The proposed deep learning framework, based on graph neural networks, efficiently harnesses available data to yield precise results, addressing this challenge by providing a balance between expressiveness and computational demands."
+}

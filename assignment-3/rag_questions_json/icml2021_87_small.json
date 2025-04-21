@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges in using spatiotemporal data for machine learning-based prediction systems, particularly in the context of marine heatwave forecasting?",
+    "answer": "The main challenges include high dimensionality, limited data, and temporal correlations. High dimensionality arises from the large number of variables (tens to hundreds) that describe a single system, while limited data is a result of the slow generation of new geophysical data and low spatial resolution. Temporal correlations also pose a challenge, as they require specific considerations when selecting a suitable machine learning approach."
+}

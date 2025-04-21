@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in addressing biodiversity loss and species distribution modelling, and how does it leverage remote sensing data and citizen science records?",
+    "answer": "The main goal is to improve species distribution modelling by predicting species encounter rates from satellite images, leveraging the wide availability of remote sensing data and sparse on-ground citizen science data, with the aim of jointly predicting the encounter rates of multiple bird species at a given location."
+}

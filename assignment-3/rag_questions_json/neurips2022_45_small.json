@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in recovering the original grid states when measurements are subjected to adversarial perturbations, and how does the proposed method address this challenge?",
+    "answer": "The main challenge is that details of the grid topology are necessary for the recovery process, which is confidential information that can result in dire consequences if leaked to adversarial entities. The proposed method addresses this challenge by leveraging a cycle GAN (CGAN) model that captures the non-linear mappings of grid measurements to states and vice versa, allowing for the detection of specific perturbed measurements and iterative recovery of the perturbed measurements using gradients computed from the trained model."
+}

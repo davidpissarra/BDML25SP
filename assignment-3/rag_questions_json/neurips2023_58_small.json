@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of previous self-supervised learning approaches for remote sensing data, and how does the proposed model, Presto, address this limitation?",
+    "answer": "The main limitation of previous self-supervised learning approaches for remote sensing data is that they primarily treat remote sensing data as analogous to natural imagery, failing to leverage the unique attributes of remote sensing data, such as the temporal dimension. The proposed model, Presto, addresses this limitation by being designed specifically for remote sensing data, incorporating the temporal dimension, and being able to ingest data from a variety of Earth observation sensors and data products."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using a measuring tape to measure the diameter at breast height (DBH) of trees in a forest inventory survey, and how does the proposed method address this challenge?",
+    "answer": "The main challenge in using a measuring tape to measure the DBH of trees is that it can be difficult to use in the field due to diverse ecological and environmental factors, and it may require two people for larger trees, making the work time-intensive and cost-prohibitive. The proposed method addresses this challenge by using a single depth map on a smartphone to estimate the DBH of trees, which can be easily integrated into a mobile application and saves field crews hours when creating forest inventories."
+}

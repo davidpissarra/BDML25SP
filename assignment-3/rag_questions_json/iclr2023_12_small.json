@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed method to generate new MOF crystal structures directly from crystallographic information files (CIFs) and conditioned by CO2 performance values?",
+    "answer": "Training of Graph Neural Networks (GNNs) in a variational autoencoder (VAE) setting to create an end-to-end workflow."
+}

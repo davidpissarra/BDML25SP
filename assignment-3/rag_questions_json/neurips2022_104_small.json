@@ -1,0 +1,4 @@
+{
+    "question": "Can deep neural networks be used to leverage the complementary information from a fusion of data from the Sentinel-1 and Sentinel-2 sensors to improve flood detection, especially in cloud-prone areas?",
+    "answer": "Yes, our research proposes a workflow based on U-Net that can fuse information from Sentinel-1 and Sentinel-2 satellites to detect floods in cloud-prone areas, potentially leading to a reliable and detailed catalogue of flood extents and their changes over time."
+}

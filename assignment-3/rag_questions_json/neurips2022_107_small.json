@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in accurately estimating forest carbon stock, especially for small-scale carbon offset projects below 10,000 ha, and how can ForestBench help address this issue?",
+    "answer": "The main challenge is the high variance of species and occlusion of individual tree crowns, which can be addressed by ForestBench, a project that aims to collect and curate geographically-balanced gold-standard datasets of small-scale forest plots, including ground-level measurements and visual drone imagery of individual trees, to enable the development of equitable benchmarks for ML-based MRV and provide accurate estimates of forest carbon stock."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of relying solely on the existing weather record for power system modeling, and how does the proposed approach address this limitation?",
+    "answer": "The main limitation of relying solely on the existing weather record is that it covers the distribution of weather scenarios sparsely, especially for continental-scale power-system studies, and does not account for the exponentially growing input space of weather variables. The proposed approach addresses this limitation by repurposing past ensemble weather predictions, which provide a much more thorough coverage of the input space and allow for the creation of over 10,000 years of independent weather scenarios with higher fidelity than global climate/circulation models."
+}

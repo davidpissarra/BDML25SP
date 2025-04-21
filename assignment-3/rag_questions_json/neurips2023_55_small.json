@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using active fire data over burned area data in wildfire prediction models?",
+    "answer": "The primary advantage of using active fire data over burned area data is its real-time nature, ensuring immediate and accurate representation of ongoing fire dynamics, whereas burned area data often lags by several days, introducing inaccuracies, especially for smaller fires that might be underestimated or missed entirely."
+}

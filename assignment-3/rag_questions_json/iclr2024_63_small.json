@@ -1,0 +1,4 @@
+{
+    "question": "What are the key considerations for building emulators of regional (and global) ocean climate models, and how do they address the challenges of emulating complex multi-scale ocean physics?",
+    "answer": "The key considerations for building emulators of regional (and global) ocean climate models involve understanding the appropriate boundary inputs and scales on which to model velocity and temperature, as well as designing a framework for multi-scale emulation. This includes assessing the role of boundary conditions and exploring the sensitivities of the model to different inputs and time steps. A simple network design, such as a U-Net, can be used to run a large array of experiments and help guide future implementations of more costly, state-of-the-art machine learning techniques."
+}

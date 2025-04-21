@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using a transformer-based model, such as the Temporal Fusion Transformer, for ozone forecasting compared to standard machine learning models?",
+    "answer": "The primary advantage of using a transformer-based model, such as the Temporal Fusion Transformer, for ozone forecasting is its ability to attend to long-term dependencies in the data, which allows it to capture complex temporal relationships between ozone concentrations and environmental variables, making it more effective in forecasting ozone concentrations compared to standard machine learning models."
+}

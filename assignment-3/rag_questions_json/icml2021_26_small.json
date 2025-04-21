@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in adapting traditional models of infectious diseases to incorporate climate effects, and how does the proposed MR. NODE method address this challenge?",
+    "answer": "The main challenge in adapting traditional models of infectious diseases to incorporate climate effects is their difficulty in doing so. MR. NODE, a neural network that models the dynamics of black Sigatoka infection using Neural Ordinary Differential Equations, addresses this challenge by encoding external predictor factors into the latent space in addition to the variable that it infers, allowing it to predict infection risk at an arbitrary point in time."
+}

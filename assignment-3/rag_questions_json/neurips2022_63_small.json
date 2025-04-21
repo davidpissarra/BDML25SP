@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in preventing cascading failures in power grids, especially with the introduction of renewables that are inherently uncertain?",
+    "answer": "The main challenge is that the introduction of renewables exacerbates the phenomenon of cascading failures, which can lead to regions in the power grid being disconnected from generators, resulting in a blackout, and transmission system operators (TSOs) are actively researching methods to prevent cascades."
+}

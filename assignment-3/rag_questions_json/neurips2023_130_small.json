@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed method for automatically detecting new moth species in a region using camera trap images, and how will the results be interpreted?",
+    "answer": "The proposed method involves using Mahalanobis distance-based confidence scores to differentiate in-distribution (ID) and out-of-distribution (OOD) species, and the results will be interpreted using Grad-CAM, which provides concept-specific visualization for fine-grained classification."
+}

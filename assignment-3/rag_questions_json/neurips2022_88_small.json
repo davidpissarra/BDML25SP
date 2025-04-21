@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting the state of vegetation in response to climate and weather events, and how does the proposed ConvLSTM model address this challenge?",
+    "answer": "The main challenge in predicting the state of vegetation in response to climate and weather events is the complexity of ecological processes taking place at several timescales, with interactions between vegetation and environmental drivers expressing responses at instantaneous and time-lagged effects. The proposed ConvLSTM model addresses this challenge by using a strongly guided video prediction task to forecast the vegetation developing at very fine resolution, incorporating topography and weather variables to guide the prediction, and demonstrating the ability to forecast seasonal evolution of NDVI at high resolution and differential impacts of weather anomalies over baselines."
+}

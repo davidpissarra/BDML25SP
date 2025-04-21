@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study, and how does it aim to achieve this goal?",
+    "answer": "The primary goal of the study is to build an Automated Machine Learning (AutoML) framework that creates pipelines from California's climatic variables to estimate almond yields. This goal is achieved by utilizing an AutoML framework to design a machine learning model that can examine the relationship between input and output variables, thereby facilitating the use of ML models by researchers without a background in computer science."
+}

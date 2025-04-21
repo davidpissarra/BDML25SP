@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in transferring thermal simulators between environments in prior works on online learning, and how does the proposed method address this challenge?",
+    "answer": "The main challenge is that transferring thermal simulators between environments is inefficient and challenging. The proposed method addresses this challenge by using offline-to-online reinforcement learning (RL) to enhance pre-trained offline models through online adaptation to distribution shifts, and by automatically tuning the actor's regularization during training to optimize the exploration-exploitation tradeoff."
+}

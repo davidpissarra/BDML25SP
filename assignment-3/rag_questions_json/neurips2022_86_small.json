@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of applying ENPs in real field case conditions for groundwater remediation, and how does the proposed dw-PINN framework aim to address this limitation?",
+    "answer": "The main limitation of applying ENPs in real field case conditions is the complex transport and retention mechanisms of ENPs, which hinders the development of an efficient remediation strategy. The proposed dw-PINN framework aims to address this limitation by providing a dynamic, weight-enabled Physics-Informed Neural Network that can model the nano-particle behavior within an aquifer and predict the ENPs mobility with high accuracy, thereby enabling the development of an efficient groundwater remediation strategy."
+}

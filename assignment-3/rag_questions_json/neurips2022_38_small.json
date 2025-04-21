@@ -1,0 +1,4 @@
+{
+    "question": "What are the two initial environments included in the SustainGym test bed, and what are their primary objectives?",
+    "answer": "The two initial environments included in SustainGym are EVChargingEnv and ElectricityMarketEnv. EVChargingEnv models the problem of scheduling electric vehicle (EV) charging to meet user needs while minimizing CO2 emissions, while ElectricityMarketEnv models a grid-scale battery storage system bidding into the electricity market to generate profit (through price arbitrage) and reduce CO2 emissions."
+}

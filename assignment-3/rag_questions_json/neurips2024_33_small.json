@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the EquiShift algorithm in addressing regional disparities in environmental impact caused by data centers?",
+    "answer": "EquiShift aims to ensure a more balanced distribution of environmental burdens by prioritizing areas with greater environmental disadvantages and providing flexibility in spatial and temporal workload scheduling, thereby minimizing the total energy cost while reducing the maximum water and carbon footprints among data centers."
+}

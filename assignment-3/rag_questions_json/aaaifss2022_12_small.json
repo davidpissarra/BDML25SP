@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using pre-trained language models for climate-related text processing tasks, and how does the proposed C LIMATE BERT model address this limitation?",
+    "answer": "The main limitation of using pre-trained language models for climate-related text processing tasks is that they cannot accurately represent specific climate-related language. C LIMATE BERT, a transformer-based language model, addresses this limitation by being further pre-trained on over 2 million paragraphs of climate-related texts, leading to a 48% improvement on a masked language model objective and a 3.57% to 35.71% reduction in error rates for various climate-related downstream tasks such as text classification, sentiment analysis, and fact-checking."
+}

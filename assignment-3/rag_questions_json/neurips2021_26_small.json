@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing effective wildfire smoke detection systems using deep learning methods, and how does the Fire Ignition Library (FIgLib) address this challenge?",
+    "answer": "The main challenge in developing effective wildfire smoke detection systems using deep learning methods is the difficulty of acquiring a large, labeled wildfire smoke dataset. The Fire Ignition Library (FIgLib) addresses this challenge by providing a publicly-available dataset of nearly 25,000 labeled wildfire smoke images as seen from fixed-view cameras in Southern California, allowing for more accurate and consistent detection of wildfires."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed load disaggregation model in the context of in-home medical devices and power outages?",
+    "answer": "The primary goal of the proposed load disaggregation model is to predict the number of medical devices behind an electric distribution feeder, which can be used to inform planning and response to power outages and serve as a measure for climate change adaptation."
+}

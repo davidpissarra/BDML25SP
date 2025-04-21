@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed CyGNSSnet model, and how does it improve upon existing wind speed prediction methods?",
+    "answer": "The primary goal of the proposed CyGNSSnet model is to predict wind speed from CyGNSS observables using deep learning. CyGNSSnet improves upon existing wind speed prediction methods by achieving a 29% better performance compared to the current operational model, and its hierarchical model variant slightly improves predictions for high winds."
+}

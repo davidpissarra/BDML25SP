@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using a global-local policy search method in reinforcement learning (RL) for grid-interactive building control, as proposed in the paper?",
+    "answer": "The main advantage of using a global-local policy search method is that it allows the policy to converge to a better performing local optimum in the non-convex policy searching process, which can further reduce control costs by 7.55% in unseen testing scenarios."
+}

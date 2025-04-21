@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using a transfer learning approach in the context of geologic carbon storage (GCS) and reservoir simulation?",
+    "answer": "The primary goal of using a transfer learning approach in GCS and reservoir simulation is to reduce the training cost of deep-learning-based surrogate models by leveraging low-fidelity simulations to train the network, thereby alleviating the high computational cost associated with high-fidelity simulations."
+}

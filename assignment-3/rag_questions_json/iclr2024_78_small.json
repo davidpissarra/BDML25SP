@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using Regime-PCMCI in the context of uncovering soil moisture drivers in Western Europe, and how does it differ from the original PCMCI algorithm?",
+    "answer": "The primary goal of using Regime-PCMCI is to identify the underlying causal relationships between various climate variables to discern the factors contributing to unusual weather patterns, specifically in the context of soil moisture drivers in Western Europe. Regime-PCMCI differs from the original PCMCI algorithm in that it builds upon PCMCI's independence-testing approach adapted to the time-series case for constraint-based causal discovery, and additionally orients edges from past to future, while also incorporating regime-specific causal graphs to account for distribution shifts and anomalies in the data."
+}

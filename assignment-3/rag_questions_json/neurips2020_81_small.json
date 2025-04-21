@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of existing satellite remote sensing technologies in discriminating harmful algae, and how can Bayesian neural networks potentially address this limitation?",
+    "answer": "The main limitation of existing satellite remote sensing technologies is their inability to adequately capture the complex controls on algal populations, and Bayesian neural networks can potentially address this limitation by using hyperspectral remote sensing reflectance retrievals to detect phytoplankton pigments and provide a measure of uncertainty for retrievals."
+}

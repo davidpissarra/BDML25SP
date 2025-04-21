@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed deep learning-based method for identifying cracks on wind turbine blades, and how does it aim to improve upon traditional methods?",
+    "answer": "The main goal of the proposed method is to create an accurate, fast, and reliable deep learning-based method to identify cracks on wind turbine blades, with the aim of reducing the number of missed cracks and decreasing O&M costs. It aims to improve upon traditional methods by leveraging large datasets and deep learning models to identify discriminative features and distinguish cracks from similar-looking damages, thereby reducing the subjectivity, labor, and error-proneness associated with manual inspection."
+}

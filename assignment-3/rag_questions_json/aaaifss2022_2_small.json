@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of building reduced-order models (ROMs) in the context of climate sciences, and how do they differ from their full-order counterparts?",
+    "answer": "The primary goal of building ROMs in the context of climate sciences is to create computationally efficient models that are more suitable for control, optimization, and uncertainty quantification problems, despite possibly being less precise than their full-order counterparts. ROMs are particularly desired when their full-order counterparts portray multiple spatiotemporal features and demand high processing power and storage capacity, such as climate models."
+}

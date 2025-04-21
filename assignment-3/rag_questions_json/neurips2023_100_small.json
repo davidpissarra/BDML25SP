@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge preventing the National Oceanic and Atmospheric Administration (NOAA) from achieving a three km spatial resolution in their air quality forecasting model?",
+    "answer": "The main challenge is the prohibitive computational requirements for modeling the transport of chemical species, which accounts for approximately 40% of the overall computation time."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in analyzing climate risk disclosures in SEC filings, and how do researchers propose to address this challenge?",
+    "answer": "The primary challenge is that SEC filings are hundreds of pages long and filled with financial and legislative jargon, making it difficult to pinpoint passages that address climate risk disclosures. Researchers propose to address this challenge by using a semi-supervised approach, constructing a climate dictionary from a small set of seed words selected manually, and then automatically expanding these seed words to build a full-fledged vocabulary using a 300-dimensional word embedding model."
+}

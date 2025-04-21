@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the unsupervised learning approach used in the study to detect avalanche deposits in Sentinel-1 SAR data?",
+    "answer": "The unsupervised learning approach outperforms the standard CNN in terms of balanced accuracy, allowing it to be used in-situ by climate scientists where the data is always very unbalanced (< 2% positives)."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in solving the Optimal Power Flow (OPF) problem in electricity grid operations, and how can interior-point solvers help address this challenge?",
+    "answer": "The main challenge in solving the OPF problem is that it is a non-convex and non-linear constrained optimization problem that can also be mixed integer in its full form, making it computationally expensive due to the large size of power grids and high number of constraints. Interior-point solvers can help address this challenge by significantly reducing the number of iterations to converge to optimality."
+}

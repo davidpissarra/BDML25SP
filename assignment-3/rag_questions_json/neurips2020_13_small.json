@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of using a combination of Proper Orthogonal Decomposition (POD) and Long-Short Term Memory (LSTM) recurrent neural networks in climate forecasting?",
+    "answer": "The primary goal is to create forecasts for real-world data sets while selectively avoiding expensive high-fidelity function evaluations and uncovering seasonal variations in prediction accuracy."
+}

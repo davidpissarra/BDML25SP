@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in automating the process of mapping vegetation ground cover over large plots of land in forested areas, and how does the proposed approach address this challenge?",
+    "answer": "The primary challenge is the prohibitively costly and time-consuming process of manually collecting photos of the forest floor at precisely determined locations and calculating the percent cover of ground fuel types. The proposed approach addresses this challenge by using a supervised learning-based deep convolutional neural network to perform image segmentation, automating the process and delivering very promising performance in experimental results on a real dataset."
+}

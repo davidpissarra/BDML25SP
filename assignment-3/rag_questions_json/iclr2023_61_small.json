@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed approach in this paper, and how does it improve upon existing methods for uncertainty estimation in deep learning models?",
+    "answer": "The main contribution of the proposed approach is training uncertainty-aware deep learning models end-to-end with downstream decision-making objectives, which removes the need for a post-hoc calibration step and ensures that feedback from the downstream objective is accounted for in the training process. This improves upon existing methods by providing calibrated uncertainty estimates that are directly optimized for the downstream task, unlike existing methods that provide heuristic uncertainty estimates that are not necessarily well-calibrated."
+}

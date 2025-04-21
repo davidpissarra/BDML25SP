@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in estimating methane emissions from production facilities, and how can machine learning algorithms help address this issue?",
+    "answer": "The primary challenge in estimating methane emissions from production facilities is the lack of accurate and complete data on well pad locations and major equipment, which can be time-consuming and difficult to obtain through manual review of satellite imagery. Machine learning algorithms can help address this issue by detecting well pads and associated equipment from satellite imagery, as demonstrated in a study that achieved an average well pad detection accuracy of 95% in the Denver-Julesburg basin in northeastern Colorado."
+}

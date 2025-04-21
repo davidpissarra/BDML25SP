@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in understanding the impact of aerosol perturbations on cloud properties and their effects on global temperatures, and how does the proposed research approach address this challenge?",
+    "answer": "The primary challenge is the uncertainty in the effect of aerosol perturbations on cloud properties, which is so large that it is not currently known if it is negligible or provides a large enough cooling to largely negate present-day warming by CO2. The proposed research approach uses deep convolutional neural networks to automatically detect ship tracks and Pockets of Open Cells (POCs) in satellite imagery, providing a unique database of observations that allows detailed studies of the probability of their occurrence in different regions and physical conditions."
+}

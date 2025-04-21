@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using traditional deterministic regression models for downscaling tasks, and how does the proposed TAUDiff model address this issue?",
+    "answer": "The main challenge in using traditional deterministic regression models for downscaling tasks is their inability to capture fine-scale stochastic atmospheric processes due to low-frequency spectral bias. The proposed TAUDiff model addresses this issue by integrating a video prediction model for dynamically consistent mean-field downscaling and a smaller guided denoising diffusion model for stochastically generating the fine-scale features."
+}

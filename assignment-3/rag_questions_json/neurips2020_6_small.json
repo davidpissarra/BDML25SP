@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in integrating solar energy into the electricity grid, and how can probabilistic solar forecasting methods help address this challenge?",
+    "answer": "The primary challenge in integrating solar energy into the electricity grid is its high volatility and intermittency. Probabilistic solar forecasting methods can help address this challenge by providing well-calibrated predictions of solar irradiance, which can aid real-time grid integration of solar energy and help gauge when to deploy new storage, thereby reducing the need for operating reserves and improving power system cost-effectiveness and security."
+}

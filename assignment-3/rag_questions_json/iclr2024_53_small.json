@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge that the proposed Conformal Prediction (CP) based technique aims to address in the context of probabilistic electricity price forecasting (PEPF) using Deep Ensembles?",
+    "answer": "The main challenge that the proposed Conformal Prediction (CP) based technique aims to address is the failure of Deep Ensembles to pass the coverage tests at various hours on the prediction horizon, requiring calibration improvements to enhance local prediction intervals (PIs) reliability."
+}

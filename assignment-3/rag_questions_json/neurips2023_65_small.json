@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the research presented in the paper, and how do the authors propose to achieve it?",
+    "answer": "The primary goal of the research is to understand the sensitivities of an ocean model's output to its parameters. The authors propose to achieve this goal by generating an accurate neural network surrogate for the ocean model, which can be differentiated trivially, allowing for the estimation of the model's sensitivity to its parameters."
+}

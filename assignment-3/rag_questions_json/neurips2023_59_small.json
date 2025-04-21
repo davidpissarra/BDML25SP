@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in predicting buffelgrass green-up, and how do conventional models currently address this challenge?",
+    "answer": "The primary challenge in predicting buffelgrass green-up is the difficulty in accounting for various factors such as varying precipitation, soil substrates, sun exposure, elevation, and geographic location. Conventional models, which are based on accumulated precipitation, suffer from high false-positive rates and are unable to accurately predict buffelgrass green-up, leading to wasteful resource allocation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in addressing structural uncertainties in climate models, and how can it be alleviated?",
+    "answer": "The main challenge in addressing structural uncertainties in climate models is that they are not interpretable, making it difficult to correct them reliably. This challenge can be alleviated by using algorithmic innovations that enable the discovery of interpretable representations of model errors from observations, such as the proposed Bayesian sparsity-promoting regression framework that uses a library of kernels for discovery of model errors."
+}

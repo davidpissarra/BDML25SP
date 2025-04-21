@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed Hybrid CNN model in the context of mangrove forest monitoring?",
+    "answer": "The primary goal of the proposed Hybrid CNN model is to accurately detect mangrove areas using a combination of medium resolution satellite and high resolution drone imagery, thereby providing more accurate mangrove extent maps to aid in the conservation of mangrove forests."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can we enforce conservation laws in neural-network emulators of physical models, such as climate models, to improve their accuracy and generalizability?",
+    "answer": "We can enforce conservation laws in neural-network emulators of physical models by using physical constraints, such as the conservation of energy or momentum, as under-determined linear systems of rank n, and incorporating them into the neural network architecture, allowing for the emulator to learn and generalize while maintaining physical consistency and accuracy."
+}

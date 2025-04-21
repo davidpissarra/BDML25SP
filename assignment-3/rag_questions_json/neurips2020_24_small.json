@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by physics-based simulation tools in predicting energy savings in buildings, and how does the proposed hybrid deep learning framework address this challenge?",
+    "answer": "The main challenge faced by physics-based simulation tools is their tendency to focus on prediction tasks for individual buildings, requiring a separate model for each building, which is time-consuming and prone to high prediction errors due to numerous modeling assumptions. The proposed hybrid deep learning framework addresses this challenge by integrating physical simulations with deep learning to account for urban context and predict retroﬁt installation effects in multiple buildings simultaneously, thereby enabling the derivation of a retroﬁt strategy that minimizes installation demands."
+}

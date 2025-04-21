@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary contribution of the proposed Location-Aware Object Detection for Semi-Supervised Domain Adaptation (LADA) framework in the context of wildfire detection?",
+    "answer": "The primary contribution of the proposed LADA framework is a novel approach to learn translational variance characteristics of wildfires, which integrates Coordinate Convolution with a scale-aware Faster R-CNN, and demonstrates enhanced performance across various SSDA protocols compared to current state-of-the-art UDA frameworks."
+}

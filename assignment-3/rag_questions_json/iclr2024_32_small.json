@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the research presented in the paper, and how does the authors' approach differ from previous studies on zeolite synthesis?",
+    "answer": "The main goal of the research is to develop a comprehensive understanding of zeolite synthesis-structure relationships by training a supervised classification machine learning model on a large dataset of zeolite synthesis routes and using SHapley Additive Explanations (SHAP) to reveal key synthesis parameters driving zeolite crystallization. The authors' approach differs from previous studies in its unprecedented scale of analysis, leveraging a dataset of 23,925 zeolite synthesis routes, which is an order of magnitude larger than all previously published zeolite synthesis datasets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed machine learning framework in the context of sea level change prediction, and how does it differ from previous studies?",
+    "answer": "The main goal of the proposed machine learning framework is to generate sea level projections 30 years into the future at a 2-degree spatial resolution, utilizing both altimeter data and climate model simulations. This differs from previous studies, which either focused on shorter time horizons, smaller spatial scales, or did not incorporate climate models to understand the causal effects of climate-change signals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using deep learning methods in hydrological modeling, particularly in the context of the Ansongo-Niamey basin?",
+    "answer": "Deep learning methods, such as Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) neural networks, have the potential to outperform classic hydrological models in predicting discharge, especially in regions like the Ansongo-Niamey basin, which is prone to severe floods due to climate change."
+}

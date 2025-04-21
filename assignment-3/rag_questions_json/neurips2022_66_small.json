@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation to achieving efficient city networks, and how does the proposed clustering approach address this limitation?",
+    "answer": "The main limitation to achieving efficient city networks is that many cities are relatively small and lack the resources to know what solution set is most appropriate for them and how to connect to other cities to share their stories and journey toward sustainability. The proposed clustering approach addresses this limitation by developing a novel clustering approach that uses a combination of outlier detection, Variational Autoencoder (VAE), and Agglomerative Clustering (AC) to improve the classification results and create delimited clusters with high Calinski-Harabasz Index scores and Silhouette Coefficient."
+}

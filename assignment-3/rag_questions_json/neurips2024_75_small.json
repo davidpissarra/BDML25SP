@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed cascade framework in the context of remote sensing and environmental monitoring?",
+    "answer": "The primary goal of the proposed cascade framework is to reduce the cost of applying deep models to remote sensing images by employing a small MLP to filter out patches that are unlikely to contain targets, thereby accelerating satellite imagery analysis and enabling nonprofits and other organizations with limited resources to scale monitoring efforts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in analyzing existing climate laws and policies, and how does the proposed approach address this challenge?",
+    "answer": "The main challenge is that key information is often buried within lengthy, difficult-to-parse documents, and policies and targets are written in many different languages and terminologies, which limits the ability of policymakers and researchers to assess private and public sector alignment with global goals and inform policy decisions. The proposed approach addresses this challenge by developing a model that can extract mentions of climate targets from national laws and policies using paragraph-level classification, making it easier to access and analyze key climate policy elements."
+}

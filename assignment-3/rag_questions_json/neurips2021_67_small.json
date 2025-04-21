@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of current 'Perfect Prognosis' (PP) downscaling methods, and how do generative models aim to address this limitation?",
+    "answer": "The main limitation of current PP downscaling methods is that they are regression-based and tend to underestimate extremes when the predictors lack sufficient informative power, as they output the conditional mean. Generative models aim to address this limitation by estimating multivariate distributions representing the whole predictand domain, rather than predicting independent probability functions at each predictand site, allowing for a more accurate representation of spatial dependencies among sites."
+}

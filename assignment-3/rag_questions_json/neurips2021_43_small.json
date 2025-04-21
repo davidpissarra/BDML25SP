@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of the proposed reward shaping scheme in the paper, and how does it differ from previous approaches to traffic light optimization?",
+    "answer": "The primary objective of the proposed reward shaping scheme is to reduce CO2 emissions while also optimizing travel time, and it differs from previous approaches by directly targeting CO2 reduction in a complex intersection with different types of vehicles, whereas previous approaches often focused on ad-hoc weighted linear combinations of traffic measures without considering the specific impact on CO2 emissions."
+}

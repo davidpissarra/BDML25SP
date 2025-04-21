@@ -1,0 +1,4 @@
+{
+    "question": "What is the key novelty of the proposed model for bias adjustment and post-processing of grid-ded rainfall data products, and how does it differ from previous approaches?",
+    "answer": "The key novelty of the proposed model is a custom-made loss function, based on the combination of the Fractions Skill Score (FSS) and Mean Absolute Error (MAE) metrics, which allows it to adjust not only the per-pixel precipitation values but also the spatial distribution of the precipitation, making it different from previous approaches that only adjusted per-pixel values."
+}

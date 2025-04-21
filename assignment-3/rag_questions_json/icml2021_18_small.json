@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in preparing a training dataset for AC-OPF problems using a single embedded mapping, and how does the proposed DeepOPF-NGT approach address this challenge?",
+    "answer": "The main challenge is that AC-OPF problems are non-convex and may admit multiple optimal solutions, making it difficult to prepare a reliable training dataset. The proposed DeepOPF-NGT approach addresses this challenge by using an unsupervised learning approach that does not require a training dataset with ground truth, instead using a properly designed loss function to guide the tuning of the neural network parameters to directly learn one load-solution mapping."
+}

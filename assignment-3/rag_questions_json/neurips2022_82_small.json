@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of using Alopex, a stochastic correlative learning algorithm, in the context of the provided research?",
+    "answer": "The main goal of using Alopex is to find optimal temperature and precipitation maps that best predict a given year, and to compare these maps over multiple years to show how temperature and precipitation patterns indicative of each year change over time."
+}

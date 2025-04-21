@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using Discrete Fourier Transforms (DFTs) in Fourier Neural Operators (FNOs) when applied to spherical coordinates?",
+    "answer": "The main limitation of using DFTs in FNOs when applied to spherical coordinates is that they assume periodic boundary conditions, leading to an incorrect identification of the north and south pole as well as incorrect longitudinal periodicity on the two-dimensional sphere S2."
+}

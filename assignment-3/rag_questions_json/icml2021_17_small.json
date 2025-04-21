@@ -1,0 +1,4 @@
+{
+    "question": "How does the self-attentive ensemble transformer architecture address the limitations of traditional neural network approaches to post-processing ensemble data in Earth system modeling?",
+    "answer": "The self-attentive ensemble transformer architecture addresses the limitations of traditional neural network approaches by incorporating a member-by-member post-processing approach that preserves the spatial correlation structure within the ensemble, allowing for the direct output of multivariate and spatially-coherent ensemble members, and enabling the extraction of additional information from the ensemble spread through self-attention and the transformer technique."
+}

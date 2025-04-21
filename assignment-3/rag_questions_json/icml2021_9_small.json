@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges in using pre-existing deep learning models for classifying terrain patterns in images captured by aerial drones, and how does the proposed research address these challenges?",
+    "answer": "The main challenges in using pre-existing deep learning models for classifying terrain patterns in images captured by aerial drones are the lack of suitable datasets for training and the susceptibility of terrain images to climatic and locality-based changes. The proposed research addresses these challenges by providing a novel, finely labelled dataset of forest imagery around beavers' habitat, captured from a high-resolution camera on an aerial drone, and evaluating the performance of state-of-the-art semantic segmentation models on this dataset using metrics such as Intersection Over Union (IoU), Overall Accuracy (OA), and F1 score."
+}

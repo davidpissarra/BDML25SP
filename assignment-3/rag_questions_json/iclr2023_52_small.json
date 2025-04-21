@@ -1,0 +1,4 @@
+{
+    "question": "What is the main criticism of physics-informed approaches in wind turbine power curve modeling, and how do the authors propose to address this issue?",
+    "answer": "The main criticism of physics-informed approaches is that they are often considered 'black boxes', hindering their application in practice. The authors propose addressing this issue by applying Shapley values, a popular explainable artificial intelligence (XAI) method, to uncover the strategies ML models have learned from operational wind turbine data and to provide a more prominent role of XAI methods in model selection."
+}

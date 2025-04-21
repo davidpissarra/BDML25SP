@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of applying a deep learning model to 165 national climate action plans under the Paris Agreement?",
+    "answer": "To build a sentence classifier that can generate policy-relevant metrics over a wide range of documents, which can be used to investigate the relationships between document characteristics and country characteristics such as exposure to climate risks or energy and resource endowments."
+}

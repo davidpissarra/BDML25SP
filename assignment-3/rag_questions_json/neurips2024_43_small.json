@@ -1,0 +1,4 @@
+{
+    "question": "What are the four types of biases that are commonly found in volunteer-collected biodiversity datasets, and how do they affect the performance of deep learning models for biodiversity monitoring?",
+    "answer": "The four types of biases are: 1) spatial bias, which includes observer preferences to sampling easy-to-access greenspaces in urban areas; 2) temporal bias, which includes a skew towards more observations on weekends when observers are free from work; 3) observation quality bias, which manifests as a small but dedicated group of users that tend to observe more species in more diverse habitats; and 4) sociopolitical bias, which includes disparities between observation density due to political as opposed to ecological boundaries. These biases can confound model performance and stymie the uptake of these models for downstream biodiversity monitoring tasks."
+}

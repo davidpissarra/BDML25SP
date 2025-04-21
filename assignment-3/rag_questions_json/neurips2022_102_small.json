@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using simple linear methods for post-processing decadal climate predictions, and why is there a need for novel post-processing methods?",
+    "answer": "The main limitation of using simple linear methods for post-processing decadal climate predictions is that they are insufficient to correct erroneous variability and trends, particularly for climate variables that exhibit strong long-term changes. This highlights the need for novel post-processing methods, such as deep learning-based approaches, to enhance the accuracy of decadal climate predictions and improve adaptation strategies in a warming climate."
+}

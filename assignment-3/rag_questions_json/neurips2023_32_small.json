@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using Generative Adversarial Networks (GANs) in modelling the dependence structure between variables in high-dimensional settings?",
+    "answer": "GANs are well-suited to such a problem due to their ability to implicitly learn the distribution of data in high-dimensional settings, making them a suitable alternative to traditional parametric models that suffer from the curse of dimensionality."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed model in the paper, and how does it differ from previous work on wildﬁre risk modeling?",
+    "answer": "The main contribution of the proposed model is to provide an end-to-end modeling of the wildﬁre risk pipeline with an emphasis on both predictive accuracy and uncertainty for each risk estimate in the pipeline. This differs from previous work, which generally modeled each component of wildﬁre risk separately, and the proposed model accounts for ﬁre location, size, duration, and risk exposure sequentially, allowing uncertainty in each step to be propagated to later steps."
+}

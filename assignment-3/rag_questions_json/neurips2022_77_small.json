@@ -1,0 +1,4 @@
+{
+    "question": "What is the main objective of the proposed Deep-Learning-Corrector-Remapper (DLCR) model in the context of high-resolution weather forecasting?",
+    "answer": "The main objective of the DLCR model is to correct, remap, and fine-tune mesh-gridded forecasts of FCN so that they can be directly compared against observational ground truth, which is sparse and non-uniform in space and time."
+}

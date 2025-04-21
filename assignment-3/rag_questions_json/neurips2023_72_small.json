@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in predicting phenological dates, such as the start and end of the growing season, in deciduous broadleaf forests, and how can hybrid modeling address this challenge?",
+    "answer": "The main challenge in predicting phenological dates is the non-linear, complex, and not fully understood processes that relate meteorological events to these dates. Hybrid modeling, which integrates data-driven approaches into complex models, can address this challenge by replacing some parts of the complex model with data-driven models, allowing for a more accurate prediction of phenological dates."
+}

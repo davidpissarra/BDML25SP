@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed approach to improve crop classification in Jalisco, Mexico, and how does it address the challenges of traditional crop classification methods?",
+    "answer": "The proposed approach involves using a meta-learning method with a dataset comprising similar agro-ecological zones to improve crop classification in Jalisco, Mexico. This approach addresses the challenges of traditional crop classification methods, such as on-the-ground 'field walks' and manual satellite imagery classification, which are error-prone and costly due to the need for human-in-the-loop intervention. The meta-learning method can be deployed at scale more efficiently than traditional methods, making it a promising solution for accurate and timely crop classification."
+}

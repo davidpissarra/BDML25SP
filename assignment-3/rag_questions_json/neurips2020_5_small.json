@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of using the deep deterministic policy gradient (DDPG) algorithm in the FTT:Power model to simulate the behavior of investors in the UK and Ireland electricity markets?",
+    "answer": "To optimize for a low-cost, low-carbon electricity supply and find the optimum electricity generation mix through experience, allowing for a cheap and low-carbon alternative to fossil fuels."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using spatiotemporal Graph Neural Networks (GNNs) for forecasting El Niño-Southern Oscillation (ENSO) compared to traditional convolutional neural networks (CNNs)?",
+    "answer": "The main advantage of using spatiotemporal GNNs for forecasting ENSO is that they can better exploit large-scale, spatiotemporal patterns indicative of ENSO than CNNs, which are based on local convolutions, allowing for more interpretable forecasts and improved predictive skill."
+}

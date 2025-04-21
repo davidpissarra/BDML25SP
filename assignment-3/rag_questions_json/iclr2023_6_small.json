@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of current Earth system model (ESM) output in simulating precipitation extremes, and how does the proposed method address this limitation?",
+    "answer": "The main limitation of current ESM output is that it exhibits significant biases due to its inability to fully resolve complex cross-scale interactions of processes that produce precipitation. The proposed method, based on physically constrained generative adversarial networks (GANs), addresses this limitation by correcting biases in both local frequency distributions and spatial patterns of the ESM output simultaneously."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in the deployment of the VQA system for disaster response, and how is it addressed in the proposed approach?",
+    "answer": "The main challenge is the delay caused by the generation of labels in the assessment of the affected areas. This is addressed by using pre-trained CLIP model embeddings of text and image for supervised training, which surpasses previous state-of-the-art results on the FloodNet dataset."
+}

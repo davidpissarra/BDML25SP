@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using Synthetic Aperture Radar (SAR) for landslide detection, and how does the provided dataset aim to address this limitation?",
+    "answer": "The main limitation of using SAR for landslide detection is the domain knowledge required for pre-processing steps and interpretation, which can be a barrier to its usage. The provided dataset aims to address this limitation by offering simplified, pre-processed, machine-learning ready SAR datacubes for landslide events, making it easier for researchers to use SAR data for landslide detection."
+}

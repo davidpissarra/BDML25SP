@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge that deep learning models face in resolving fine-scale structures of precipitation phenomena and characterizing the extremes of the long-tailed precipitation distribution?",
+    "answer": "The main challenge is that deep learning models struggle to fully resolve the fine-scale structures of precipitation phenomena and adequately characterize the extremes of the long-tailed precipitation distribution."
+}

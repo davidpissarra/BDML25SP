@@ -1,0 +1,4 @@
+{
+    "question": "What is the main concern with using satellite imagery-based machine learning algorithms for forest carbon estimation, especially in tropical reforestation projects?",
+    "answer": "The main concern is that forest carbon estimates from satellite imagery can overestimate above-ground biomass by more than 10-times for tropical reforestation projects, which may lead to systematic overestimation of carbon stocks."
+}

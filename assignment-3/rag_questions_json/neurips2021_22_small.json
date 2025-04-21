@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of the Rothermel model, a widely used fire-spread model, and how has it impacted its application in real-world scenarios?",
+    "answer": "The Rothermel model's empirical, physically-informed approach is limited by its inability to accurately predict fire spread in complex terrains, as noted by Brett Butler, a pupil of Richard Rothermel. This limitation has led to the model being asked to do things it was never meant to do, resulting in reduced accuracy in real-world applications, particularly in areas with non-uniform terrain."
+}

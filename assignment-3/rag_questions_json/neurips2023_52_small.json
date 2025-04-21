@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in solving change detection (CD) using the Segment Anything Model (SAM)?",
+    "answer": "The main challenge in solving CD using SAM is how to model the change detection process, as SAM was originally designed for image segmentation and not specifically for CD."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of SimHarness, a machine learning harness introduced in the paper, in relation to wildland fire scenarios?",
+    "answer": "SimHarness is designed to train Reinforcement Learning (RL) agents within SimFire to identify the optimal mitigation strategies for a given wildfire scenario, thereby suggesting the best course of action to minimize damage."
+}

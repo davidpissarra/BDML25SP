@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of traditional global climate models (GCMs) in simulating climate change, and how do supervised-learned closures and reinforcement learning address this limitation?",
+    "answer": "The main limitation of traditional GCMs is their inability to resolve critical processes such as small-scale eddies in atmospheric and oceanic turbulence due to limited numerical resolutions. Supervised-learned closures, trained on high-fidelity data, and reinforcement learning, which requires only low-order statistics, have been shown to outperform traditional physics-based closures by learning closures for canonical prototypes of atmospheric and oceanic turbulence, leading to stable low-resolution simulations that can reproduce high-fidelity simulations' statistics, including the tails of the probability density functions (PDFs)."
+}

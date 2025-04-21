@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in creating probabilistic forecasts for low-voltage (LV) load at the LV level, and how do the authors address this challenge in their proposed approach?",
+    "answer": "The main challenge in creating probabilistic forecasts for LV load at the LV level is that the time series are multivariate, and the marginal distributions are typically skewed and multi-modal. The authors address this challenge by proposing an approach for flexible conditional density forecasting of short-term load based on Bernstein-Polynomial Normalizing Flows, where a neural network controls the parameters of the flow."
+}

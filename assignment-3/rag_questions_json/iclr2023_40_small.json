@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary focus of the proposed activity prediction framework for the multi-agent recommendation system, and how does it differ from existing literature on recommender systems for load shifting in residential houses?",
+    "answer": "The primary focus of the proposed activity prediction framework is to nudge behavioral changes in residential households by recommending the shifting of domestic activities corresponding to energy-consuming devices, rather than just rescheduling device usage, which is the main focus of existing literature on recommender systems for load shifting."
+}

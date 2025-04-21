@@ -1,0 +1,4 @@
+{
+    "question": "What is a major challenge in using traditional forecasting models for predicting severe wind events in wind turbines, particularly when dealing with high-frequency data?",
+    "answer": "Traditional forecasting models may struggle to accurately capture the rapid fluctuations and short-lived patterns in high-frequency data, resulting in increased forecast errors due to the inherent noise associated with fine temporal resolutions."
+}

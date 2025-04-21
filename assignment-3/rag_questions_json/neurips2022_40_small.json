@@ -1,0 +1,4 @@
+{
+    "question": "Can AutoML techniques currently surpass the performance of human-designed models on high-leverage climate change machine learning (CCML) applications such as climate modeling, wind power forecasting, and catalyst discovery?",
+    "answer": "No, out-of-the-box AutoML libraries currently fail to meaningfully surpass the performance of human-designed CCML models, but addressing the weaknesses of AutoML techniques can lead to the discovery of novel architectures that yield substantial performance gains across numerous CCML applications."
+}

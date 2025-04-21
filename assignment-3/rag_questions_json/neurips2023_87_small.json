@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using Graph Neural Networks (GNNs) in estimating Soil Organic Carbon (SOC) and how do they capture complex relationships between SOC and climate features?",
+    "answer": "The primary advantage of using GNNs in estimating SOC is their ability to model complex interdependencies between SOC and multifaceted climate features, capturing relational information in data and spatial dependencies crucial for geographic data. This is achieved through the use of positional encoders, which allow GNNs to learn both structural and positional representations, providing a comprehensive understanding of elements' composition and spatial distribution."
+}

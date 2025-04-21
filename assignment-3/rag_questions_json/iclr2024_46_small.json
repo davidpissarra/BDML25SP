@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed late fusion model in this work, and how does it differ from previous studies in the field of PV power forecasting?",
+    "answer": "The main goal of the proposed late fusion model is to make 0-8 hour lead time forecasts for grid regions across Great Britain by integrating two different NWP sources alongside satellite images. This model differs from previous studies in that it uses both satellite and multiple NWP input sources within a single network, whereas previous work has either used point-like inputs or spatially resolved inputs from a single source."
+}

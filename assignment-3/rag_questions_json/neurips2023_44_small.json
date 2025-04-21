@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using the Non-hydrostatic Large-Eddy Model (ICON-LEM) for understanding aerosol-cloud-precipitation interactions, and how is it addressed in the proposed approach?",
+    "answer": "The main challenge in using ICON-LEM is its exceptionally high computing cost, which limits its application to a short period and a limited geographical area. This challenge is addressed in the proposed approach by employing a neural network model powered with evidential learning to assess data and model uncertainties, which provides a computationally effective solution and improves the credibility of the model."
+}

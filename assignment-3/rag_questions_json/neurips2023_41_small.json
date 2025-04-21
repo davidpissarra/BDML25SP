@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in predicting microclimate variables at a new, previously unmonitored location, and how does the proposed zero-shot learning approach address this challenge?",
+    "answer": "The primary challenge is the lack of accessible sensor data at the new location. The proposed zero-shot learning approach addresses this challenge by leveraging knowledge extracted from other geographic locations, using transfer learning to make predictions in the new location with limited or no available data."
+}

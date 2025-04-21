@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge for AI-based approaches to long-term fire risk modeling under climate change, and how can it be addressed?",
+    "answer": "The main challenge is that much future fire risk is outside of the available feature space provided by the historical record, which can be addressed by developing models that make monotonic and interpretable predictions in novel fire weather environments, such as the proposed restricted model form in this analysis."
+}

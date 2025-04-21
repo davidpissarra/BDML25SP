@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using climate data for research and decision-making, and how does the Weighted Climate Dataset address this issue?",
+    "answer": "The main challenge is that climate data are often available at high resolutions and gridded formats, while socio-economic data are typically collected annually and associated with administrative units, leading to a data gap. The Weighted Climate Dataset addresses this issue by providing a unified source of data that preprocesses and weights gridded climate data by socio-economic factors, such as population density, night-time light intensity, cropland area, and concurrent population count, to produce region-specific climate variables."
+}

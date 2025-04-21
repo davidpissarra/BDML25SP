@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using a pre-flood image of the scene and a permanent water layer as input channels to the network in the Memory To Map approach for improving flood mapping using Sentinel-1 imagery?",
+    "answer": "The primary advantage is that it provides unfloded context, thereby leveraging change detection when segmenting water, which results in significant improvements over the baseline, particularly in deserts and other areas that are difficult for flood mapping using SAR."
+}

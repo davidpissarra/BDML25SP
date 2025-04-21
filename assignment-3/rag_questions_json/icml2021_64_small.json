@@ -1,0 +1,4 @@
+{
+    "question": "What type of models are most suitable for capturing the complex spatial-temporal correlations between charging stations for electric vehicle charging demand forecasting?",
+    "answer": "Temporal Graph Convolution Models"
+}

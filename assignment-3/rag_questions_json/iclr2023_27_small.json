@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed energy estimation pipeline, and how does it address the limitations of previous research in this field?",
+    "answer": "The main contribution of the proposed energy estimation pipeline is to provide a high-quality data set on the energy consumption of various models and layer types, along with a novel and modular data-collection process that is hardware independent. This addresses the limitations of previous research, such as the work by Cai et al. (2017), which measured energy consumption from a GPU with a fixed clock speed, and the tool by Dehghani et al. (2021), which is more hardware-dependent."
+}

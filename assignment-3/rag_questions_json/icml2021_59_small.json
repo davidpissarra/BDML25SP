@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using traditional statistical techniques for downscaling in climate modeling, and how have researchers addressed this limitation?",
+    "answer": "The main limitation of using traditional statistical techniques for downscaling in climate modeling is that they often fail to accurately capture the complex relationships between variables. Researchers have addressed this limitation by applying modern deep learning architectures, such as convolutional neural networks, autoencoders, generative adversarial networks, multilayer perceptrons, and long short-term memory networks, to learn a transfer function mapping from low-resolution predictors to high-resolution outputs."
+}

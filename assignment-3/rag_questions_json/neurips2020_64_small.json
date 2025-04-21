@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in accurately measuring irrigation extent on a global scale, and how does the proposed research address this challenge?",
+    "answer": "The primary challenge in accurately measuring irrigation extent on a global scale is the need for higher-resolution mapping, as the median crop field size is often less than 1km^2 in many regions. The proposed research addresses this challenge by developing a machine learning model that estimates irrigation at 30m resolution using the latest satellite and climate datasets, allowing for more accurate and precise irrigation data."
+}

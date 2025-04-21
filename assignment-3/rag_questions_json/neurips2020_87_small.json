@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in accurately assessing the impact of tillage practices on a farm, and how can a probabilistic deep learning segmentation approach help address this challenge?",
+    "answer": "The primary challenge is that the impact of tillage practices is far more complicated and depends on numerous factors such as soil composition, moisture levels, topography, and management decisions, making a simple classification of till/no-till insufficient. A probabilistic deep learning segmentation approach can help address this challenge by identifying the degree of residue coverage across a field, enabling a more accurate analysis of carbon holding potential and realization, and providing a fine-grained map of the biomass layer, which can be combined with other models to determine the opportunity for carbon sequestration on a given farm parcel."
+}

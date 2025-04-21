@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge faced by deep learning models when applied to physical systems like the Earth's atmosphere, and how do the authors address this challenge in their work?",
+    "answer": "The main challenge faced by deep learning models when applied to physical systems like the Earth's atmosphere is that the predicted output values can violate physical laws such as conservation of energy, momentum, and moisture. The authors address this challenge by introducing a novel method to strictly enforce physical constraints between low-resolution (input) and high-resolution (output) images using a renormalization layer that can be added as the last layer to any network architecture or successively after each upsampling part."
+}

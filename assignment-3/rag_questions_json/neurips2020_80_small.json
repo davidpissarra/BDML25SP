@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed framework in the context of tropical cyclone (TC) intensity forecasting?",
+    "answer": "The proposed framework provides a powerful tool for monitoring high-dimensional time series of key physically relevant predictors and the means to understand how the predictors relate to one another and to short-term intensity changes, offering something neither end-to-end prediction models nor traditional intensity guidance can provide."
+}

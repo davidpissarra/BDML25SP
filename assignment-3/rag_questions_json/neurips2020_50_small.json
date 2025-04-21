@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary reason why neural networks (NNs) fail to perform well when coupled to an atmospheric model run at 200 km resolution, despite outperforming random forests (RFs) in offline evaluations?",
+    "answer": "The primary reason is that the instability of NNs when coupled to idealized wave dynamics, as demonstrated by formal stability analysis, which can cause the online simulation to crash within a matter of days."
+}

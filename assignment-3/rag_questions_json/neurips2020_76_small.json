@@ -1,0 +1,4 @@
+{
+    "question": "What is the key driver of human climate change perceptions and behaviors that is currently overlooked in most machine learning (ML) research for climate change, and how can it be effectively incorporated into ML approaches to maximize climate change mitigation efforts?",
+    "answer": "The key driver is affect, which refers to the underlying experience of feelings or emotions and can be thought of as an evaluative heuristic that influences information processing. Affective machine learning approaches, such as Bayesian affect control theory (BayesACT), can be used to incorporate affect into ML models, allowing them to interact with humans in a way that maximizes climate change mitigation efforts by taking into account individual social-psychological factors, such as affect, to facilitate behavioral change."
+}

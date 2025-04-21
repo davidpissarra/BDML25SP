@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed precipitation post-processor in the context of numerical weather prediction (NWP) models, and how does it address the challenges of accurately predicting severe precipitation events?",
+    "answer": "The main goal of the proposed precipitation post-processor is to improve the accuracy of precipitation prediction by employing a deep learning-based approach that combines self-supervised pre-training and transfer learning. The pre-training process involves reconstructing masked variables of the atmospheric physics domain, while the transfer learning phase focuses on precipitation segmentation tasks. This approach addresses the challenges of accurately predicting severe precipitation events by leveraging the physical and dynamic mechanisms in the real world, which are often missed by relying solely on observational data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using existing end-to-end approaches to predict soil organic carbon (SOC) content from spectral data, and how does the proposed method address this challenge?",
+    "answer": "The main challenge is that existing end-to-end approaches frequently fail to generalize when applied outside of their ground-truth geographic sampling distributions. The proposed method addresses this challenge by training SOC regression alongside models that reconstruct input spectra, which enables the use of unlabeled data during training and improves model generalization out-of-distribution."
+}

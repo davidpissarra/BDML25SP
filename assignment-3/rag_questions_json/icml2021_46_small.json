@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in accurately estimating carbon storage in trees, and how does the proposed method address this challenge?",
+    "answer": "The main challenge in accurately estimating carbon storage in trees is the lack of readily available information on tree coverage, geometric sizes, and species characteristics, especially for large geographies and environments. The proposed method addresses this challenge by exploiting remote sensing data, specifically aerial imagery, to determine tree coverage, estimate tree geometric shapes and species, and ultimately quantify carbon sequestration in those trees at scale, using machine learning models that can be locally calibrated with LiDAR data."
+}

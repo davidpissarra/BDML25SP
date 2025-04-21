@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the proposed two-stage approach to modeling diagnostic variables in data-driven weather prediction (DDWP) models?",
+    "answer": "The main advantage of the proposed two-stage approach is that it allows new diagnostic variables to be added to an end-to-end DDWP model without the expensive retraining of the entire model, significantly reducing the cost of training and deployment."
+}

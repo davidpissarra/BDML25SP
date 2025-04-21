@@ -1,0 +1,4 @@
+{
+    "question": "What are the three main challenges that need to be addressed to enhance the current data-driven understanding of CO2 emissions from power plants, and how does the proposed work aim to address these challenges?",
+    "answer": "The three main challenges are: (1) the sparsity of satellite observation data, (2) the robustness and generalizability of data-driven approaches when only simulated data are used, and (3) the labeling challenge for supervised learning models due to the lack of timely and fine-grained emission data from power plants. The proposed work aims to address these challenges by employing a machine learning approach to address the sparsity of satellite observation data, creating a novel dataset by merging simulated data with satellite observations, and customizing a U-Net model for learning CO2 concentration-to-flux conversion for power plant emission rates."
+}

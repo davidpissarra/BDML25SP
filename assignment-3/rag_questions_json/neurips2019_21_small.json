@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the DeepClimGAN, a conditional GAN used in the study, and what type of data does it aim to generate?",
+    "answer": "The primary goal of the DeepClimGAN is to represent a joint probability distribution over space, time, and climate variables, enabling the study of correlated extreme events such as floods, droughts, or heatwaves. It aims to generate high-resolution climate data, specifically spatio-temporal forecasts of 7 climate variables (temperature, relative humidity, and precipitation) at a resolution of 4096x4096 pixels, for a 32-day forecast period."
+}

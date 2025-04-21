@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of this paper in the context of multi-decadal wind power forecasting using climate model output, and how does it address the shortcomings of current climate projections?",
+    "answer": "The main contribution of this paper is the development of a turbine-location-aware wind power forecasting approach using Gaussian Processes, which can generate valuable aggregate wind power predictions despite the low resolution of CMIP6 climate models. This approach addresses the shortcomings of current climate projections by including turbine locations, which is shown to be more important than the climate scenario in multi-decadal wind power forecasting."
+}

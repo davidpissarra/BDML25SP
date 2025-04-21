@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using Synthetic Aperture Radar (SAR) data over hyperspectral electro-optical (EO) images for geospatial data collection?",
+    "answer": "SAR data is insusceptible to many of the downsides of EO imaging, such as being blocked by clouds, limited by the day-and-night cycle, and subject to distortion under various weather conditions."
+}

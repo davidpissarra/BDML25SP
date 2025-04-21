@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed cross-modal distillation framework in the context of flood mapping from SAR imagery?",
+    "answer": "The main contribution is the transfer of supervision from a teacher trained on richer modality (multi-spectral images) to a student model trained on SAR imagery, which improves the accuracy of the inundation module in flood warning systems."
+}

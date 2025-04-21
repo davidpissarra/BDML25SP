@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the autoregressive generative diffusion model (DiffObs) presented in the study, and how does it differ from previous global diffusion-based weather forecasting models?",
+    "answer": "The primary goal of the DiffObs model is to predict the global evolution of daily precipitation, trained on a satellite observational product, and assessed with domain-specific diagnostics. It differs from previous models in that it does not incorporate additional priors and instead estimates the next step as the subsequent initial condition, allowing for long-term stability and realistic variability of multiple wave structures."
+}

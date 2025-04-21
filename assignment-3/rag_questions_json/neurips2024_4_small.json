@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in using satellite imagery for solar potential assessment with Google's Solar API, and how does the proposed method address this challenge?",
+    "answer": "The main challenge in using satellite imagery for solar potential assessment with Google's Solar API is the lower resolution and single oblique views of satellite data, which can limit the accuracy of Digital Surface Models (DSMs) and roof segmentation. The proposed method addresses this challenge by training deep learning models on aligned satellite and aerial datasets to produce 25cm DSMs and roof segments, achieving ~1m DSM MAE on buildings, ~5° roof pitch error, and ~56% IOU on roof segmentation."
+}

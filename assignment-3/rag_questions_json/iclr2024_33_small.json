@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of using stationary Gaussian process models for climatic variables such as precipitation, and how does the proposed novel model address this limitation?",
+    "answer": "The main limitation of using stationary Gaussian process models for climatic variables such as precipitation is that they are not suitable for highly non-stationary data, as they tend to either fit the low frequency trends and ignore the high frequency parts or learn globally low lengthscales to fit the high frequency part, leading to poor predictions. The proposed novel model addresses this limitation by introducing a non-stationary GP prior with independent wavelet components, which provides a non-stationary prior and allows for efficient learning and scalability."
+}

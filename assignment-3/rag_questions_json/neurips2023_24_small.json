@@ -1,0 +1,4 @@
+{
+    "question": "Can Reinforcement Learning (RL) be used to control Airborne Wind Energy (AWE) systems in complex environments, such as turbulent flows, without relying on a known mathematical model?",
+    "answer": "Yes, experimental results have proven that RL is a viable method to control AWE systems in complex simulated environments, including turbulent flows, even in the absence of a known model."
+}

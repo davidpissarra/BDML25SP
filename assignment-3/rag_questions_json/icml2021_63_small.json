@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in accurately detecting wildﬁre smoke using geostationary satellite imagery, and how does the proposed method address this challenge?",
+    "answer": "The main challenge is the reliance on manually drawn smoke plume annotations, which are often noisy and limited to the United States. The proposed method uses deep convolutional neural networks to segment smoke plumes from geostationary satellite imagery, providing a more accurate and automated approach to smoke detection and potentially extending analysis beyond the US."
+}

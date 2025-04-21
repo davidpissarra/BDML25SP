@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using climate model emulators, such as Generative Adversarial Networks (GANs), in climate modeling, especially when dealing with extreme events?",
+    "answer": "Climate model emulators, like GANs, can rapidly generate numerous realizations at a vastly reduced computational expense compared to large ensembles of climate models, greatly aiding in estimating the statistics of extreme events."
+}

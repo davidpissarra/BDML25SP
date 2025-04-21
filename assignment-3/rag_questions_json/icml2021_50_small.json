@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed sea ice forecasting system, and what type of deep learning model is used to achieve this goal?",
+    "answer": "The primary goal of the proposed sea ice forecasting system is to work on deep learning based forecasting models that can utilize multi-temporal data to forecast daily, weekly and monthly sea-ice extent with comparatively high accuracy. The proposed system uses an Attention-based Ensemble Long Short-Term Memory (LSTM) networks to achieve this goal."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What are the two key innovations proposed in the Mamba MethaneMapper (MMM) to improve methane detection capabilities in hyperspectral images while managing costs?",
+    "answer": "The two key innovations proposed in the Mamba MethaneMapper (MMM) are: 1) a GPU-aware state-space encoder that optimizes computational resources and efficiency, and 2) an environment-sensitive module that prioritizes image regions likely containing methane emissions, which are then analyzed by the efficient Mamba algorithm."
+}

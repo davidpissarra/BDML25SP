@@ -1,0 +1,4 @@
+{
+    "question": "What is the main contribution of the proposed deep learning framework in the study, and how does it differ from previous studies on wildﬁre occurrence prediction?",
+    "answer": "The main contribution of the proposed deep learning framework is its ability to predict wildﬁre occurrence with an accuracy of above 90% by exploiting topological pattern information from 17,579 landscapes, which is a novel approach that differs from previous studies that have focused on one-dimensional numerical or categorical variables such as weather, danger indices, physiography, land-cover, or socioeconomic variables."
+}

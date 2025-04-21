@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary innovation of the SeaCast model in ocean forecasting, and how does it address the challenges of ocean grid geometry and atmospheric forcing?",
+    "answer": "The primary innovation of the SeaCast model is its use of a graph-based framework to effectively handle the complex geometry of ocean grids and integrate external forcing data tailored to the regional ocean context. This approach addresses the challenges of ocean grid geometry by adapting the graph creation, training, and evaluation processes to accommodate the irregular geometry of ocean grids, and it addresses the challenge of atmospheric forcing by integrating relevant atmospheric forcing near the sea surface and applying boundary forcing to account for water in- and outflow."
+}

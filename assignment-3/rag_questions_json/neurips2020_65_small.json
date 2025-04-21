@@ -1,0 +1,4 @@
+{
+    "question": "Can the energy usage behavior of players in an energy social game be effectively segmented into a relatively small number of clusters, allowing for tailored incentives to be designed for each cluster, and if so, what method can be used to perform this segmentation?",
+    "answer": "Yes, the energy usage behavior of players in an energy social game can be effectively segmented into a relatively small number of clusters, and the proposed method uses a graphical lasso algorithm to perform this segmentation, which is an explainable approach that studies the feature correlations in a real-world energy social game dataset."
+}

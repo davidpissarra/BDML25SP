@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in applying traditional recurrent neural network (RNN) models to climate data nowcasting, and how does the proposed Neural ODE-based model address this challenge?",
+    "answer": "The main challenge in applying traditional RNN models to climate data nowcasting is that they inherently assume regular time steps between adjacent time steps, which does not often hold with climate data due to intermittent measurements and missing observations. The proposed Neural ODE-based model addresses this challenge by parameterizing the derivative of the hidden state using a neural network, allowing it to handle input and output with irregular time steps and making it computationally more efficient."
+}

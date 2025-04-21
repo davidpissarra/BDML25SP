@@ -1,0 +1,4 @@
+{
+    "question": "How do graph-based Neural Weather Prediction (NeurWP) models, such as GraphCast, adapt to the limited area setting, and what is the proposed extension to address this challenge?",
+    "answer": "Graph-based NeurWP models, such as GraphCast, can be adapted to the limited area setting by designing the associated graphs appropriately, allowing for a general model formulation to be applied to regions of different shape or alignment with global coordinate systems. A proposed extension to address this challenge is a multi-scale hierarchical model, which shares ideas with existing hierarchical Graph Neural Networks (GNNs) but is specifically designed for the weather forecasting task."
+}

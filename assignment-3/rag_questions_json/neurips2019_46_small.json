@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in collecting scientifically rich datasets of dynamic emission events, and how can it be addressed?",
+    "answer": "The primary challenge is that collecting scientifically rich datasets of dynamic emission events requires adaptive, online planning under uncertainty and sophisticated learned representations of physical phenomena, posing challenges for even state-of-the-art machine learning and planning paradigms. This can be addressed by uniting classical scientific computing and machine learning techniques to create novel models of environmental gas emissions that can be used in combination with decision-making and navigation under uncertainty."
+}

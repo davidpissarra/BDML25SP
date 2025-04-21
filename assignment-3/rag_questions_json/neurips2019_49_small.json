@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary objective of the IA4SG research initiative, and how does it aim to achieve energy savings in buildings?",
+    "answer": "The primary objective of the IA4SG research initiative is to create technologies supporting the smart energy control of the future building ecosystem. It aims to achieve energy savings in buildings by developing new Deep Learning and Reinforcement Learning methods, algorithms, and tools that can optimize control instructions for Heating, Ventilation, and Air Conditioning (HV AC) systems while guaranteeing occupant comfort, and by enabling autonomous self-adaptive agents to learn how to operate HV AC equipment more efficiently and collaborate with other actors in the grid."
+}

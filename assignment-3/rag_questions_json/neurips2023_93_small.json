@@ -1,0 +1,4 @@
+{
+    "question": "How does the proposed Reinforcement Learning (RL) approach in the paper optimize crop breeding programs, and what are its main contributions?",
+    "answer": "The proposed RL approach optimizes crop breeding programs by framing the breeding process as a sequential decision-making problem, where RL agents are trained to make optimal crop selection and cross-breeding decisions based on genetic information. The main contributions of the paper are: (1) modeling a breeding program as a Markov Decision Process (MDP) to leverage RL techniques, (2) presenting a package of RL environments that simulate breeding programs with different sets of actions and observations, and (3) demonstrating the effectiveness of the approach in selecting plants based on a learned score, which outperforms standard genomic selection based on estimated traits."
+}

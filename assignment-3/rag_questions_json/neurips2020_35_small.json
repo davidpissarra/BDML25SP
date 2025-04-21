@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using the WaveNet model over the LSTM network in river level forecasting, and how does it improve the forecasting process?",
+    "answer": "The main advantage of using the WaveNet model is its ability to capture short-term, non-linear dependencies between input data, allowing it to outperform conditional LSTM models in river level prediction. Additionally, the WaveNet model offers a faster computation time, stable results, and more possibilities for fine-tuning, making it a more efficient and effective tool for river level forecasting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed automated workflow in the context of materials discovery for the chemical industry and transportation?",
+    "answer": "The primary goal of the proposed automated workflow is to accelerate the materials discovery pipeline by introducing automated error handling, physics-informed machine learning surrogates, and automated experiments 'in the loop' to reduce computational cost and time, ultimately enabling the design of novel materials and systems for large-scale electriﬁcation."
+}

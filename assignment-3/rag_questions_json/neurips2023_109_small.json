@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of using Numerical Weather Prediction (NWP) models for marine fog nowcasting, particularly for time scales less than 6 hours?",
+    "answer": "The primary limitation of using NWP models for marine fog nowcasting is the large uncertainties due to limited knowledge on nucleation processes and microphysical schemes, which affects the accuracy of predictions for time scales less than 6 hours."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the authors' automated damage suggestion system for wind turbine blades, and how does it differ from traditional machine learning approaches?",
+    "answer": "The primary goal of the authors' automated damage suggestion system is to help analysts increase accuracy and productivity by suggesting potential damages on wind turbine blades, with a focus on achieving high damage recall and not slowing down the annotation process. This differs from traditional machine learning approaches, which often focus on optimizing metrics such as IoU on a fixed test dataset, whereas the authors prioritize iteratively optimizing the model's usage and user experience."
+}

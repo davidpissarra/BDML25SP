@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the proposed multitask learning approach in estimating GHG emissions from fossil fuel power plants?",
+    "answer": "The primary goal is to predict power generation rates for fossil fuel power plants from satellite images, which can then be used to estimate CO2 emission rates, thereby enabling more accurate climate predictions and enforcement of emission trading schemes."
+}

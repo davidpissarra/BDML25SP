@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges in applying similarity search to raw satellite imagery for climate change and natural disaster research?",
+    "answer": "The main challenges include: (1) the data is unlabelled, preventing attempts to train conventional supervised models, (2) pre-trained ImageNet models fail to transfer representations and generalize to this data, especially for larger areas without sharp edges, (3) climate phenomena can have vastly different physical sizes, and (4) vast data imbalances and engineering challenges due to the sheer scale of the data."
+}

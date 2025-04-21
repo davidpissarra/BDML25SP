@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using diffusion models, such as DiffESM, in emulating the behavior of Earth System Models (ESMs)?",
+    "answer": "The main advantage of using diffusion models, such as DiffESM, is that they can effectively emulate the spatio-temporal trends of ESMs under previously unseen climate scenarios, while requiring a small fraction of the computational resources compared to traditional ESMs."
+}

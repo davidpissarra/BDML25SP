@@ -1,0 +1,4 @@
+{
+    "question": "What is the key guiding principle behind the proposed approach for efficient sampling in a large survey space with few regions of high information (hotspots)?",
+    "answer": "The key guiding principle is that sampling rates far below the Nyquist rate can still be information preserving, which is the basis for active and non-uniform sampling."
+}

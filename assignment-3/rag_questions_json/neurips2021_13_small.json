@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of training neural networks to predict silicate and phosphate values in the Southern Ocean from temperature, pressure, salinity, oxygen, nitrate, and location, and how does this contribute to climate monitoring?",
+    "answer": "The primary goal is to broaden the applicability of Biogeochemical-Argo (BGC-Argo) floats by developing models that accurately predict additional features, such as nutrient ratios, from limited sensor data, allowing for better monitoring and understanding of changes to the Earth's climate."
+}

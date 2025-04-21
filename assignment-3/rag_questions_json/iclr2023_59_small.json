@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of current neural network downscaling models in climate simulations, and how does the proposed Fourier neural operator downscaling model address this limitation?",
+    "answer": "The main limitation of current neural network downscaling models is that they can only downscale input samples with a pre-defined upsampling factor, whereas the proposed Fourier neural operator downscaling model can downscale input samples to arbitrary unseen high resolutions with training only once on data of a small upsampling factor."
+}

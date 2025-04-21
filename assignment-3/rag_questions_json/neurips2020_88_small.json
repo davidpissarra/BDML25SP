@@ -1,0 +1,4 @@
+{
+    "question": "What are the challenges in automating climate change information extraction from text sources, and how does the proposed CLIMA TEXT dataset address these challenges?",
+    "answer": "The challenges in automating climate change information extraction from text sources include the complexity, fast-moving nature, and ambiguity of the topic, as well as the scarcity of resources for popular text-based AI tasks. The CLIMA TEXT dataset is proposed to address these challenges by providing a dataset for sentence-based climate change topic detection, which can be used to identify the climate change topic in various text sources, and can potentially improve upon existing keyword-based models and context-based algorithms like BERT."
+}

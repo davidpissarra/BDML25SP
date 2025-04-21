@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the CLEAR approach proposed in the study, and how does it address the limitations of previous data-driven approaches in building energy efficiency assessment?",
+    "answer": "The primary goal of the CLEAR approach is to provide explainability and improve the reliability of assessment data in building energy efficiency assessment. It addresses the limitations of previous data-driven approaches by employing self-supervised contrastive learning, which eliminates the need for assessment labels in training and leverages potential existing data corruption to facilitate the randomized feature corruption process, thereby enhancing the model's generalizability and resulting in better representations of buildings."
+}

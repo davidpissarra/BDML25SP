@@ -1,0 +1,4 @@
+{
+    "question": "What are the main challenges associated with using the traditional linearized version of the Optimal Power Flow (OPF) problem, known as DC Optimal Power Flow (DCOPF), in managing power grids?",
+    "answer": "DCOPF presents a number of issues, including the likelihood of instability and grid failure due to deviations from true grid conditions, and significant implications for climate change, including potential billions of dollars in inefficiencies and unnecessary emissions."
+}

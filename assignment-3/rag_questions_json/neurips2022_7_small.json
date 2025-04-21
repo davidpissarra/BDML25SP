@@ -1,0 +1,4 @@
+{
+    "question": "What is the main motivation behind introducing a separation scheme to the scattering transform in the proposed network architecture?",
+    "answer": "The main motivation is to allow for interpretable-by-design and generalizable models that can handle small datasets, as well as to align the architecture with the visual interpretations of satellite imagery done by forecasters."
+}

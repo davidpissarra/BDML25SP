@@ -1,0 +1,4 @@
+{
+    "question": "What is a major challenge in creating video prediction models for wildfires that account for the inherent uncertainty of the future?",
+    "answer": "The bulk of published attempts are based on stochastic image-autoregressive recurrent networks, which raise various performance and application difficulties such as computational cost and limited efficiency on massive datasets."
+}

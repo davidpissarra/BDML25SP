@@ -1,0 +1,4 @@
+{
+    "question": "Can a neural network-based wave predictor model replace simulated waves in a Reinforcement Learning (RL) controller for Wave Energy Converters (WECs) without compromising the gain in energy capture achieved by the RL controller in simulations?",
+    "answer": "Yes, our work shows that using a neural network-based wave predictor model can maintain the gain in energy capture achieved by the RL controller in simulations, even when replacing simulated waves with real-time wave predictions."
+}

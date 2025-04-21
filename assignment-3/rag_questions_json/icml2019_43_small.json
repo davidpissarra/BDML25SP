@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed approach in landslide modeling and disaster relief, and how does it aim to achieve this goal?",
+    "answer": "The main goal of the proposed approach is to predict potential landslide occurrences in the future by studying the underlying changes and patterns in affected landslide locations. It aims to achieve this goal by leveraging data from various locations, identifying the probable causes and effects of landslides, and using conditional generative adversarial networks (cGANs) to model what an area would look like under certain conditions, such as the impact of deforestation, mining, or other human activities."
+}

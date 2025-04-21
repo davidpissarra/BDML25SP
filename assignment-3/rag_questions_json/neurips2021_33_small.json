@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in developing machine learning models for early detection of harmful algal blooms, and how can a unified phytoplankton image database address this challenge?",
+    "answer": "The primary challenge is the lack of a unified, high-quality, and representative phytoplankton image database that can support the training of reliable machine learning models. A unified phytoplankton image database can address this challenge by providing a comprehensive and standardized collection of images that can be used to train AI models, enabling early detection of harmful algal blooms and contributing to climate resilience and adaptation efforts."
+}

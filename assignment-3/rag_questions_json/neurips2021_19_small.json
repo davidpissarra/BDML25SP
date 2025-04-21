@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of the MS-nowcasting model over traditional forecasting methods based on numerical weather prediction (NWP) models?",
+    "answer": "The MS-nowcasting model outperforms traditional NWP models by 20-25% on multiple metrics averaged over all lead times due to its ability to ingest a large spatial input receptive field and condition the model's forecaster with predictions from the physics-based High Resolution Rapid Refresh (HRRR) model."
+}

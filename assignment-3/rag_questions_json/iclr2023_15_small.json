@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the study that leverages machine learning techniques to predict bicycle count measurements in Berlin, using data from free-floating bike-sharing systems, weather, vacation, infrastructure, and socioeconomic indicators?",
+    "answer": "The primary goal of the study is to ultimately predict traffic volume on all streets beyond those with counters and to understand the variance in feature importance across time and space."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main limitation of Project Sunroof's coverage, and how does the proposed deep learning approach address this limitation?",
+    "answer": "The main limitation of Project Sunroof's coverage is the lack of high-resolution digital surface map (DSM) data. The proposed deep learning approach enhances widely available low-resolution data, thereby dramatically increasing the coverage of Sunroof."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using current climate simulations for renewable energy assessments, and how do machine learning-based approaches address this issue?",
+    "answer": "The primary challenge is that current climate simulations are unable to resolve the spatial characteristics necessary for accurate future local energy assessments due to their high computational cost and insufficient accuracy. Machine learning-based approaches, such as super-resolution techniques, offer a computationally efficient method of generating high-resolution data needed to predict the effect climate has on power generation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of the proposed hybrid model, DeepNWP, in addressing the limitations of numerical weather prediction (NWP) models?",
+    "answer": "The main goal of the proposed hybrid model, DeepNWP, is to improve the skill of NWP models by reducing the large biases in precipitation predictions, particularly at short-range time scales, by combining the strengths of NWP and state-of-the-art deep learning algorithms."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary advantage of using the TabPFN model in vineyard disease management, and how does it compare to traditional gradient-boosted decision trees?",
+    "answer": "The primary advantage of using the TabPFN model in vineyard disease management is its ability to process complex data and provide per-pixel disease-affecting probabilities, enabling precise and targeted interventions. The TabPFN model's performance is comparable to traditional gradient-boosted decision trees, such as XGBoost, CatBoost, and LightGBM, but it can make predictions in less than a second without hyperparameter tuning, making it a competitive and efficient solution."
+}

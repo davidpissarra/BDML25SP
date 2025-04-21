@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in using traditional vision approaches for marine applications, and how does the proposed approach address this challenge?",
+    "answer": "The primary challenge in using traditional vision approaches for marine applications is their poor generalization and inability to handle rare or unseen species. The proposed approach, leveraging bottom-up, open-domain learning frameworks, addresses this challenge by enabling the integration of external knowledge during inference, allowing for accurate identification of unseen species and enhancing generalization across diverse environments."
+}

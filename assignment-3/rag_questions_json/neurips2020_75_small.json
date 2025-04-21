@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of the machine learning approach presented in this work, and how does it aim to support ecological monitoring of glaciers?",
+    "answer": "The primary goal of the machine learning approach is to support ecological monitoring of glaciers by utilizing semi-automated mapping from satellite images to identify and outline both clean ice and debris-covered glaciers. The approach aims to accelerate the glacier mapping process by utilizing readily available remote sensing data and releasing data and a web tool that allows experts to visualize and correct model predictions."
+}

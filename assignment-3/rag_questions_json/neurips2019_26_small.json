@@ -1,0 +1,4 @@
+{
+    "question": "How can we optimize the deployment of a limited number of sensors (minisondes) from a weather balloon to maximize the information gained for stratospheric weather modeling, given the trade-off between sensing requirements and the number of available minisondes?",
+    "answer": "We can use machine learning to model the deviation of a forecast from actual stratospheric conditions as a Gaussian process and implement a decision-making mechanism that balances the trade-off between sensing requirements and the number of minisondes available, thereby characterizing the value-of-deployment (VOD) of each minisonde."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in applying object detection models to remotely sensed data in geographies that are different from the training data, especially when objects are rare?",
+    "answer": "The main challenge is that deep learning models do not generalize well to imagery from new geographic locations due to visual variability caused by atmospheric conditions, sensor characteristics, regional flora, and differences in the built environment, which can cause the model to generalize unpredictably and often very poorly."
+}

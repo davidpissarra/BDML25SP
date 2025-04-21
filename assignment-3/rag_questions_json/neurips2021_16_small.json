@@ -1,0 +1,4 @@
+{
+    "question": "What is the main advantage of using group equivariant convolutional networks in classifying deforestation drivers and generating segmentation maps from Landsat 8 satellite images?",
+    "answer": "The main advantage of using group equivariant convolutional networks is that it offers a 9% improvement in classification accuracy and a 7% improvement in segmentation map accuracy, and it also predicts stable segmentation maps under rotation of the input image, ensuring that predicted regions of deforestation are not dependent upon the rotational orientation of the satellite."
+}

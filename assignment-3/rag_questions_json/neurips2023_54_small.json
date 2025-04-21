@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in tuning climate models, and how does History Matching address this challenge?",
+    "answer": "The primary challenge in tuning climate models lies in the tuning of both fast and slow climatic features, which have different timescales (hourly to weekly for atmospheric processes and decadal to millennial for vegetation or ocean dynamics). History Matching, a technique that uses machine learning-based emulators, addresses this challenge by accelerating and automating the tuning process, allowing for the exploration of parameters' space and reducing the computational cost associated with traditional tuning techniques."
+}

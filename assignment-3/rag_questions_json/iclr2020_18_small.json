@@ -1,0 +1,4 @@
+{
+    "question": "What are the two key areas where machine learning is proposed to provide new insights into waterpoint management and decision-support in the eMaji Manager platform?",
+    "answer": "The two key areas where machine learning is proposed to provide new insights into waterpoint management and decision-support in the eMaji Manager platform are: (1) the use of discriminatory sub-sequence mining of waterpoint data to detect recurrent behaviors or unknown trends on deployed waterpoint sensors, and (2) waterpoint failure prediction using long short-term memory (LSTM) recurrent neural networks."
+}

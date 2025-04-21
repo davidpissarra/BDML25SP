@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in modeling building thermal dynamics using physics-based models, and how does the proposed approach address this challenge?",
+    "answer": "The main challenge in modeling building thermal dynamics using physics-based models is that it involves solving difficult non-convex optimization problems and requires expertise and development time. The proposed approach addresses this challenge by training physics-constrained recurrent neural dynamics models that can learn the building thermal dynamics in an end-to-end fashion with physically coherent generalization from small datasets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main finding of the study regarding the performance of recent Large Language Models (LLMs) in assessing the confidence levels associated with climate science statements, and what implications does this have for climate communication and LLM evaluation strategies?",
+    "answer": "The study finds that recent LLMs can classify human expert confidence in climate-related statements with limited accuracy (up to 47%), and consistently overstate the certainty level associated with low and medium confidence labeled statements. This has significant implications for climate communication, as LLMs are poised to become increasingly significant sources of public information, and for LLM evaluation strategies, as it highlights the need for further work in this area to develop models that accurately convey climate knowledge and avoid misinformation."
+}

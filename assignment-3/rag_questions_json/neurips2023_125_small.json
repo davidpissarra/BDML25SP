@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary goal of applying the Crystal Hamiltonian Graph Neural Network (CHGNet) on the OC20 dataset, and how will its performance be evaluated?",
+    "answer": "The primary goal of applying CHGNet on the OC20 dataset is to iteratively perform structure-to-energy and forces calculations and identify the lowest energy across relaxed structures for a given adsorbate-surface combination. CHGNet's performance will be evaluated by comparing its predictions to corresponding values calculated by density functional theory (DFT) and other models, assessing the mean absolute error (MAE) in calculating the adsorption energy, and evaluating the forces error via comparison with DFT outputs."
+}

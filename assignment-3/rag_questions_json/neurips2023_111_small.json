@@ -1,0 +1,4 @@
+{
+    "question": "Can machine learning (ML) be used to discover new polymers optimized for carbon capture, and if so, how does it help in addressing the trade-off between CO2 permeability and selectivity in membrane-based separation methods?",
+    "answer": "Yes, machine learning can be used to discover new polymers optimized for carbon capture. By training an ensemble multi-task ML model on experimental data, it is possible to predict a polymer's permeability for CO2, N2, and O2, as well as its CO2/N2 and CO2/O2 selectivity. This allows for the design of new polymers using a reinforcement learning (RL) based search algorithm, which can evaluate their performance with respect to the Robeson upper bounds. This approach can help address the trade-off between CO2 permeability and selectivity in membrane-based separation methods by identifying new polymer membranes that are promising for both CO2/N2 and CO2/O2 separations."
+}

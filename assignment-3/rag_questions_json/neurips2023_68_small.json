@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed solution, CityTFT, designed to address the limitations of existing urban building energy modeling (UBEM) methods in simulating energy demands in urban environments?",
+    "answer": "CityTFT is a data-driven UBEM framework that utilizes the Temporal Fusion Transformer (TFT) framework with an augmented loss function to accurately model energy demands in urban environments, particularly in unseen climate dynamics, with an F1 score of 99.98% and RMSE of loads of 13.57 kWh."
+}

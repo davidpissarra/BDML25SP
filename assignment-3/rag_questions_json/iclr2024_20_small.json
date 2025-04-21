@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary limitation of current General Circulation Model (GCM) forecasts of Aerosol Optical Depth (AOD) and how is it addressed in this study?",
+    "answer": "The primary limitation of current GCM forecasts of AOD is their limited spatial resolution, which makes it difficult to accurately represent the substantial variability exhibited by AOD at the local scale. This study addresses this limitation by evaluating a deep residual convolutional neural network (ResNet) for the GCM to local scale downscaling of low-resolution global AOD retrievals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge in developing species distribution models (SDMs) when using large citizen science-based datasets, and how can it be addressed?",
+    "answer": "The main challenge is the strong class imbalance between species within these datasets, often resulting in the penalization of rare species. This can be addressed by using a balanced presence-only loss function, which has been shown to outperform traditional loss functions in accurately modeling rare species with limited observations."
+}

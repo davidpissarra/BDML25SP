@@ -1,0 +1,4 @@
+{
+    "question": "What are the key advantages of using reinforcement learning (RL) in climate modelling, particularly in comparison to traditional machine learning (ML) models?",
+    "answer": "RL offers three key advantages in climate modelling: continuous incremental learning, learning sparse rewards, and handling sparse or delayed feedback, which are particularly beneficial for improving model parameterisations in the climate context."
+}

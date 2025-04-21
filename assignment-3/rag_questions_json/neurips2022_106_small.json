@@ -1,0 +1,4 @@
+{
+    "question": "What is the proposed approach for classifying droughts using the given dataset, and how does it help in identifying the severity and duration of droughts?",
+    "answer": "The proposed approach involves extracting features by considering the atmosphere and land moisture and energy budgets, and then using a deep learning model to predict global droughts on a seasonal and annual scale at 1, 3, 6, 9, 12, and 24 months lead times. The Standardised Precipitation Index (SPI) is used to identify the severity and duration of droughts, allowing for classification as meteorological, agricultural, or hydrological droughts."
+}

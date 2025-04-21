@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in automating the process of finding environmental impact factors (EIFs) for products, and how does the proposed algorithm, Flamingo, address this challenge?",
+    "answer": "The primary challenge in automating the process of finding EIFs for products is that EIF databases are incomplete, and many products do not have an EIF because either no LCA study exists or the published LCAs have not been ingested into the database. Flamingo, a novel zero-shot ML algorithm, addresses this challenge by introducing an intermediate classification layer in semantic search to identify when an EIF is missing, and improves the performance of EIF matches by classifying the input query text to a standard industry code and using semantic text matching to identify the closest EIFs within the industry code."
+}
